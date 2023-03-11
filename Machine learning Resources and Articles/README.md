@@ -1,10 +1,17 @@
 
+# Stanford Course(Standford CS231n 2017 Summary)
+https://github.com/mbadry1/CS231n-2017-Summary
+
+
 # Deeplearning.ai Course 
 
 https://github.com/mbadry1/DeepLearning.ai-Summary
 
 https://github.com/mbadry1/DeepLearning.ai-Summary/tree/master/1-%20Neural%20Networks%20and%20Deep%20Learning
 
+##  Trending-Deep-Learning
+https://github.com/mbadry1/Trending-Deep-Learning
+https://github.com/mbadry1/Top-Deep-Learning
 
 ## Data science process
 https://resources.experfy.com/bigdata-cloud/the-data-science-process/
