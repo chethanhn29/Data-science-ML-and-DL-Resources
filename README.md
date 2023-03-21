@@ -4,27 +4,27 @@ To learn ML,DL resources
 
 
 
-# Stanford Course(Standford CS231n 2017 Summary)
+### Stanford Course(Standford CS231n 2017 Summary)
 https://github.com/mbadry1/CS231n-2017-Summary
 
 
-# Deeplearning.ai Course 
+### Deeplearning.ai Course 
 
 https://github.com/mbadry1/DeepLearning.ai-Summary
 
 https://github.com/mbadry1/DeepLearning.ai-Summary/tree/master/1-%20Neural%20Networks%20and%20Deep%20Learning
 
-##  Trending-Deep-Learning
+###  Trending-Deep-Learning
 https://github.com/mbadry1/Trending-Deep-Learning
 https://github.com/mbadry1/Top-Deep-Learning
 
-## Data science process
+### Data science process
 https://resources.experfy.com/bigdata-cloud/the-data-science-process/
 
-## How to build a regression-model
+### How to build a regression-model
 https://resources.experfy.com/bigdata-cloud/how-to-build-a-regression-model-in-python/
 
-## How to build a model
+### How to build a model
 https://resources.experfy.com/ai-ml/how-to-build-a-machine-learning-model/
 
 https://copyassignment.com/8-steps-to-build-a-machine-learning-model/
