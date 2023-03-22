@@ -35,10 +35,8 @@ https://madewithml.com/courses/foundations/convolutional-neural-networks/
 ### Computer Vision projects
 https://github.com/AnshuTrivedi/Computer-Vision-nanodegree-projects ##In this repository all the three projects completed in computer vision nano degree are available.Projects are Facial keypoint detection, Image captioning, Landmark Detection & Robot Tracking (SLAM).
 
-
 ####  Notebooks 
 https://github.com/dair-ai/Mathematics-for-ML
-
 
 
 ## CS231n: Deep Learning for Computer Vision(Stanford - Spring 2022) CNN notes
@@ -59,18 +57,5 @@ https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-
 
 ### All algorithms implementd on Python
 https://github.com/TheAlgorithms/Python
-
-
-# Chatgpt-prompts
-
-![download (4)](https://user-images.githubusercontent.com/110838853/226790067-ee246d94-d5ab-4736-83a3-5ccaab274096.png)
-
-#### Awesome Chatgpt-prompts for different Scenarios   
-https://github.com/f/awesome-chatgpt-prompts   ##This repo includes ChatGPT prompt curation to use ChatGPT better.
-
-####  Notebooks 
-https://github.com/dair-ai/Mathematics-for-ML
-
-
 
 
