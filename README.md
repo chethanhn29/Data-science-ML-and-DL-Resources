@@ -1,7 +1,16 @@
 # Data-science-ML-and-DL-Resources
 To learn ML,DL resources
-## Machine learning
 
+## Python
+
+### Python Code Tutorials For all 
+https://github.com/ashishpatel26/pythoncode-tutorials ### here We can Find python code for different kind of Projects for CNN,NLP,web Programming and ML
+
+
+
+## Machine learning
+#### Andrew NG Notes on ML
+https://github.com/ashishpatel26/Andrew-NG-Notes
 
 
 ### Stanford Course(Standford CS231n 2017 Summary)
@@ -13,6 +22,13 @@ https://github.com/mbadry1/CS231n-2017-Summary
 https://github.com/mbadry1/DeepLearning.ai-Summary
 
 https://github.com/mbadry1/DeepLearning.ai-Summary/tree/master/1-%20Neural%20Networks%20and%20Deep%20Learning
+
+
+https://github.com/Avik-Jain/DeepLearning.ai-Summary/tree/master/1-%20Neural%20Networks%20and%20Deep%20Learning
+
+#### Andrew NG Notes on ML
+https://github.com/ashishpatel26/Andrew-NG-Notes
+
 
 ###  Trending-Deep-Learning
 https://github.com/mbadry1/Trending-Deep-Learning
@@ -31,6 +47,8 @@ https://copyassignment.com/8-steps-to-build-a-machine-learning-model/
 
 ## CNN
 https://copyassignment.com/flower-classification-using-cnn/
+### **Must Read Github Repository for CNN**
+https://github.com/Avik-Jain/DeepLearning.ai-Summary/tree/master/4-%20Convolutional%20Neural%20Networks 
 
 ## Neural network
 One min to have a general idea about Neural Network, which is a technique that could achieve many different aims, facial recognition, predicting, music composition, etc.
@@ -49,9 +67,18 @@ Backpropagation means if the NN gives us a result that is not good enough, we go
 
 ## Deep learning
 
-Practical Deep learning for Coders from fast.ai-
+#### Practical Deep learning for Coders from fast.ai-
 
 https://course.fast.ai/Lessons/lesson1.html
+
+
+#### Full Stack Deep learning
+https://fall2019.fullstackdeeplearning.com/course-content/setting-up-machine-learning-projects/metrics
+
+
+#### Deep learning Book
+https://github.com/janishar/mit-deep-learning-book-pdf
+
 
 
 
@@ -82,7 +109,14 @@ https://www.geeksforgeeks.org/machine-learning/
 
 
 
-## Python
+
+## other Resources 
+
+### 500 Projects of Deep learning and CNN and NLP 
+https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+
+### All algorithms implementd on Python
+https://github.com/TheAlgorithms/Python
 
 
 
@@ -93,6 +127,10 @@ https://www.geeksforgeeks.org/machine-learning/
 
 
 ## NLP
+
+
+## Transformers
+https://github.com/ashishpatel26/Treasure-of-Transformers ## This Repository Contains all blogs and videos and links related to Transformers
 
 ## Linux
 
