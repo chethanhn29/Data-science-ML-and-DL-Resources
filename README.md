@@ -19,7 +19,7 @@ https://github.com/ashishpatel26/AI-For-Beginners
 
 #### Artificial Intelligence Resources 
 https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide  ##Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.
-![AI_VennDiagram2022-1024x576](https://user-images.githubusercontent.com/110838853/226782105-ffe9e748-f9ab-4d57-a98a-59a408055a85.png)
+
 
 ![AUG-2022_AI-Learning-fig1](https://user-images.githubusercontent.com/110838853/226782113-03fc1525-fb6d-47ce-9cda-4c534f12a27b.jpg)
 
@@ -57,6 +57,7 @@ https://www.geeksforgeeks.org/machine-learning/
 
 ## Deep learning
 
+![images (1)](https://user-images.githubusercontent.com/110838853/226782379-6c9a6531-efdc-46b9-b7fd-a14c2cc12ba0.png)
 
 ### Deeplearning.ai Course 
 
@@ -113,6 +114,7 @@ https://copyassignment.com/8-steps-to-build-a-machine-learning-model/
 
 ## Neural network
 
+![1_3fA77_mLNiJTSgZFhYnU0Q](https://user-images.githubusercontent.com/110838853/226782532-c79583a7-fe4e-4af8-92be-6c19dc261db4.png)
 
 One min to have a general idea about Neural Network, which is a technique that could achieve many different aims, facial recognition, predicting, music composition, etc.
 
@@ -151,6 +153,15 @@ https://github.com/dair-ai/Mathematics-for-ML
 
 
 ## Computer Vision and CNN
+Computer vision is a field of artificial intelligence that focuses on enabling machines to interpret and understand visual data from the world around us, such as images and videos. It involves developing algorithms and techniques that allow computers to analyze, process, and understand digital images and videos in a way that is similar to how humans perceive and interpret visual information.
+
+Convolutional neural networks (CNNs) are a type of deep learning algorithm that are commonly used in computer vision tasks such as image recognition, object detection, and image segmentation. CNNs are inspired by the structure of the human visual system and are designed to automatically learn hierarchical representations of visual data.
+
+CNNs are made up of multiple layers, including convolutional layers, pooling layers, and fully connected layers. The convolutional layers use filters to convolve over the input image, detecting features such as edges, textures, and shapes. The pooling layers then reduce the spatial size of the output feature maps, making the network more efficient and allowing it to focus on the most important features. The fully connected layers then take the output from the convolutional and pooling layers and use it to make a final classification or prediction.
+
+CNNs have been shown to achieve state-of-the-art performance on a wide range of computer vision tasks and are widely used in industry and academia for image and video analysis.
+
+
 
 #### Computer vision Use cases
 https://github.com/ashishpatel26/Computer-Vision-Industry-Use-Cases ## useful for the interview preparation and knowledge of CNN
@@ -221,6 +232,8 @@ https://github.com/f/awesome-chatgpt-prompts
 
 ## NLP
 
+![pnlp_0101](https://user-images.githubusercontent.com/110838853/226782983-768b069e-52ed-4442-8909-d9553ab8b61a.png)
+
 #### NLP Course Notes and Videos
 https://github.com/ashishpatel26/ML-Course-Notes
 
@@ -237,6 +250,15 @@ https://github.com/dair-ai/Mathematics-for-ML
 
 
 ## Transformers
+Transformers are a type of machine learning architecture used primarily for natural language processing tasks such as language translation, sentiment analysis, and text classification. The Transformer architecture was first introduced in a 2017 paper called "Attention is All You Need" by Vaswani et al.
+
+Traditionally, recurrent neural networks (RNNs) have been used for sequence-to-sequence tasks, but Transformers have gained popularity due to their ability to handle long-range dependencies in sequences more efficiently.
+
+Transformers rely on self-attention mechanisms to determine which parts of a sequence are most relevant to each other. Self-attention allows the model to weigh the importance of different words or tokens in a sequence when generating an output.
+
+Transformers have been used with great success in various natural language processing tasks and have even been applied to other domains such as image and audio processing. The pre-trained transformer models such as BERT, GPT-3, and T5 have achieved state-of-the-art results on a wide range of natural language processing benchmarks.
+![Transformer-apps](https://user-images.githubusercontent.com/110838853/226783432-63a3ebfc-2789-47f9-bc1f-4dbb11f30a1e.jpg)
+
 
 #### Study Guide to learn Transformers
 https://github.com/dair-ai/Transformers-Recipe
@@ -249,6 +271,9 @@ https://github.com/ashishpatel26/ML-Course-Notes
 
 ### Explanation to key concepts in Tranformers papers
 https://github.com/dair-ai/ML-Papers-Explained
+
+#### Medium Article for The Resources of Transformers
+https://medium.com/nlplanet/two-minutes-nlp-20-learning-resources-for-transformers-1bbff88b7524
 
 
 ####  Notebooks 
