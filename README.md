@@ -27,6 +27,9 @@ https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo
 
 
 # Artificial Intelligence 
+
+![AI](https://user-images.githubusercontent.com/110838853/226786219-d42789f0-49d8-4656-83bf-83e7e7b72b01.jpeg)
+
 Artificial intelligence (AI) is a broad field of computer science and engineering that focuses on developing intelligent machines that can perform tasks that typically require human intelligence, such as perception, reasoning, learning, and problem-solving.
 
 AI systems are designed to learn from and adapt to their environment, enabling them to improve their performance over time. These systems can be classified into several categories based on their level of intelligence:
@@ -41,8 +44,8 @@ Self-aware machines: These AI systems have a sense of self and consciousness, al
 
 AI has many practical applications, including natural language processing, image and speech recognition, predictive analytics, and robotics. It is a rapidly advancing field, with new techniques and applications being developed every day.
 
+![AUG-2022_AI-Learning-fig1](https://user-images.githubusercontent.com/110838853/226782113-03fc1525-fb6d-47ce-9cda-4c534f12a27b.jpg)
 
-![AI](https://user-images.githubusercontent.com/110838853/226786219-d42789f0-49d8-4656-83bf-83e7e7b72b01.jpeg)
 
 #### Artificial Intelligence for Beginners - A Curriculum 
 https://github.com/ashishpatel26/AI-For-Beginners
@@ -51,13 +54,17 @@ https://github.com/ashishpatel26/AI-For-Beginners
 https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide  ##Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.
 
 
-![AUG-2022_AI-Learning-fig1](https://user-images.githubusercontent.com/110838853/226782113-03fc1525-fb6d-47ce-9cda-4c534f12a27b.jpg)
 
 # Mathematics for ML
+![97735WhatsApp Image 2021-05-31 at 8 41 44 PM](https://user-images.githubusercontent.com/110838853/226798432-bab7f034-3ebd-4654-a45c-60e77d512cbc.jpeg)
+
 #### A collection of resources to learn mathematics for machine learning
 https://github.com/dair-ai/Mathematics-for-ML
 
 # Machine learning
+
+![ml-e1610553826718](https://user-images.githubusercontent.com/110838853/226786032-2162bb7b-0903-4ed1-b468-97c257bc51ce.jpg)
+
 Machine learning (ML) is a subfield of artificial intelligence (AI) that involves training algorithms to automatically learn patterns from data, without being explicitly programmed.
 
 In machine learning, algorithms are designed to learn from data, identify patterns, and make predictions or decisions based on that data. The algorithms are trained using a variety of techniques such as supervised, unsupervised, and reinforcement learning.
@@ -70,7 +77,6 @@ Reinforcement learning involves training an agent to make decisions in an enviro
 
 Machine learning has many practical applications, including natural language processing, image and speech recognition, predictive analytics, and recommendation systems. It has become an essential tool for many businesses and organizations seeking to make data-driven decisions and automate complex tasks
 
-![ml-e1610553826718](https://user-images.githubusercontent.com/110838853/226786032-2162bb7b-0903-4ed1-b468-97c257bc51ce.jpg)
 
 
 #### Andrew NG Notes on ML
@@ -101,6 +107,9 @@ https://www.geeksforgeeks.org/machine-learning/
 
 
 # Deep learning
+
+![ezgif-3-091b9a24fd](https://user-images.githubusercontent.com/110838853/226787169-b81940d2-399b-4038-ae19-9bf3ad530bbe.jpg)
+
 Deep learning is a subfield of machine learning that is based on artificial neural networks with many layers. These networks are designed to learn complex representations of data through the use of multiple layers of interconnected nodes, each of which performs a simple computation.
 
 In deep learning, the algorithm learns to extract features from raw data, such as images, sounds, and text, without the need for human feature engineering. This is achieved by stacking multiple layers of non-linear processing units, also known as neurons, to form a neural network that can automatically learn the features and relationships between them.
@@ -110,7 +119,6 @@ Deep learning models have shown impressive results in a variety of applications,
 One of the key advantages of deep learning is its ability to learn from large amounts of data, making it particularly effective in applications where large datasets are available. Additionally, deep learning models can automatically learn to extract features from raw data, eliminating the need for manual feature engineering, which can be a time-consuming and error-prone process.
 
 Overall, deep learning has become an essential tool in many areas of research and industry, enabling breakthroughs in fields such as computer vision, natural language processing, and robotics.
-![ezgif-3-091b9a24fd](https://user-images.githubusercontent.com/110838853/226787169-b81940d2-399b-4038-ae19-9bf3ad530bbe.jpg)
 
 
 ### Deeplearning.ai Course 
@@ -188,6 +196,9 @@ Backpropagation means if the NN gives us a result that is not good enough, we go
 https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
 
 # Tensorflow
+
+![model](https://user-images.githubusercontent.com/110838853/226787695-e9a735a2-c3f0-4e71-bf69-a270b8f5efa1.png)
+
 TensorFlow is an open-source software library for dataflow and differentiable programming across a range of tasks. It was developed by the Google Brain team and released in 2015.
 
 TensorFlow is designed to enable efficient numerical computation using data flow graphs. In a data flow graph, nodes represent mathematical operations, while edges represent the data that flows between them. This allows complex mathematical computations to be expressed in a simple, intuitive way, making it easier to develop and train machine learning models.
@@ -206,7 +217,6 @@ TensorFlow Lite: A lightweight version of TensorFlow designed for mobile and emb
 
 Overall, TensorFlow has become a widely used tool in the machine learning community, enabling researchers and developers to build and deploy state-of-the-art machine learning models for a wide range of applications.
 
-![model](https://user-images.githubusercontent.com/110838853/226787695-e9a735a2-c3f0-4e71-bf69-a270b8f5efa1.png)
 
 #### Learning Tensorflow Step by Step:: Concepts, Examples & Applications
 https://github.com/suvoooo/Learn-TensorFlow
@@ -219,6 +229,7 @@ https://learn.aifee.co/p/introduction-to-tensorflow-2-for-computer-vision?ck_sub
 https://github.com/tensorflow/models/tree/master/research  ##Models and examples built with TensorFlow
 
 # Pytorch
+![01_a_pytorch_workflow](https://user-images.githubusercontent.com/110838853/226788275-89bb2940-b100-42cd-a1a8-eba849aee218.png)
 
 PyTorch is an open-source machine learning framework that was developed by Facebook AI Research (FAIR) and released in 2016. It is built on top of the Python programming language and is designed to provide a flexible and easy-to-use platform for building and training machine learning models.
 
@@ -235,7 +246,6 @@ TorchText: A library for natural language processing tasks, such as text classif
 PyTorch Lightning: A lightweight wrapper for PyTorch that simplifies the process of building and training complex models.
 
 Overall, PyTorch has become a popular tool in the machine learning community due to its flexibility, ease of use, and strong community support. It has been used to build state-of-the-art models in a variety of fields, including computer vision, natural language processing, and reinforcement learning.
-![01_a_pytorch_workflow](https://user-images.githubusercontent.com/110838853/226788275-89bb2940-b100-42cd-a1a8-eba849aee218.png)
 
 
 #### A collection of PyTorch notebooks for learning and practicing deep learning
@@ -246,6 +256,9 @@ https://github.com/dair-ai/Mathematics-for-ML
 
 
 # Computer Vision and CNN
+
+![89175cnn_banner](https://user-images.githubusercontent.com/110838853/226784233-75acbbcd-7162-4a02-a2da-6b113d293c5a.png)
+
 Computer vision is a field of artificial intelligence that focuses on enabling machines to interpret and understand visual data from the world around us, such as images and videos. It involves developing algorithms and techniques that allow computers to analyze, process, and understand digital images and videos in a way that is similar to how humans perceive and interpret visual information.
 
 Convolutional neural networks (CNNs) are a type of deep learning algorithm that are commonly used in computer vision tasks such as image recognition, object detection, and image segmentation. CNNs are inspired by the structure of the human visual system and are designed to automatically learn hierarchical representations of visual data.
@@ -254,7 +267,6 @@ CNNs are made up of multiple layers, including convolutional layers, pooling lay
 
 CNNs have been shown to achieve state-of-the-art performance on a wide range of computer vision tasks and are widely used in industry and academia for image and video analysis.
 
-![89175cnn_banner](https://user-images.githubusercontent.com/110838853/226784233-75acbbcd-7162-4a02-a2da-6b113d293c5a.png)
 
 
 #### Computer vision Use cases
@@ -272,6 +284,8 @@ https://madewithml.com/courses/foundations/convolutional-neural-networks/
 
 # YOLO
 
+![ezgif-3-fba2e64257](https://user-images.githubusercontent.com/110838853/226788844-c8ea00fd-85f3-4a4a-8fe5-7b47c078a27a.jpg)
+
 YOLO (You Only Look Once) is an object detection algorithm used in computer vision. It was first introduced in a paper by Joseph Redmon et al. in 2016. YOLO is designed to be fast and efficient, capable of processing images in real-time on a standard desktop GPU.
 
 The YOLO algorithm works by dividing an input image into a grid of cells, and for each cell, predicting a set of bounding boxes and associated class probabilities. Each bounding box consists of four coordinates (x, y, width, height), which define the location and size of an object within the image. The class probabilities indicate the likelihood that the object within the bounding box belongs to a particular class, such as person, car, or bicycle.
@@ -282,7 +296,6 @@ Since its initial release, several variants of YOLO have been developed, includi
 
 Overall, YOLO has become a popular algorithm in the computer vision community due to its speed and accuracy, and has been used in a wide range of applications, including autonomous vehicles, security systems, and robotics.
 
-![ezgif-3-fba2e64257](https://user-images.githubusercontent.com/110838853/226788844-c8ea00fd-85f3-4a4a-8fe5-7b47c078a27a.jpg)
 
 #### YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
 https://github.com/AlexeyAB/darknet
@@ -291,7 +304,7 @@ https://github.com/AlexeyAB/darknet
 https://github.com/ultralytics/yolov5
 
 
-### Resourcs for CNN,ML,NLP
+### Resources for CNN,ML,NLP
 https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022   ###This repository offers a goldmine of materials for  computer vision, natural language processing, and machine learning operations.
 
 ####  Notebooks 
@@ -303,6 +316,8 @@ https://github.com/dair-ai/ML-Papers-Explained
 
 #  Object Detection
 
+![Detected-with-YOLO--Schreibtisch-mit-Objekten](https://user-images.githubusercontent.com/110838853/226789288-7c81f8c1-b0a0-4a93-96a4-3f2ed8e3911e.jpg)
+
 Object detection is a computer vision technique used to locate and identify objects within an image or video. It involves identifying the presence of objects in an image or video and their corresponding class labels, as well as the precise location of each object within the image or video.
 
 Object detection can be divided into two main stages:
@@ -312,7 +327,6 @@ Object Localization: The first stage involves finding the location of objects wi
 Object Classification: The second stage involves identifying the class label of each object within the bounding box. This is typically done by using a machine learning algorithm that has been trained on a dataset of labeled images or videos.
 
 Object detection has many applications, including self-driving cars, surveillance systems, and robotics. It can also be used for tasks such as counting the number of people in a crowd or detecting anomalies in medical images. Object detection algorithms typically involve complex machine learning models, such as convolutional neural networks (CNNs), and are computationally intensive. However, recent advancements in hardware and software have made it possible to perform object detection in real-time on standard computing devices.
-![Detected-with-YOLO--Schreibtisch-mit-Objekten](https://user-images.githubusercontent.com/110838853/226789288-7c81f8c1-b0a0-4a93-96a4-3f2ed8e3911e.jpg)
 
 
 #### Collection of papers and other resources for object tracking and detection using deep learning
@@ -354,6 +368,7 @@ https://github.com/TheAlgorithms/Python
 # Chatgpt-prompts
 
 ![download (4)](https://user-images.githubusercontent.com/110838853/226790067-ee246d94-d5ab-4736-83a3-5ccaab274096.png)
+
 #### Awesome Chatgpt-prompts for different Scenarios
 https://github.com/f/awesome-chatgpt-prompts
 
@@ -362,6 +377,8 @@ https://github.com/f/awesome-chatgpt-prompts
 
 
 # NLP
+
+![pnlp_0101](https://user-images.githubusercontent.com/110838853/226782983-768b069e-52ed-4442-8909-d9553ab8b61a.png)
 
 NLP stands for natural language processing, which is a branch of artificial intelligence that focuses on the interaction between computers and human language. It involves the development of algorithms and models that enable computers to understand, interpret, and generate human language.
 
@@ -379,7 +396,6 @@ Question answering: The process of answering natural language questions posed by
 
 NLP involves a range of techniques, including statistical models, rule-based models, and deep learning models such as recurrent neural networks (RNNs) and transformers. These models are trained on large datasets of annotated text to learn the patterns and structures of language, and are used to perform a wide range of tasks in natural language processing.
 
-![pnlp_0101](https://user-images.githubusercontent.com/110838853/226782983-768b069e-52ed-4442-8909-d9553ab8b61a.png)
 
 #### NLP Course Notes and Videos
 https://github.com/ashishpatel26/ML-Course-Notes
@@ -397,6 +413,9 @@ https://github.com/dair-ai/Mathematics-for-ML
 
 
 # Transformers
+
+![Transformer-apps](https://user-images.githubusercontent.com/110838853/226783432-63a3ebfc-2789-47f9-bc1f-4dbb11f30a1e.jpg)
+
 Transformers are a type of machine learning architecture used primarily for natural language processing tasks such as language translation, sentiment analysis, and text classification. The Transformer architecture was first introduced in a 2017 paper called "Attention is All You Need" by Vaswani et al.
 
 Traditionally, recurrent neural networks (RNNs) have been used for sequence-to-sequence tasks, but Transformers have gained popularity due to their ability to handle long-range dependencies in sequences more efficiently.
@@ -404,7 +423,6 @@ Traditionally, recurrent neural networks (RNNs) have been used for sequence-to-s
 Transformers rely on self-attention mechanisms to determine which parts of a sequence are most relevant to each other. Self-attention allows the model to weigh the importance of different words or tokens in a sequence when generating an output.
 
 Transformers have been used with great success in various natural language processing tasks and have even been applied to other domains such as image and audio processing. The pre-trained transformer models such as BERT, GPT-3, and T5 have achieved state-of-the-art results on a wide range of natural language processing benchmarks.
-![Transformer-apps](https://user-images.githubusercontent.com/110838853/226783432-63a3ebfc-2789-47f9-bc1f-4dbb11f30a1e.jpg)
 
 
 #### Study Guide to learn Transformers
@@ -438,6 +456,9 @@ https://www.analyticsvidhya.com/blog/2021/04/how-to-make-an-impressive-data-scie
 
 
 # GAN
+
+![BP3_fig1-1024x390](https://user-images.githubusercontent.com/110838853/226784902-30e81abf-06d9-444f-adf2-096eeb8c3e4f.jpg)
+
 GAN stands for Generative Adversarial Networks, which is a type of deep learning model used in unsupervised machine learning tasks such as image generation, video generation, and text generation. GANs were first introduced by Ian Goodfellow in 2014.
 
 A GAN consists of two neural networks: a generator and a discriminator. The generator takes random noise as input and produces an output, such as an image or a piece of text. The discriminator takes as input the output from the generator, as well as real samples from the training data, and tries to distinguish between the real and fake samples.
@@ -447,13 +468,15 @@ During training, the generator and discriminator are trained in a adversarial wa
 GANs have been used for a wide range of applications, such as image synthesis, image editing, and data augmentation. They have shown remarkable performance in generating realistic images, and have been used to create images of faces, animals, and even furniture. GANs have also been used for other types of generative tasks, such as generating music, video, and speech.
 
 
-![BP3_fig1-1024x390](https://user-images.githubusercontent.com/110838853/226784902-30e81abf-06d9-444f-adf2-096eeb8c3e4f.jpg)
 
 
 ####  Notebooks 
 https://github.com/dair-ai/Mathematics-for-ML
 
 # Graph Neural Networks (GNNs)
+
+![GNN-03-scaled](https://user-images.githubusercontent.com/110838853/226785402-cec303e4-f1e2-414d-b2d6-41e1e086f749.jpg)
+
 GNN stands for Graph Neural Network, which is a type of machine learning model designed to operate on graphs and other network data structures.
 
 In a graph, nodes are connected by edges that represent relationships or connections between them. GNNs are designed to learn from and operate on these graph structures, allowing them to model complex relationships and dependencies between nodes.
@@ -463,12 +486,14 @@ GNNs work by propagating information through the graph structure, updating each 
 GNNs have been used in a variety of applications, such as social network analysis, recommendation systems, and drug discovery. They have been shown to be particularly effective in tasks where the relationships between data points are crucial for accurate predictions, such as in protein structure prediction and traffic prediction.
 
 Some popular GNN architectures include Graph Convolutional Networks (GCNs), Graph Attention Networks (GATs), and GraphSAGE.
-![GNN-03-scaled](https://user-images.githubusercontent.com/110838853/226785402-cec303e4-f1e2-414d-b2d6-41e1e086f749.jpg)
 
 #### A study guide to learn about Graph Neural Networks (GNNs)
 https://github.com/dair-ai/GNNs-Recipe  
 
 # Linux
+
+![s2-1](https://user-images.githubusercontent.com/110838853/226791459-fd4a02e2-b12d-4bcf-b53b-57e59dfea9b4.jpg)
+
 Linux is a free and open-source operating system that is widely used in the computer industry. It was first created by Linus Torvalds in 1991 as a variant of the Unix operating system and has since become a popular choice for servers, desktop computers, and other computing devices.
 
 One of the main advantages of Linux is its open-source nature, which allows users to access and modify the source code of the operating system. This has led to the development of a large and active community of developers who contribute to the development and improvement of Linux. As a result, Linux has become a highly customizable and flexible operating system, with a wide range of distributions (or "distros") available to suit different needs and preferences.
@@ -476,7 +501,6 @@ One of the main advantages of Linux is its open-source nature, which allows user
 Linux is also known for its stability, security, and reliability. It is less vulnerable to malware and other security threats than other operating systems, and its modular architecture allows for easy customization and configuration.
 
 Linux is used in a wide range of applications, including web servers, cloud computing, scientific research, and embedded systems. Many popular software applications, including the Apache web server, MySQL database, and the Python programming language, are also available for use on Linux.
-![s2-1](https://user-images.githubusercontent.com/110838853/226791459-fd4a02e2-b12d-4bcf-b53b-57e59dfea9b4.jpg)
 
 # Data Analysis and Analytics
 Data analysis is the process of inspecting, cleaning, transforming, and modeling data in order to extract useful information and insights from it. The goal of data analysis is to uncover patterns, relationships, and trends in the data, and to use this information to make informed decisions.
@@ -510,6 +534,9 @@ Overall, data analysis can be seen as a more general term that includes a wide r
 
 
 # SQL
+
+![Sql_data_base_with_logo](https://user-images.githubusercontent.com/110838853/226792362-025b53c5-f0d3-440a-aa28-4e57e2d98c1c.png)
+
 SQL (Structured Query Language) is a programming language used for managing and manipulating data stored in relational databases. It is a standard language used by database management systems (DBMS) such as MySQL, Oracle, Microsoft SQL Server, PostgreSQL, and SQLite.
 
 SQL allows users to perform a variety of tasks such as creating and modifying tables, inserting and updating data, selecting and filtering data, and joining multiple tables.
@@ -517,19 +544,23 @@ SQL allows users to perform a variety of tasks such as creating and modifying ta
 SQL is used by data analysts, database administrators, software developers, and other professionals who work with databases. It is an important skill for anyone working with data, as it provides a powerful tool for managing and querying large datasets.
 
 
-![Sql_data_base_with_logo](https://user-images.githubusercontent.com/110838853/226792362-025b53c5-f0d3-440a-aa28-4e57e2d98c1c.png)
 
 
 # Tableau
+
+![Tableau-Logo-for-website](https://user-images.githubusercontent.com/110838853/226792975-d68d81db-4061-4f58-85cb-4832e3126dcb.jpg)
+
 Tableau is a data visualization and business intelligence software that helps people see and understand their data. It provides a suite of tools for creating interactive dashboards, reports, and visualizations, allowing users to explore data and uncover insights in real-time.
 
 With Tableau, users can connect to a variety of data sources including spreadsheets, databases, and cloud services. They can then drag and drop fields onto a canvas to create charts, graphs, and other visualizations. Tableau's visualization capabilities are highly customizable, with options for color palettes, formatting, and interactivity.
 
 Tableau also offers a range of advanced analytics features, such as statistical modeling and forecasting, spatial analysis, and data blending. It supports collaboration and sharing through its cloud-based platform, allowing users to share their analyses and visualizations with others in their organization.
-![Tableau-Logo-for-website](https://user-images.githubusercontent.com/110838853/226792975-d68d81db-4061-4f58-85cb-4832e3126dcb.jpg)
 
 
 # Flask
+
+![Flask_logo svg](https://user-images.githubusercontent.com/110838853/226795908-34d691f1-dc11-4c19-a504-6ad353bcfd36.png)
+
 Flask is a web application framework for Python that allows developers to build web applications quickly and easily. It is a lightweight and flexible framework that provides a simple yet powerful way to create web applications.
 
 Flask provides a range of features and tools that make it easy to build web applications, including a built-in development server, support for URL routing, and a templating engine for creating HTML pages. It also supports extensions, which provide additional functionality for tasks such as form handling, authentication, and database integration.
@@ -538,7 +569,6 @@ One of the key features of Flask is its flexibility. It allows developers to cho
 
 Flask is often used for building small to medium-sized web applications, such as blogs, e-commerce sites, and data visualizations. It is widely used in the Python community and has a large ecosystem of extensions and plugins available.
 
-![Flask_logo svg](https://user-images.githubusercontent.com/110838853/226795908-34d691f1-dc11-4c19-a504-6ad353bcfd36.png)
 
 # Machine learning and Deep learning Model deployment using API Resources
 
