@@ -60,3 +60,8 @@ https://github.com/dair-ai/Mathematics-for-ML
 https://www.geeksforgeeks.org/machine-learning/
 
 
+### All algorithms implementd on Python
+https://github.com/TheAlgorithms/Python
+
+### 500 Projects of Deep learning and CNN and NLP 
+https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code ##500 AI Machine learning Deep learning Computer vision NLP Projects with code
