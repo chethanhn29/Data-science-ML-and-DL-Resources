@@ -1,5 +1,4 @@
-act as a data scientist coach and prepare me for machine learning interview from basics to advanced ,first list down all the topics i have to learn in machine learning then explain each topic with example in such a way that i should understand the concept properly and maths behind it
-Sure, I can help you prepare for your machine learning interview. Here's a list of topics that you should learn in machine learning:
+ Here's a list of topics that you should learn in machine learning:
 
 Probability and statistics
 Linear algebra
@@ -77,9 +76,7 @@ Ensemble learning involves combining multiple machine learning models to improve
 ## Deep learning: 
 Deep learning is a subset of machine learning that involves using artificial neural networks to model complex patterns in data. Feedforward neural networks are the most basic type of neural network, and involve stacking multiple layers of neurons together. Convolutional neural networks are a type of neural network that are particularly effective for image and video analysis, and involve applying convolutional filters to the input data. Recurrent neural networks are a type of neural network that are particularly effective for sequence data, and involve feeding the output of each time step back into the network at the next time step.
 
-chethu hn
-act as a data scientist coach tell me what i need to know in Probability and statistics for machine learning and explain each topic with examples and also give me the all of the related topics about this 
-Probability and statistics are essential for understanding machine learning algorithms and evaluating their performance. Here are some of the key topics you should know:
+
 
 ## Probability basics: 
 Probability is the measure of the likelihood of an event occurring. It ranges from 0 to 1, with 0 indicating that an event is impossible and 1 indicating that an event is certain. Some of the key concepts in probability include conditional probability, independence, and Bayes' rule.
