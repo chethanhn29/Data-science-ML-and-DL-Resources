@@ -2,8 +2,8 @@
 
 
 # Python
+![1_m0H6-tUbW6grMlezlb52yw](https://user-images.githubusercontent.com/110838853/226801494-9b9886b8-cd0d-4fc0-897a-d083a12b08f2.png)
 
-![Python-Symbol](https://user-images.githubusercontent.com/110838853/226786519-b758e13b-0a29-4d72-8189-2fd84bfd7d2c.png)
 
 ### Python-Roadmap 
 https://github.com/ashishpatel26/Python-Roadmap
