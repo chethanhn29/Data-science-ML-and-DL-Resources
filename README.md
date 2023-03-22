@@ -1,3 +1,6 @@
+ #### Collection of free Notes,Courses,Videos,Projects,Articles and Repos Links To learn Machine learning ,Deep  learning,Python,SQL,CNN,NLP,GAN,GNN,Transfomers,Flask,Django,and End to End Machine learning Projects
+
+
 # Python
 
 ![Python-Symbol](https://user-images.githubusercontent.com/110838853/226786519-b758e13b-0a29-4d72-8189-2fd84bfd7d2c.png)
@@ -8,7 +11,10 @@ https://github.com/ashishpatel26/Python-Roadmap
 ### Python Code Tutorials For all 
 https://github.com/ashishpatel26/pythoncode-tutorials ### here We can Find python code for different kind of Projects for CNN,NLP,web Programming and ML
 
-##  Data science and Machine learning
+#  Data science and Machine learning
+
+![Data_Science_vs _Machine_Learning](https://user-images.githubusercontent.com/110838853/226796558-4cc9a0ba-c4aa-496d-9dba-60e70e671b5d.png)
+
 #### Data science Roadmap for ML,DL,NLP,python,CNN,MLops
 https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack
 
