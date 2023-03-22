@@ -8,11 +8,20 @@ https://github.com/ashishpatel26/Python-Roadmap
 ### Python Code Tutorials For all 
 https://github.com/ashishpatel26/pythoncode-tutorials ### here We can Find python code for different kind of Projects for CNN,NLP,web Programming and ML
 
+##  Data science
+#### Data science Roadmap for ML,DL,NLP,python,CNN,MLops
+https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack
+
 ## Artificial Intelligence 
 
 #### Artificial Intelligence for Beginners - A Curriculum 
 https://github.com/ashishpatel26/AI-For-Beginners
 
+#### Artificial Intelligence Resources 
+https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide  ##Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.
+![AI_VennDiagram2022-1024x576](https://user-images.githubusercontent.com/110838853/226782105-ffe9e748-f9ab-4d57-a98a-59a408055a85.png)
+
+![AUG-2022_AI-Learning-fig1](https://user-images.githubusercontent.com/110838853/226782113-03fc1525-fb6d-47ce-9cda-4c534f12a27b.jpg)
 
 ## Mathematics for ML
 #### A collection of resources to learn mathematics for machine learning
@@ -33,8 +42,17 @@ https://github.com/dair-ai/ML-YouTube-Courses
 ### Stanford Course(Standford CS231n 2017 Summary)
 https://github.com/mbadry1/CS231n-2017-Summary
 
+#### Data-Science-Tutorial-By-Lambda-School
+https://github.com/ashishpatel26/Data-Science-Tutorial-By-Lambda-School
+
+#### Explanation to key concepts in ML
+https://github.com/dair-ai/ML-Papers-Explained
+
 ### ML Notebooks 
 https://github.com/dair-ai/Mathematics-for-ML
+
+#### Machine Learning Interview Preparation
+https://www.geeksforgeeks.org/machine-learning/
 
 
 ## Deep learning
@@ -94,6 +112,8 @@ https://copyassignment.com/8-steps-to-build-a-machine-learning-model/
 
 
 ## Neural network
+
+
 One min to have a general idea about Neural Network, which is a technique that could achieve many different aims, facial recognition, predicting, music composition, etc.
 
 NN contains virtual ‘neurons’ that are arranged in layers that are connected to each other. The neurons pass on the information and thereby perform calculations.
@@ -108,16 +128,19 @@ Backpropagation means if the NN gives us a result that is not good enough, we go
 ![1645940317303](https://user-images.githubusercontent.com/110838853/224456961-62efe7a4-e1af-4002-89e2-0de91f987538.gif)
 
 
-
-
+#### Tools to Design or Visualize Architecture of Neural Network
+https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
 
 ## Tensorflow
+#### Learning Tensorflow Step by Step:: Concepts, Examples & Applications
+https://github.com/suvoooo/Learn-TensorFlow
 
-Introduction to Tensorflow 2 for Computer Vision by AIFEE -
 
-
+#### Introduction to Tensorflow 2 for Computer Vision by AIFEE -
 https://learn.aifee.co/p/introduction-to-tensorflow-2-for-computer-vision?ck_subscriber_id=2076754537&utm_source=convertkit&utm_medium=email&utm_campaign=Welcome+to+AIFEE+Newsletter%21%20-%204653438
 
+#### Tensorflow Models
+https://github.com/tensorflow/models/tree/master/research  ##Models and examples built with TensorFlow
 
 ## Pytorch
 #### A collection of PyTorch notebooks for learning and practicing deep learning
@@ -142,21 +165,35 @@ https://github.com/Avik-Jain/DeepLearning.ai-Summary/tree/master/4-%20Convolutio
 
 https://madewithml.com/courses/foundations/convolutional-neural-networks/
 
+## YOLO
+
+#### YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
+https://github.com/AlexeyAB/darknet
+
+#### YOLOv5 🚀 in PyTorch 
+https://github.com/ultralytics/yolov5
+
+
 ### Resourcs for CNN,ML,NLP
 https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022   ###This repository offers a goldmine of materials for  computer vision, natural language processing, and machine learning operations.
 
 ####  Notebooks 
 https://github.com/dair-ai/Mathematics-for-ML
 
-
+### Explanation to key concepts in CNN
+https://github.com/dair-ai/ML-Papers-Explained
 
 
 ##  Object Detection
-https://github.com/ashishpatel26/Deep-Learning-for-Tracking-and-Detection ##Collection of papers and other resources for object tracking and detection using deep learning
 
-## Machine Learning Interview Preparation
+#### Collection of papers and other resources for object tracking and detection using deep learning
+https://github.com/ashishpatel26/Deep-Learning-for-Tracking-and-Detection 
 
-https://www.geeksforgeeks.org/machine-learning/
+
+
+## Large Language Model(LLM)
+#### CheatSheet-LLM
+https://github.com/Abonia1/CheatSheet-LLM
 
 ## Data Analysics
 
@@ -166,15 +203,17 @@ https://www.geeksforgeeks.org/machine-learning/
 
 
 
-## other Resources 
+## other Resources To Help with Projects and Understanding Key Concepts
 
 ### 500 Projects of Deep learning and CNN and NLP 
-https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code ##500 AI Machine learning Deep learning Computer vision NLP Projects with code
 
 ### All algorithms implementd on Python
 https://github.com/TheAlgorithms/Python
 
 
+## chatgpt-prompts
+https://github.com/f/awesome-chatgpt-prompts
 
 ## Tableau
 
@@ -208,8 +247,17 @@ https://github.com/ashishpatel26/Treasure-of-Transformers ## Awesome Treasure of
 #### Transformers Course Notes and Videos
 https://github.com/ashishpatel26/ML-Course-Notes
 
+### Explanation to key concepts in Tranformers papers
+https://github.com/dair-ai/ML-Papers-Explained
+
+
 ####  Notebooks 
 https://github.com/dair-ai/Mathematics-for-ML
+
+## Portfolio
+#### A curated list of awesome GitHub Profile READMEs
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
+
 
 ## GAN
 ####  Notebooks 
