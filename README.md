@@ -342,7 +342,7 @@ https://github.com/Abonia1/CheatSheet-LLM
 
 
 
-## other Resources To Help with Projects and Understanding Key Concepts
+# other Resources To Help with Projects and Understanding Key Concepts
 
 ### 500 Projects of Deep learning and CNN and NLP 
 https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code ##500 AI Machine learning Deep learning Computer vision NLP Projects with code
@@ -384,7 +384,7 @@ NLP involves a range of techniques, including statistical models, rule-based mod
 #### NLP Course Notes and Videos
 https://github.com/ashishpatel26/ML-Course-Notes
 
-### Resourcs for CNN,ML,NLP
+### Resources for CNN,ML,NLP
 https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022   ###This repository offers a goldmine of materials for  computer vision, natural language processing, and machine learning operations.
 
 
