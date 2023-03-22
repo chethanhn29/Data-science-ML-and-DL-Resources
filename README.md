@@ -27,8 +27,8 @@ https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo
 
 
 # Artificial Intelligence 
+![Artificial-Intellegence-e1634237254116-1024x371](https://user-images.githubusercontent.com/110838853/226801755-facaabc8-1bd4-4c83-a3de-bc99b23be4ea.jpeg)
 
-![AI](https://user-images.githubusercontent.com/110838853/226786219-d42789f0-49d8-4656-83bf-83e7e7b72b01.jpeg)
 
 Artificial intelligence (AI) is a broad field of computer science and engineering that focuses on developing intelligent machines that can perform tasks that typically require human intelligence, such as perception, reasoning, learning, and problem-solving.
 
