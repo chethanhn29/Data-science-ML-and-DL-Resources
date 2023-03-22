@@ -548,7 +548,7 @@ SQL is used by data analysts, database administrators, software developers, and 
 
 # Tableau
 
-![Tableau-Logo-for-website](https://user-images.githubusercontent.com/110838853/226792975-d68d81db-4061-4f58-85cb-4832e3126dcb.jpg)
+![Tableau-Logo-for-website (1)](https://user-images.githubusercontent.com/110838853/226799442-c03a1e49-d402-4e26-ae65-b3bde4fac785.jpg)
 
 Tableau is a data visualization and business intelligence software that helps people see and understand their data. It provides a suite of tools for creating interactive dashboards, reports, and visualizations, allowing users to explore data and uncover insights in real-time.
 
