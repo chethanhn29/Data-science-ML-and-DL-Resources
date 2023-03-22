@@ -96,7 +96,8 @@ CNN
 
 https://madewithml.com/courses/foundations/convolutional-neural-networks/
 
-
+##  Object Detection
+https://github.com/ashishpatel26/Deep-Learning-for-Tracking-and-Detection ##Collection of papers and other resources for object tracking and detection using deep learning
 
 ## Machine Learning Interview Preparation
 
@@ -130,7 +131,7 @@ https://github.com/TheAlgorithms/Python
 
 
 ## Transformers
-https://github.com/ashishpatel26/Treasure-of-Transformers ## This Repository Contains all blogs and videos and links related to Transformers
+https://github.com/ashishpatel26/Treasure-of-Transformers ## Awesome Treasure of Transformers Models for Natural Language processing contains papers, videos, blogs, official repo along with colab Notebooks.
 
 ## Linux
 
