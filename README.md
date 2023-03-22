@@ -121,8 +121,11 @@ https://github.com/ashishpatel26/Data-Science-Tutorial-By-Lambda-School
 
 #### Machine learning Courses,Frameworks and libraries
 https://github.com/josephmisiti/awesome-machine-learning ##A curated list of awesome Machine Learning Notes,Courses,Articles
+
 https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md ## free Courses
+
 https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md ## free  Books
+
 #### Explanation to key concepts in ML
 https://github.com/dair-ai/ML-Papers-Explained
 
