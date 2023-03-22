@@ -78,4 +78,5 @@ https://resources.experfy.com/ai-ml/how-to-build-a-machine-learning-model/
 https://copyassignment.com/8-steps-to-build-a-machine-learning-model/
 
 
-
+### 500 Projects of Deep learning and CNN and NLP 
+https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code ##500 AI Machine learning Deep learning Computer vision NLP Projects with code
