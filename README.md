@@ -14,6 +14,8 @@ https://github.com/hemansnation/Python-Roadmap
 ### Python Code Tutorials For all 
 https://github.com/ashishpatel26/pythoncode-tutorials ### here We can Find python code for different kind of Projects for CNN,NLP,web Programming and ML
 
+#### Python assignments for the machine learning class by andrew ng on coursera .
+https://github.com/dibgerge/ml-coursera-python-assignments
 
 # Data analyst Roadmap
 #### Data analyst Roadmap with Resources and Cheatsheets
@@ -115,6 +117,10 @@ https://github.com/mbadry1/CS231n-2017-Summary
 #### Data-Science-Tutorial-By-Lambda-School
 https://github.com/ashishpatel26/Data-Science-Tutorial-By-Lambda-School
 
+#### Machine learning Courses,Frameworks and libraries
+https://github.com/josephmisiti/awesome-machine-learning ##A curated list of awesome Machine Learning Notes,Courses,Articles
+https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md ## free Courses
+https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md ## free  Books
 #### Explanation to key concepts in ML
 https://github.com/dair-ai/ML-Papers-Explained
 
@@ -159,6 +165,9 @@ https://github.com/dair-ai/ML-YouTube-Courses
 #### Deep learning Course Notes and Videos
 https://github.com/ashishpatel26/ML-Course-Notes
 
+#### A curated list of awesome Deep Learning tutorials, projects and communities.
+https://github.com/ChristosChristofidis/awesome-deep-learning
+
 ### Practical Deep learning for Coders from fast.ai-
 https://course.fast.ai/Lessons/lesson1.html
 
@@ -173,8 +182,8 @@ https://github.com/janishar/mit-deep-learning-book-pdf
 ### Deep Learning Notebooks 
 https://github.com/dair-ai/Mathematics-for-ML
 
-
-
+#### A collection of various deep learning architectures, models, and tips 
+https://github.com/rasbt/deeplearning-models
 
 ###  Trending-Deep-Learning
 https://github.com/mbadry1/Trending-Deep-Learning
@@ -247,6 +256,10 @@ https://learn.aifee.co/p/introduction-to-tensorflow-2-for-computer-vision?ck_sub
 #### Tensorflow Models
 https://github.com/tensorflow/models/tree/master/research  ##Models and examples built with TensorFlow
 
+#### Tensorflow_tutorials
+https://github.com/pkmital/tensorflow_tutorials  ###
+From the basics to slightly more interesting applications of Tensorflow with Python
+
 # Pytorch
 ![01_a_pytorch_workflow](https://user-images.githubusercontent.com/110838853/226788275-89bb2940-b100-42cd-a1a8-eba849aee218.png)
 
@@ -286,7 +299,10 @@ CNNs are made up of multiple layers, including convolutional layers, pooling lay
 
 CNNs have been shown to achieve state-of-the-art performance on a wide range of computer vision tasks and are widely used in industry and academia for image and video analysis.
 
+#### A curated list of awesome computer vision resources
+https://github.com/jbhuang0604/awesome-computer-vision
 
+https://github.com/kjw0612/awesome-deep-vision 
 
 #### Computer vision Use cases
 https://github.com/ashishpatel26/Computer-Vision-Industry-Use-Cases ## useful for the interview preparation and knowledge of CNN
@@ -300,6 +316,10 @@ https://github.com/Avik-Jain/DeepLearning.ai-Summary/tree/master/4-%20Convolutio
 ### CNN Course 
 
 https://madewithml.com/courses/foundations/convolutional-neural-networks/
+
+
+### Computer Vision projects
+https://github.com/AnshuTrivedi/Computer-Vision-nanodegree-projects ##In this repository all the three projects completed in computer vision nano degree are available.Projects are Facial keypoint detection, Image captioning, Landmark Detection & Robot Tracking (SLAM).
 
 # YOLO
 
