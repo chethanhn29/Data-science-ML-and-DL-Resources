@@ -1,7 +1,4 @@
-# Data-science-ML-and-DL-Resources
-To learn ML,DL resources
-
-## Python
+# Python
 
 ![Python-Symbol](https://user-images.githubusercontent.com/110838853/226786519-b758e13b-0a29-4d72-8189-2fd84bfd7d2c.png)
 
@@ -11,11 +8,19 @@ https://github.com/ashishpatel26/Python-Roadmap
 ### Python Code Tutorials For all 
 https://github.com/ashishpatel26/pythoncode-tutorials ### here We can Find python code for different kind of Projects for CNN,NLP,web Programming and ML
 
-##  Data science
+##  Data science and Machine learning
 #### Data science Roadmap for ML,DL,NLP,python,CNN,MLops
 https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack
 
-## Artificial Intelligence 
+#### List of Data Science and Machine Learning Resource
+https://github.com/nishitpatel01/Data-Science-and-Machine-Learning-Resources ##List of Data Science and Machine Learning Resource for ML,Statistics,DL,Probalbility,NLP,Data Visualisation,Algorithms
+
+#### Data Science and Machine Learning Projects
+https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo
+##Collections of Data Science & ML projects and dojo where I practice Data Science, Machine Learning, Deep Learning and Data Visualization related skills, theories, probability, statistics, etc.
+
+
+# Artificial Intelligence 
 Artificial intelligence (AI) is a broad field of computer science and engineering that focuses on developing intelligent machines that can perform tasks that typically require human intelligence, such as perception, reasoning, learning, and problem-solving.
 
 AI systems are designed to learn from and adapt to their environment, enabling them to improve their performance over time. These systems can be classified into several categories based on their level of intelligence:
@@ -42,11 +47,11 @@ https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide 
 
 ![AUG-2022_AI-Learning-fig1](https://user-images.githubusercontent.com/110838853/226782113-03fc1525-fb6d-47ce-9cda-4c534f12a27b.jpg)
 
-## Mathematics for ML
+# Mathematics for ML
 #### A collection of resources to learn mathematics for machine learning
 https://github.com/dair-ai/Mathematics-for-ML
 
-## Machine learning
+# Machine learning
 Machine learning (ML) is a subfield of artificial intelligence (AI) that involves training algorithms to automatically learn patterns from data, without being explicitly programmed.
 
 In machine learning, algorithms are designed to learn from data, identify patterns, and make predictions or decisions based on that data. The algorithms are trained using a variety of techniques such as supervised, unsupervised, and reinforcement learning.
@@ -89,7 +94,7 @@ https://github.com/dair-ai/Mathematics-for-ML
 https://www.geeksforgeeks.org/machine-learning/
 
 
-## Deep learning
+# Deep learning
 Deep learning is a subfield of machine learning that is based on artificial neural networks with many layers. These networks are designed to learn complex representations of data through the use of multiple layers of interconnected nodes, each of which performs a simple computation.
 
 In deep learning, the algorithm learns to extract features from raw data, such as images, sounds, and text, without the need for human feature engineering. This is achieved by stacking multiple layers of non-linear processing units, also known as neurons, to form a neural network that can automatically learn the features and relationships between them.
@@ -155,7 +160,7 @@ https://copyassignment.com/8-steps-to-build-a-machine-learning-model/
 
 
 
-## Neural network
+# Neural network
 
 ![1_3fA77_mLNiJTSgZFhYnU0Q](https://user-images.githubusercontent.com/110838853/226782532-c79583a7-fe4e-4af8-92be-6c19dc261db4.png)
 
@@ -176,7 +181,7 @@ Backpropagation means if the NN gives us a result that is not good enough, we go
 #### Tools to Design or Visualize Architecture of Neural Network
 https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
 
-## Tensorflow
+# Tensorflow
 TensorFlow is an open-source software library for dataflow and differentiable programming across a range of tasks. It was developed by the Google Brain team and released in 2015.
 
 TensorFlow is designed to enable efficient numerical computation using data flow graphs. In a data flow graph, nodes represent mathematical operations, while edges represent the data that flows between them. This allows complex mathematical computations to be expressed in a simple, intuitive way, making it easier to develop and train machine learning models.
@@ -207,7 +212,7 @@ https://learn.aifee.co/p/introduction-to-tensorflow-2-for-computer-vision?ck_sub
 #### Tensorflow Models
 https://github.com/tensorflow/models/tree/master/research  ##Models and examples built with TensorFlow
 
-## Pytorch
+# Pytorch
 
 PyTorch is an open-source machine learning framework that was developed by Facebook AI Research (FAIR) and released in 2016. It is built on top of the Python programming language and is designed to provide a flexible and easy-to-use platform for building and training machine learning models.
 
@@ -234,7 +239,7 @@ https://github.com/dair-ai/pytorch_notebooks
 https://github.com/dair-ai/Mathematics-for-ML
 
 
-## Computer Vision and CNN
+# Computer Vision and CNN
 Computer vision is a field of artificial intelligence that focuses on enabling machines to interpret and understand visual data from the world around us, such as images and videos. It involves developing algorithms and techniques that allow computers to analyze, process, and understand digital images and videos in a way that is similar to how humans perceive and interpret visual information.
 
 Convolutional neural networks (CNNs) are a type of deep learning algorithm that are commonly used in computer vision tasks such as image recognition, object detection, and image segmentation. CNNs are inspired by the structure of the human visual system and are designed to automatically learn hierarchical representations of visual data.
@@ -259,7 +264,7 @@ https://github.com/Avik-Jain/DeepLearning.ai-Summary/tree/master/4-%20Convolutio
 
 https://madewithml.com/courses/foundations/convolutional-neural-networks/
 
-## YOLO
+# YOLO
 
 YOLO (You Only Look Once) is an object detection algorithm used in computer vision. It was first introduced in a paper by Joseph Redmon et al. in 2016. YOLO is designed to be fast and efficient, capable of processing images in real-time on a standard desktop GPU.
 
@@ -290,7 +295,7 @@ https://github.com/dair-ai/Mathematics-for-ML
 https://github.com/dair-ai/ML-Papers-Explained
 
 
-##  Object Detection
+#  Object Detection
 
 Object detection is a computer vision technique used to locate and identify objects within an image or video. It involves identifying the presence of objects in an image or video and their corresponding class labels, as well as the precise location of each object within the image or video.
 
@@ -309,14 +314,24 @@ https://github.com/ashishpatel26/Deep-Learning-for-Tracking-and-Detection
 
 
 
-## Large Language Model(LLM)
+# Large Language Model(LLM)
+Large language models are a type of machine learning model used in natural language processing that are capable of generating human-like text by predicting the probability distribution of words in a given sequence. These models are trained on massive datasets of text, typically using unsupervised learning techniques, and are capable of generating text that is difficult to distinguish from text written by humans.
+
+Large language models can be divided into two main types: autoregressive models and transformer models.
+
+Autoregressive models, such as the GPT series from OpenAI, generate text one word at a time, conditioned on the previous words in the sequence. These models typically use recurrent neural networks (RNNs) or transformers to model the conditional probability distribution of each word given the previous words in the sequence.
+
+Transformer models, such as BERT from Google and T5 from Google Brain, are based on the transformer architecture, which was introduced in a paper by Vaswani et al. in 2017. Transformers use a self-attention mechanism to allow each token in the sequence to attend to all other tokens, enabling the model to capture long-range dependencies in the text.
+
+Large language models have a wide range of applications, including language translation, chatbots, content generation, and sentiment analysis. However, they have also raised concerns about their potential to be used for misinformation, propaganda, and other malicious purposes.
+
+
+
+
+
 #### CheatSheet-LLM
 https://github.com/Abonia1/CheatSheet-LLM
 
-## Data Analysics
-
-
-## SQL
 
 
 
@@ -330,14 +345,33 @@ https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-
 https://github.com/TheAlgorithms/Python
 
 
-## chatgpt-prompts
+# Chatgpt-prompts
+
+![download (4)](https://user-images.githubusercontent.com/110838853/226790067-ee246d94-d5ab-4736-83a3-5ccaab274096.png)
+#### Awesome Chatgpt-prompts for different Scenarios
 https://github.com/f/awesome-chatgpt-prompts
 
-## Tableau
 
 
 
-## NLP
+
+# NLP
+
+NLP stands for natural language processing, which is a branch of artificial intelligence that focuses on the interaction between computers and human language. It involves the development of algorithms and models that enable computers to understand, interpret, and generate human language.
+
+NLP has many applications, including:
+
+Text classification: The process of categorizing text into one or more predefined categories, such as sentiment analysis (determining whether a piece of text expresses a positive or negative sentiment) or topic classification (categorizing text into topics such as politics, sports, or entertainment).
+
+Machine translation: The process of automatically translating text from one language to another.
+
+Named entity recognition: The process of identifying and extracting entities such as people, places, and organizations from text.
+
+Sentiment analysis: The process of determining the sentiment expressed in a piece of text, whether it is positive, negative, or neutral.
+
+Question answering: The process of answering natural language questions posed by humans.
+
+NLP involves a range of techniques, including statistical models, rule-based models, and deep learning models such as recurrent neural networks (RNNs) and transformers. These models are trained on large datasets of annotated text to learn the patterns and structures of language, and are used to perform a wide range of tasks in natural language processing.
 
 ![pnlp_0101](https://user-images.githubusercontent.com/110838853/226782983-768b069e-52ed-4442-8909-d9553ab8b61a.png)
 
@@ -356,7 +390,7 @@ https://github.com/dair-ai/Mathematics-for-ML
 
 
 
-## Transformers
+# Transformers
 Transformers are a type of machine learning architecture used primarily for natural language processing tasks such as language translation, sentiment analysis, and text classification. The Transformer architecture was first introduced in a 2017 paper called "Attention is All You Need" by Vaswani et al.
 
 Traditionally, recurrent neural networks (RNNs) have been used for sequence-to-sequence tasks, but Transformers have gained popularity due to their ability to handle long-range dependencies in sequences more efficiently.
@@ -386,12 +420,18 @@ https://medium.com/nlplanet/two-minutes-nlp-20-learning-resources-for-transforme
 ####  Notebooks 
 https://github.com/dair-ai/Mathematics-for-ML
 
-## Portfolio
+# Portfolio
+![GitHub](https://user-images.githubusercontent.com/110838853/226789623-a1c16114-2058-483c-b08b-45ea611979d3.jpeg)
+
+
 #### A curated list of awesome GitHub Profile READMEs
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
+#### How to make an impressive Data Science Portfolio?
+https://www.analyticsvidhya.com/blog/2021/04/how-to-make-an-impressive-data-science-portfolio/
 
-## GAN
+
+# GAN
 GAN stands for Generative Adversarial Networks, which is a type of deep learning model used in unsupervised machine learning tasks such as image generation, video generation, and text generation. GANs were first introduced by Ian Goodfellow in 2014.
 
 A GAN consists of two neural networks: a generator and a discriminator. The generator takes random noise as input and produces an output, such as an image or a piece of text. The discriminator takes as input the output from the generator, as well as real samples from the training data, and tries to distinguish between the real and fake samples.
@@ -407,7 +447,7 @@ GANs have been used for a wide range of applications, such as image synthesis, i
 ####  Notebooks 
 https://github.com/dair-ai/Mathematics-for-ML
 
-## Graph Neural Networks (GNNs)
+# Graph Neural Networks (GNNs)
 GNN stands for Graph Neural Network, which is a type of machine learning model designed to operate on graphs and other network data structures.
 
 In a graph, nodes are connected by edges that represent relationships or connections between them. GNNs are designed to learn from and operate on these graph structures, allowing them to model complex relationships and dependencies between nodes.
@@ -422,9 +462,85 @@ Some popular GNN architectures include Graph Convolutional Networks (GCNs), Grap
 #### A study guide to learn about Graph Neural Networks (GNNs)
 https://github.com/dair-ai/GNNs-Recipe  
 
-## Linux
+# Linux
+Linux is a free and open-source operating system that is widely used in the computer industry. It was first created by Linus Torvalds in 1991 as a variant of the Unix operating system and has since become a popular choice for servers, desktop computers, and other computing devices.
+
+One of the main advantages of Linux is its open-source nature, which allows users to access and modify the source code of the operating system. This has led to the development of a large and active community of developers who contribute to the development and improvement of Linux. As a result, Linux has become a highly customizable and flexible operating system, with a wide range of distributions (or "distros") available to suit different needs and preferences.
+
+Linux is also known for its stability, security, and reliability. It is less vulnerable to malware and other security threats than other operating systems, and its modular architecture allows for easy customization and configuration.
+
+Linux is used in a wide range of applications, including web servers, cloud computing, scientific research, and embedded systems. Many popular software applications, including the Apache web server, MySQL database, and the Python programming language, are also available for use on Linux.
+![s2-1](https://user-images.githubusercontent.com/110838853/226791459-fd4a02e2-b12d-4bcf-b53b-57e59dfea9b4.jpg)
+
+# Data Analysis and Analytics
+Data analysis is the process of inspecting, cleaning, transforming, and modeling data in order to extract useful information and insights from it. The goal of data analysis is to uncover patterns, relationships, and trends in the data, and to use this information to make informed decisions.
+
+Data analysis can be divided into several stages:
+
+Data collection: The process of gathering data from various sources, such as databases, spreadsheets, surveys, or sensors.
+
+Data cleaning: The process of identifying and correcting errors or inconsistencies in the data, such as missing values, outliers, or incorrect data types.
+
+Data transformation: The process of converting the data into a suitable format for analysis, such as aggregating, filtering, or scaling the data.
+
+Data modeling: The process of creating statistical models or machine learning models to identify patterns and relationships in the data, and to make predictions or classifications based on this information.
+
+Data visualization: The process of creating visual representations of the data, such as charts, graphs, or maps, to help users understand and interpret the results of the analysis.
+
+Data analysis is used in a wide range of applications, including business intelligence, scientific research, social sciences, healthcare, and finance. It can help organizations make more informed decisions, identify new opportunities, and optimize their operations.
+
+#### Difference Between Data analysis and Data analytics
+Data analysis and analytics are both related to the process of extracting insights from data, but there are some differences between the two:
+
+Scope: Data analysis is a broad term that refers to the process of examining and interpreting data to draw conclusions or make decisions. Data analytics is a more specialized subset of data analysis that focuses specifically on the use of statistical and quantitative methods to analyze data.
+
+Purpose: Data analysis can be used for a variety of purposes, such as understanding trends, identifying outliers, or summarizing data. Data analytics is typically used for more advanced purposes, such as predicting outcomes or optimizing processes.
+
+Techniques: Data analysis often involves using basic statistical techniques such as mean, median, and mode, while data analytics uses more advanced techniques such as regression analysis, machine learning algorithms, and optimization techniques.
+
+Tools: Data analysis can be done using basic tools such as Excel or SQL, while data analytics typically requires more specialized tools such as Python, R, or SAS.
+
+Overall, data analysis can be seen as a more general term that includes a wide range of techniques and approaches, while data analytics is a more specialized subset of data analysis that focuses specifically on the use of statistical and quantitative methods.
 
 
-##Flask
+# SQL
+SQL (Structured Query Language) is a programming language used for managing and manipulating data stored in relational databases. It is a standard language used by database management systems (DBMS) such as MySQL, Oracle, Microsoft SQL Server, PostgreSQL, and SQLite.
 
-## End to End Machine learning Projects Deployement
+SQL allows users to perform a variety of tasks such as creating and modifying tables, inserting and updating data, selecting and filtering data, and joining multiple tables.
+
+SQL is used by data analysts, database administrators, software developers, and other professionals who work with databases. It is an important skill for anyone working with data, as it provides a powerful tool for managing and querying large datasets.
+
+
+![Sql_data_base_with_logo](https://user-images.githubusercontent.com/110838853/226792362-025b53c5-f0d3-440a-aa28-4e57e2d98c1c.png)
+
+
+# Tableau
+Tableau is a data visualization and business intelligence software that helps people see and understand their data. It provides a suite of tools for creating interactive dashboards, reports, and visualizations, allowing users to explore data and uncover insights in real-time.
+
+With Tableau, users can connect to a variety of data sources including spreadsheets, databases, and cloud services. They can then drag and drop fields onto a canvas to create charts, graphs, and other visualizations. Tableau's visualization capabilities are highly customizable, with options for color palettes, formatting, and interactivity.
+
+Tableau also offers a range of advanced analytics features, such as statistical modeling and forecasting, spatial analysis, and data blending. It supports collaboration and sharing through its cloud-based platform, allowing users to share their analyses and visualizations with others in their organization.
+![Tableau-Logo-for-website](https://user-images.githubusercontent.com/110838853/226792975-d68d81db-4061-4f58-85cb-4832e3126dcb.jpg)
+
+
+# Flask
+Flask is a web application framework for Python that allows developers to build web applications quickly and easily. It is a lightweight and flexible framework that provides a simple yet powerful way to create web applications.
+
+Flask provides a range of features and tools that make it easy to build web applications, including a built-in development server, support for URL routing, and a templating engine for creating HTML pages. It also supports extensions, which provide additional functionality for tasks such as form handling, authentication, and database integration.
+
+One of the key features of Flask is its flexibility. It allows developers to choose the components they need and leave out the ones they don't. This makes it possible to build applications that are lightweight, fast, and tailored to specific needs.
+
+Flask is often used for building small to medium-sized web applications, such as blogs, e-commerce sites, and data visualizations. It is widely used in the Python community and has a large ecosystem of extensions and plugins available.
+
+![Flask_logo svg](https://user-images.githubusercontent.com/110838853/226795908-34d691f1-dc11-4c19-a504-6ad353bcfd36.png)
+
+# Machine learning and Deep learning Model deployment using API Resources
+
+#### Awesome-Machine-learning-Deep-learning-Deployment
+https://github.com/ashishpatel26/Awesome-Machine-learning-Deep-learning-Deployment
+
+# End to End Machine learning Projects Deployement
+![end-to-end-ml-0](https://user-images.githubusercontent.com/110838853/226795923-ef3bd5e1-2055-4e00-a42c-6f22fe3f5263.png)
+
+#### 1.GitHub Repo
+https://github.com/pratik-276/End-to-End-Machine-Learning-Projects
