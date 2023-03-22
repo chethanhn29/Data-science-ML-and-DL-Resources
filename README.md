@@ -1,22 +1,36 @@
  #### Collection of free Notes,Courses,Videos,Projects,Articles and Repos Links To learn Machine learning ,Deep  learning,Python,SQL,CNN,NLP,GAN,GNN,Transfomers,Flask,Django,and End to End Machine learning Projects
 
 
+
+
 # Python
 ![1_m0H6-tUbW6grMlezlb52yw](https://user-images.githubusercontent.com/110838853/226801494-9b9886b8-cd0d-4fc0-897a-d083a12b08f2.png)
 
 
 ### Python-Roadmap 
 https://github.com/ashishpatel26/Python-Roadmap
+https://github.com/hemansnation/Python-Roadmap
 
 ### Python Code Tutorials For all 
 https://github.com/ashishpatel26/pythoncode-tutorials ### here We can Find python code for different kind of Projects for CNN,NLP,web Programming and ML
+
+
+# Data analyst Roadmap
+#### Data analyst Roadmap with Resources and Cheatsheets
+https://github.com/mtahiraslan/data-analyst-roadmap
+
+
+# Webscraping With python
+https://github.com/ptyadana/Web-Scraping-and-API-in-Python ##Web Scraping and API in Python using beautifulsoup, requests, requests-xml, etc for processing multiple APIs and scraping multple sites such as youtube, soundcloud and many more.
 
 #  Data science and Machine learning
 
 ![Data_Science_vs _Machine_Learning](https://user-images.githubusercontent.com/110838853/226796558-4cc9a0ba-c4aa-496d-9dba-60e70e671b5d.png)
 
 #### Data science Roadmap for ML,DL,NLP,python,CNN,MLops
-https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack
+https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack  ##
+Everything you need to know for data science.
+https://github.com/hemansnation/Data-Science-ML-Alpha-2022
 
 #### List of Data Science and Machine Learning Resource
 https://github.com/nishitpatel01/Data-Science-and-Machine-Learning-Resources ##List of Data Science and Machine Learning Resource for ML,Statistics,DL,Probalbility,NLP,Data Visualisation,Algorithms
@@ -24,6 +38,9 @@ https://github.com/nishitpatel01/Data-Science-and-Machine-Learning-Resources ##L
 #### Data Science and Machine Learning Projects
 https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo
 ##Collections of Data Science & ML projects and dojo where I practice Data Science, Machine Learning, Deep Learning and Data Visualization related skills, theories, probability, statistics, etc.
+
+#### Data Science Projects
+https://github.com/AnshuTrivedi/Data-Scientist-In-Python
 
 
 # Artificial Intelligence 
@@ -545,8 +562,8 @@ SQL allows users to perform a variety of tasks such as creating and modifying ta
 
 SQL is used by data analysts, database administrators, software developers, and other professionals who work with databases. It is an important skill for anyone working with data, as it provides a powerful tool for managing and querying large datasets.
 
-
-
+#### SQL Data Analysis & Data Visualizaiton Projects
+https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects ##SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
 
 # Tableau
 
@@ -558,6 +575,8 @@ With Tableau, users can connect to a variety of data sources including spreadshe
 
 Tableau also offers a range of advanced analytics features, such as statistical modeling and forecasting, spatial analysis, and data blending. It supports collaboration and sharing through its cloud-based platform, allowing users to share their analyses and visualizations with others in their organization.
 
+### MySQL-Tableau-for-Data-Analytics-and-Business-Intelligence
+https://github.com/ptyadana/MySQL-Tableau-for-Data-Analytics-and-Business-Intelligence
 
 # Flask
 ![1_0G5zu7CnXdMT9pGbYUTQLQ](https://user-images.githubusercontent.com/110838853/226799579-3b039bc4-4749-456f-ab8e-320de3aff665.png)
@@ -573,6 +592,9 @@ Flask is often used for building small to medium-sized web applications, such as
 
 
 # Machine learning and Deep learning Model deployment using API Resources
+
+#### iris flower predictions Machine Learning app using Tensorflow, Keras, ScikitLearn, Flask deployed on Heroku
+https://github.com/ptyadana/iris-flower-ML-app
 
 #### Awesome-Machine-learning-Deep-learning-Deployment
 https://github.com/ashishpatel26/Awesome-Machine-learning-Deep-learning-Deployment
