@@ -5,7 +5,7 @@
 #### Chatgpt-prompts for different Scenarios   
 [Type 1](https://github.com/f/awesome-chatgpt-prompts)  ##This repo includes ChatGPT prompt curation to use ChatGPT better.
 
-[Type 2](file:///F:/Whatsapp%20Docs/10%20Techniques%20.pdf)  ##This repo includes ChatGPT prompt curation to use ChatGPT better.
+[Type 2](https://github.com/chethanhn29/Data-science-ML-and-DL-Resources/blob/main/Chatgpt%20Prompts/10%20Techniques%20.pdf)  ##This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 
 
