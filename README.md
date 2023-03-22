@@ -2,7 +2,6 @@
 
 
 
-
 # Python
 ![1_m0H6-tUbW6grMlezlb52yw](https://user-images.githubusercontent.com/110838853/226801494-9b9886b8-cd0d-4fc0-897a-d083a12b08f2.png)
 
@@ -101,7 +100,7 @@ Machine learning has many practical applications, including natural language pro
 
 
 #### Andrew NG Notes on ML
-https://github.com/ashishpatel26/Andrew-NG-Notes
+https://github.com/ashishpatel26/Andrew-NG-Notes  ##This is Andrew NG Coursera Handwritten Notes.
 
 #### ML Course Notes and Videos
 https://github.com/ashishpatel26/ML-Course-Notes
@@ -109,6 +108,9 @@ https://github.com/ashishpatel26/ML-Course-Notes
 
 #### ML,DL,NLP Youtube Courses 
 https://github.com/dair-ai/ML-YouTube-Courses
+
+#### Feature Enfinnering 
+https://github.com/ashishpatel26/Amazing-Feature-Engineering  ##A  Feature Engg and Feature Selection, with implementations and examples in Python.
 
 
 ### Stanford Course(Standford CS231n 2017 Summary)
@@ -145,15 +147,24 @@ One of the key advantages of deep learning is its ability to learn from large am
 
 Overall, deep learning has become an essential tool in many areas of research and industry, enabling breakthroughs in fields such as computer vision, natural language processing, and robotics.
 
+# Top 200 Repositories for you to Follow if you are Studying Machine learning and Deep learning
+https://github.com/mbadry1/Top-Deep-Learning
+
+## Top  ML and DL Projects Repositories
+https://github.com/aymericdamien/TopDeepLearning
 
 ### Deeplearning.ai Course 
 
-https://github.com/mbadry1/DeepLearning.ai-Summary
+https://github.com/mbadry1/DeepLearning.ai-Summary ##This repository contains  notes and summaries on DeepLearning.ai specialization courses.
 
 https://github.com/mbadry1/DeepLearning.ai-Summary/tree/master/1-%20Neural%20Networks%20and%20Deep%20Learning
 
 
 https://github.com/Avik-Jain/DeepLearning.ai-Summary/tree/master/1-%20Neural%20Networks%20and%20Deep%20Learning
+
+
+#### CS231n-2017-Summary
+https://github.com/mbadry1/CS231n-2017-Summary  ## Summary of Standford's CS231n course that took place in 2017 
 
 #### Andrew NG Notes on ML
 https://github.com/ashishpatel26/Andrew-NG-Notes
@@ -300,9 +311,11 @@ CNNs are made up of multiple layers, including convolutional layers, pooling lay
 CNNs have been shown to achieve state-of-the-art performance on a wide range of computer vision tasks and are widely used in industry and academia for image and video analysis.
 
 #### A curated list of awesome computer vision resources
-https://github.com/jbhuang0604/awesome-computer-vision
+https://github.com/jbhuang0604/awesome-computer-vision ### 1st Repp
 
-https://github.com/kjw0612/awesome-deep-vision 
+https://github.com/kjw0612/awesome-deep-vision  ### 2nd Repo
+
+https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022 ##3Rd Repo
 
 #### Computer vision Use cases
 https://github.com/ashishpatel26/Computer-Vision-Industry-Use-Cases ## useful for the interview preparation and knowledge of CNN
@@ -310,6 +323,7 @@ https://github.com/ashishpatel26/Computer-Vision-Industry-Use-Cases ## useful fo
 
 ## CNN
 https://copyassignment.com/flower-classification-using-cnn/
+
 ### **Must Read Github Repository for CNN**
 https://github.com/Avik-Jain/DeepLearning.ai-Summary/tree/master/4-%20Convolutional%20Neural%20Networks 
 
