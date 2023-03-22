@@ -558,8 +558,8 @@ Tableau also offers a range of advanced analytics features, such as statistical 
 
 
 # Flask
+![1_0G5zu7CnXdMT9pGbYUTQLQ](https://user-images.githubusercontent.com/110838853/226799579-3b039bc4-4749-456f-ab8e-320de3aff665.png)
 
-![Flask_logo svg](https://user-images.githubusercontent.com/110838853/226795908-34d691f1-dc11-4c19-a504-6ad353bcfd36.png)
 
 Flask is a web application framework for Python that allows developers to build web applications quickly and easily. It is a lightweight and flexible framework that provides a simple yet powerful way to create web applications.
 
