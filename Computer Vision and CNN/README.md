@@ -36,5 +36,41 @@ https://madewithml.com/courses/foundations/convolutional-neural-networks/
 https://github.com/AnshuTrivedi/Computer-Vision-nanodegree-projects ##In this repository all the three projects completed in computer vision nano degree are available.Projects are Facial keypoint detection, Image captioning, Landmark Detection & Robot Tracking (SLAM).
 
 
+####  Notebooks 
+https://github.com/dair-ai/Mathematics-for-ML
+
+
+
+## CS231n: Deep Learning for Computer Vision(Stanford - Spring 2022) CNN notes
+https://cs231n.github.io/convolutional-networks/
+
+### Resources for CNN,ML,NLP
+https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022   ###This repository offers a goldmine of materials for  computer vision, natural language processing, and machine learning operations.
+
+
+### Explanation to key concepts in CNN
+https://github.com/dair-ai/ML-Papers-Explained
+
+
+# other Resources To Help with Projects and Understanding Key Concepts
+
+### 500 Projects of Deep learning and CNN and NLP 
+https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code ##500 AI Machine learning Deep learning Computer vision NLP Projects with code
+
+### All algorithms implementd on Python
+https://github.com/TheAlgorithms/Python
+
+
+# Chatgpt-prompts
+
+![download (4)](https://user-images.githubusercontent.com/110838853/226790067-ee246d94-d5ab-4736-83a3-5ccaab274096.png)
+
+#### Awesome Chatgpt-prompts for different Scenarios   
+https://github.com/f/awesome-chatgpt-prompts   ##This repo includes ChatGPT prompt curation to use ChatGPT better.
+
+####  Notebooks 
+https://github.com/dair-ai/Mathematics-for-ML
+
+
 
 
