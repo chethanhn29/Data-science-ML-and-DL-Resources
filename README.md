@@ -44,8 +44,10 @@ Self-aware machines: These AI systems have a sense of self and consciousness, al
 
 AI has many practical applications, including natural language processing, image and speech recognition, predictive analytics, and robotics. It is a rapidly advancing field, with new techniques and applications being developed every day.
 
-![AUG-2022_AI-Learning-fig1](https://user-images.githubusercontent.com/110838853/226782113-03fc1525-fb6d-47ce-9cda-4c534f12a27b.jpg)
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/110838853/226782113-03fc1525-fb6d-47ce-9cda-4c534f12a27b.jpg" alt="AUG-2022_AI-Learning-fig1">
+</div>
 
 #### Artificial Intelligence for Beginners - A Curriculum 
 https://github.com/ashishpatel26/AI-For-Beginners
