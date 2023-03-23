@@ -78,6 +78,14 @@ https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide 
 # Mathematics for ML
 ![97735WhatsApp Image 2021-05-31 at 8 41 44 PM](https://user-images.githubusercontent.com/110838853/226798432-bab7f034-3ebd-4654-a45c-60e77d512cbc.jpeg)
 
+#### MIT RES.6-012 Introduction to Probability, Spring 2018
+https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6
+
+
+### MIT 18.650 Statistics for Applications, Fall 2016
+https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0
+
+
 #### A collection of resources to learn mathematics for machine learning
 https://github.com/dair-ai/Mathematics-for-ML
 
@@ -111,6 +119,10 @@ https://github.com/dair-ai/ML-YouTube-Courses
 
 #### Feature Enfinnering 
 https://github.com/ashishpatel26/Amazing-Feature-Engineering  ##A  Feature Engg and Feature Selection, with implementations and examples in Python.
+
+
+#### Stanford CS229: Machine Learning Course | Summer 2019
+https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh
 
 
 ### Stanford Course(Standford CS231n 2017 Summary)
@@ -182,15 +194,17 @@ https://github.com/ashishpatel26/ML-Course-Notes
 #### A curated list of awesome Deep Learning tutorials, projects and communities.
 https://github.com/ChristosChristofidis/awesome-deep-learning
 
-### Practical Deep learning for Coders from fast.ai-
+### **Practical Deep learning for Coders from fast.ai-**
 https://course.fast.ai/Lessons/lesson1.html
 
 
 ### Full Stack Deep learning
 https://fall2019.fullstackdeeplearning.com/course-content/setting-up-machine-learning-projects/metrics
 
+### NYU Deep Learning SP21
+https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI
 
-### Deep learning Book
+#### Deep learning Book
 https://github.com/janishar/mit-deep-learning-book-pdf
 
 ### Deep Learning Notebooks 
@@ -454,6 +468,10 @@ Sentiment analysis: The process of determining the sentiment expressed in a piec
 Question answering: The process of answering natural language questions posed by humans.
 
 NLP involves a range of techniques, including statistical models, rule-based models, and deep learning models such as recurrent neural networks (RNNs) and transformers. These models are trained on large datasets of annotated text to learn the patterns and structures of language, and are used to perform a wide range of tasks in natural language processing.
+
+#### UMass CS685: Advanced Natural Language Processing (Spring
+https://www.youtube.com/playlist?list=PLWnsVgP6CzadI4-FT2Po4wsEK7MHCIQ-d
+
 
 
 #### NLP Course Notes and Videos
