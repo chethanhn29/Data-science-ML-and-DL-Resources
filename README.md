@@ -162,10 +162,10 @@ One of the key advantages of deep learning is its ability to learn from large am
 
 Overall, deep learning has become an essential tool in many areas of research and industry, enabling breakthroughs in fields such as computer vision, natural language processing, and robotics.
 
-# Top 200 Repositories for you to Follow if you are Studying Machine learning and Deep learning
+#### Top 200 Repositories for you to Follow if you are Studying Machine learning and Deep learning
 https://github.com/mbadry1/Top-Deep-Learning
 
-## Top  ML and DL Projects Repositories
+#### Top  ML and DL Projects Repositories
 https://github.com/aymericdamien/TopDeepLearning
 
 ### Deeplearning.ai Course 
