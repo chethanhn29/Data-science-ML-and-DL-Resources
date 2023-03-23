@@ -334,6 +334,9 @@ https://github.com/Avik-Jain/DeepLearning.ai-Summary/tree/master/4-%20Convolutio
 
 https://madewithml.com/courses/foundations/convolutional-neural-networks/
 
+## EXplanation CNN Working With Code
+https://madewithml.com/courses/foundations/convolutional-neural-networks/
+
 
 ### Computer Vision projects
 https://github.com/AnshuTrivedi/Computer-Vision-nanodegree-projects ##In this repository all the three projects completed in computer vision nano degree are available.Projects are Facial keypoint detection, Image captioning, Landmark Detection & Robot Tracking (SLAM).
@@ -489,6 +492,9 @@ https://github.com/ashishpatel26/Treasure-of-Transformers ## Awesome Treasure of
 
 #### Transformers Course Notes and Videos
 https://github.com/ashishpatel26/ML-Course-Notes
+
+## Explanation of Transofrmers with Code
+https://madewithml.com/courses/foundations/transformers/
 
 ### Explanation to key concepts in Tranformers papers
 https://github.com/dair-ai/ML-Papers-Explained
