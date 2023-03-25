@@ -1,5 +1,59 @@
  #### Collection of free Notes,Courses,Videos,Projects,Articles and Repos Links To learn Machine learning ,Deep  learning,Python,SQL,CNN,NLP,GAN,GNN,Transfomers,Flask,Django,and End to End Machine learning Projects
 
+# Table of Contents
+
+## Data Analyst Roadmap
+1. [Python ](#python)
+2. [Webscraping with Python](#webscraping-with-python)
+3. [Data Analysis and Analytics](#data-analysis-and-analytics)
+4. [SQL](#sql)
+5. [Tableau](#tableau)
+6. [Flask](#flask)
+7. [Machine Learning ](#Machine learning)
+8. [End to End Machine Learning Projects Deployment](#end-to-end-machine-learning-projects-deployment)
+
+## Data Scientist Roadmap
+1. [Python Fundamentals](#python-fundamentals)
+2. [Mathematics for Machine Learning](#mathematics-for-machine-learning)
+3. [Machine Learning Fundamentals](#machine-learning-fundamentals)
+4. [Supervised Learning](#supervised-learning)
+5. [Unsupervised Learning](#unsupervised-learning)
+6. [Deep Learning Fundamentals](#deep-learning-fundamentals)
+7. [Neural Networks](#neural-networks)
+8. [Convolutional Neural Networks (CNNs)](#convolutional-neural-networks-cnns)
+9. [Recurrent Neural Networks (RNNs)](#recurrent-neural-networks-rnns)
+10. [TensorFlow](#tensorflow)
+11. [PyTorch](#pytorch)
+12. [Natural Language Processing (NLP) Fundamentals](#natural-language-processing-nlp-fundamentals)
+13. [Transformers](#transformers)
+14. [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans)
+15. [Graph Neural Networks (GNNs)](#graph-neural-networks-gnns)
+16. [Other Resources to Help with Projects and Understanding Key Concepts](#other-resources-to-help-with-projects-and-understanding-key-concepts)
+17. [Portfolio](#portfolio)
+
+## Machine Learning Engineer Roadmap
+1. [Python Fundamentals](#python-fundamentals)
+2. [Mathematics for Machine Learning](#mathematics-for-machine-learning)
+3. [Machine Learning Fundamentals](#machine-learning-fundamentals)
+4. [Supervised Learning](#supervised-learning)
+5. [Unsupervised Learning](#unsupervised-learning)
+6. [Deep Learning Fundamentals](#deep-learning-fundamentals)
+7. [Neural Networks](#neural-networks)
+8. [Convolutional Neural Networks (CNNs)](#convolutional-neural-networks-cnns)
+9. [Recurrent Neural Networks (RNNs)](#recurrent-neural-networks-rnns)
+10. [TensorFlow](#tensorflow)
+11. [PyTorch](#pytorch)
+12. [Natural Language Processing (NLP) Fundamentals](#natural-language-processing-nlp-fundamentals)
+13. [Transformers](#transformers)
+14. [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans)
+15. [Graph Neural Networks (GNNs)](#graph-neural-networks-gnns)
+16. [Linux Fundamentals](#linux-fundamentals)
+17. [Other Resources to Help with Projects and Understanding Key Concepts](#other-resources-to-help-with-projects-and-understanding-key-concepts)
+18. [Portfolio](#portfolio)
+19. [Machine Learning and Deep Learning Model Deployment using APIs](#machine-learning-and-deep-learning-model-deployment-using-apis)
+20. [End to End Machine Learning Projects Deployement(# End to End Machine learning Projects Deployement)
+
+
 
 
 # Python
