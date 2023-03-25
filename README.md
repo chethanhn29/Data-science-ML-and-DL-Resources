@@ -626,7 +626,7 @@ SQL is used by data analysts, database administrators, software developers, and 
 #### SQL Data Analysis & Data Visualizaiton Projects
 https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects ##SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
 
-5 SQL projects to build your strong #dataanalytics portfolio today🎯.....
+###### 5 SQL projects to build your strong #dataanalytics portfolio today🎯.....
 
 1. European Soccer Game Analysis
 Tech Stack: SQL
