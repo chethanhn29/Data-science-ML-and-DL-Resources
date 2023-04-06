@@ -28,8 +28,9 @@ https://github.com/ptyadana/Web-Scraping-and-API-in-Python ##Web Scraping and AP
 ![Data_Science_vs _Machine_Learning](https://user-images.githubusercontent.com/110838853/226796558-4cc9a0ba-c4aa-496d-9dba-60e70e671b5d.png)
 
 #### Data science Roadmap for ML,DL,NLP,python,CNN,MLops
-https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack  ##
-Everything you need to know for data science.
+https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack 
+
+## Everything you need to know for data science.
 https://github.com/hemansnation/Data-Science-ML-Alpha-2022
 
 #### List of Data Science and Machine Learning Resource
