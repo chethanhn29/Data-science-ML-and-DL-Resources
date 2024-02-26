@@ -1,42 +1,56 @@
+# Deep Learning and Data Science Resources
 
-# Stanford Course(Standford CS231n 2017 Summary)
-https://github.com/mbadry1/CS231n-2017-Summary
+## Courses
 
+1. **Stanford CS231n 2017 Summary**
+   - Summary of the Stanford CS231n course from 2017.
+   - [GitHub Repository](https://github.com/mbadry1/CS231n-2017-Summary)
 
-# Deeplearning.ai Course 
+2. **Deeplearning.ai Course Summary**
+   - Summary of the Deeplearning.ai course.
+   - [GitHub Repository](https://github.com/mbadry1/DeepLearning.ai-Summary)
+   - [Neural Networks and Deep Learning Summary](https://github.com/mbadry1/DeepLearning.ai-Summary/tree/master/1-%20Neural%20Networks%20and%20Deep%20Learning)
 
-https://github.com/mbadry1/DeepLearning.ai-Summary
+## Trending Deep Learning
 
-https://github.com/mbadry1/DeepLearning.ai-Summary/tree/master/1-%20Neural%20Networks%20and%20Deep%20Learning
+1. **Trending Deep Learning Projects**
+   - Collection of trending deep learning projects.
+   - [GitHub Repository](https://github.com/mbadry1/Trending-Deep-Learning)
 
-##  Trending-Deep-Learning
-https://github.com/mbadry1/Trending-Deep-Learning
-https://github.com/mbadry1/Top-Deep-Learning
+2. **Top Deep Learning Resources**
+   - Compilation of top deep learning resources.
+   - [GitHub Repository](https://github.com/mbadry1/Top-Deep-Learning)
 
-## Data science process
-https://resources.experfy.com/bigdata-cloud/the-data-science-process/
+## Data Science
 
-## How to build a regression-model
-https://resources.experfy.com/bigdata-cloud/how-to-build-a-regression-model-in-python/
+1. **Data Science Process Overview**
+   - Detailed overview of the data science process.
+   - [Resource Link](https://resources.experfy.com/bigdata-cloud/the-data-science-process/)
 
-## How to build a model
-https://resources.experfy.com/ai-ml/how-to-build-a-machine-learning-model/
+## Machine Learning Models
 
-https://copyassignment.com/8-steps-to-build-a-machine-learning-model/
+1. **How to Build a Regression Model in Python**
+   - Step-by-step guide on building a regression model in Python.
+   - [Resource Link](https://resources.experfy.com/bigdata-cloud/how-to-build-a-regression-model-in-python/)
 
-## CNN
-https://copyassignment.com/flower-classification-using-cnn/
+2. **How to Build a Machine Learning Model**
+   - Guide on building machine learning models.
+   - [Resource Link](https://resources.experfy.com/ai-ml/how-to-build-a-machine-learning-model/)
+   - [8 Steps to Build a Machine Learning Model](https://copyassignment.com/8-steps-to-build-a-machine-learning-model/)
 
-## Neural network
-One min to have a general idea about Neural Network, which is a technique that could achieve many different aims, facial recognition, predicting, music composition, etc.
+## Articles and Tutorials
 
-NN contains virtual ‘neurons’ that are arranged in layers that are connected to each other. The neurons pass on the information and thereby perform calculations.
+1. **CNN: Flower Classification using CNN**
+   - Tutorial on flower classification using Convolutional Neural Networks (CNN).
+   - [Tutorial Link](https://copyassignment.com/flower-classification-using-cnn/)
 
-The connections between the neurons also have values associated with them, called weights.
+## Neural Network Overview
 
-Those weights tell us how much the information from one layer matters for the next layer. The values of neurons and the weights of the connections are essentially the free parameters of the network.
+Neural networks (NN) are a fundamental technique in deep learning, capable of achieving various tasks such as facial recognition, prediction, and music composition.
 
-By training the network, we want to find those values of the parameters that minimize a certain function, called the ‘loss function’. It is an optimization problem, we use a method called backpropagation to solve it.
+- NN consists of virtual 'neurons' arranged in layers connected to each other, passing information and performing calculations.
+- Connections between neurons have associated weights, indicating the importance of information transfer.
+- Parameters of the network (neuron values and connection weights) are optimized to minimize a loss function through training, using backpropagation.
+- Backpropagation involves adjusting weights based on errors, allowing the network to learn from failures.
 
-Backpropagation means if the NN gives us a result that is not good enough, we go back and change the weights of neurons and their connections. This is how the network can learn from failure.
-![1645940317303](https://user-images.githubusercontent.com/110838853/224456961-62efe7a4-e1af-4002-89e2-0de91f987538.gif)
+![Neural Network Animation](https://user-images.githubusercontent.com/110838853/224456961-62efe7a4-e1af-4002-89e2-0de91f987538.gif)

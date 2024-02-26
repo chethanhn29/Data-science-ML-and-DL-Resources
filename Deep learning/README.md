@@ -1,82 +1,52 @@
-    
-# Deep learning
+# Deep Learning Resources
 
-![ezgif-3-091b9a24fd](https://user-images.githubusercontent.com/110838853/226787169-b81940d2-399b-4038-ae19-9bf3ad530bbe.jpg)
+![Deep Learning](https://user-images.githubusercontent.com/110838853/226787169-b81940d2-399b-4038-ae19-9bf3ad530bbe.jpg)
+
+## Introduction
 
 Deep learning is a subfield of machine learning that is based on artificial neural networks with many layers. These networks are designed to learn complex representations of data through the use of multiple layers of interconnected nodes, each of which performs a simple computation.
 
-In deep learning, the algorithm learns to extract features from raw data, such as images, sounds, and text, without the need for human feature engineering. This is achieved by stacking multiple layers of non-linear processing units, also known as neurons, to form a neural network that can automatically learn the features and relationships between them.
+## Importance of Deep Learning
 
-Deep learning models have shown impressive results in a variety of applications, including image and speech recognition, natural language processing, and game playing. For example, convolutional neural networks (CNNs) have been used to achieve state-of-the-art results in image classification, while recurrent neural networks (RNNs) have been used for speech recognition and natural language processing.
+Deep learning models have shown impressive results in a variety of applications, including image and speech recognition, natural language processing, and game playing.
 
-One of the key advantages of deep learning is its ability to learn from large amounts of data, making it particularly effective in applications where large datasets are available. Additionally, deep learning models can automatically learn to extract features from raw data, eliminating the need for manual feature engineering, which can be a time-consuming and error-prone process.
+## Key Advantages
 
-Overall, deep learning has become an essential tool in many areas of research and industry, enabling breakthroughs in fields such as computer vision, natural language processing, and robotics.
+One of the key advantages of deep learning is its ability to learn from large amounts of data, making it particularly effective in applications where large datasets are available.
 
-# Top 200 Repositories for you to Follow if you are Studying Machine learning and Deep learning
-https://github.com/mbadry1/Top-Deep-Learning
+## Top Resources
 
-## Top  ML and DL Projects Repositories
-https://github.com/aymericdamien/TopDeepLearning
+### Courses and Summaries
+- [DeepLearning.ai Course Summary](https://github.com/mbadry1/DeepLearning.ai-Summary) - Notes and summaries on DeepLearning.ai specialization courses.
+- [CS231n-2017 Summary](https://github.com/mbadry1/CS231n-2017-Summary) - Summary of Stanford's CS231n course that took place in 2017.
+- [Andrew NG Notes on ML](https://github.com/ashishpatel26/Andrew-NG-Notes) - Notes for understanding neural networks, gradient descent, backpropagation, and related math concepts.
+- [ML, DL, NLP Youtube Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Collection of Machine Learning, Deep Learning, and NLP courses available on YouTube.
 
-### Deeplearning.ai Course 
+### Tutorials and Guides
+- [Practical Deep Learning for Coders from fast.ai](https://course.fast.ai/Lessons/lesson1.html)
+- [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/course-content/setting-up-machine-learning-projects/metrics)
 
-https://github.com/mbadry1/DeepLearning.ai-Summary ##This repository contains  notes and summaries on DeepLearning.ai specialization courses.
+### Books and Repositories
+- [Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf)
+- [Dive into Deep Learning Book by Stanford University](https://c.d2l.ai/gtc2020/)
+- [500 AI Machine learning Deep learning Computer vision NLP Projects with code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+- [A curated list of awesome Deep Learning tutorials, projects and communities](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
-https://github.com/mbadry1/DeepLearning.ai-Summary/tree/master/1-%20Neural%20Networks%20and%20Deep%20Learning
+### Interview Preparation and Revision
+- [Deep learning Interview Prep Video](https://www.youtube.com/watch?v=BAregq0sdyY) - Best video by Freecodecamp for deep learning interview preparation.
+- [DS Interview Questions Video](https://www.youtube.com/watch?v=dBvjBwga8pU) - Interview questions for Data Science positions.
+- [Aman.ai - For Quick Revision of AI](https://aman.ai/primers/ai/)
 
+## Stanford University Resources
+- [Stanford Notes on Neural Networks](https://cs.stanford.edu/people/eroberts/courses/soco/projects/neural-networks/Neuron/index.html)
+- [Dive Deep Into Deep learning Book by Stanford](https://d2l.ai/d2l-en.pdf)
+- [Dive into Deep Learning in 1 Day by Stanford University](https://c.d2l.ai/odsc2019/)
+- [Stanford University Courses Books](https://courses.d2l.ai/)
+- [Deep Learning Practical By Uvadlc](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial3/Activation_Functions.html)
 
-https://github.com/Avik-Jain/DeepLearning.ai-Summary/tree/master/1-%20Neural%20Networks%20and%20Deep%20Learning
+## Other Useful Resources
+- [Data Science Process](https://resources.experfy.com/bigdata-cloud/the-data-science-process/)
+- [How to Build a Regression Model](https://resources.experfy.com/bigdata-cloud/how-to-build-a-regression-model-in-python/)
+- [How to Build a Model](https://resources.experfy.com/ai-ml/how-to-build-a-machine-learning-model/)
+- [ML Notes by dair-ai](https://github.com/dair-ai/ML-Course-Notes)
 
-
-#### CS231n-2017-Summary
-https://github.com/mbadry1/CS231n-2017-Summary  ## Summary of Standford's CS231n course that took place in 2017 
-
-#### Andrew NG Notes on ML
-https://github.com/ashishpatel26/Andrew-NG-Notes
-
-#### ML,DL,NLP Youtube Courses 
-https://github.com/dair-ai/ML-YouTube-Courses
-
-
-#### Deep learning Course Notes and Videos
-https://github.com/ashishpatel26/ML-Course-Notes
-
-#### A curated list of awesome Deep Learning tutorials, projects and communities.
-https://github.com/ChristosChristofidis/awesome-deep-learning
-
-### Practical Deep learning for Coders from fast.ai-
-https://course.fast.ai/Lessons/lesson1.html
-
-
-### Full Stack Deep learning
-https://fall2019.fullstackdeeplearning.com/course-content/setting-up-machine-learning-projects/metrics
-
-
-### Deep learning Book
-https://github.com/janishar/mit-deep-learning-book-pdf
-
-### Deep Learning Notebooks 
-https://github.com/dair-ai/Mathematics-for-ML
-
-#### A collection of various deep learning architectures, models, and tips 
-https://github.com/rasbt/deeplearning-models
-
-###  Trending-Deep-Learning
-https://github.com/mbadry1/Trending-Deep-Learning
-https://github.com/mbadry1/Top-Deep-Learning ##  Top Deep learning Repositories
-
-### Data science process
-https://resources.experfy.com/bigdata-cloud/the-data-science-process/
-
-### How to build a regression-model
-https://resources.experfy.com/bigdata-cloud/how-to-build-a-regression-model-in-python/
-
-### How to build a model
-https://resources.experfy.com/ai-ml/how-to-build-a-machine-learning-model/
-
-https://copyassignment.com/8-steps-to-build-a-machine-learning-model/
-
-
-### 500 Projects of Deep learning and CNN and NLP 
-https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code ##500 AI Machine learning Deep learning Computer vision NLP Projects with code

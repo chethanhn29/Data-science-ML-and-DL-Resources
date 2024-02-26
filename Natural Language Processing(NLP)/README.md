@@ -1,13 +1,5 @@
 
 
-
-
-
-
-
-
-
-
 # NLP
 
 ![pnlp_0101](https://user-images.githubusercontent.com/110838853/226782983-768b069e-52ed-4442-8909-d9553ab8b61a.png)
