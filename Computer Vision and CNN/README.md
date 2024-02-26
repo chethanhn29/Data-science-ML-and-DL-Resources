@@ -59,3 +59,26 @@ https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-
 https://github.com/TheAlgorithms/Python
 
 
+## [CNN Summary from Deeplearning.ai Course Summary](https://github.com/Avik-Jain/DeepLearning.ai-Summary/tree/master/4-%20Convolutional%20Neural%20Networks)
+## [CV Resources](https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022?tab=readme-ov-file)
+### [Stanford Notes](https://cs.stanford.edu/people/eroberts/courses/soco/projects/neural-networks/Neuron/index.html) ,
+### [Dive into Deep Learning Book by Stanford University ](https://c.d2l.ai/gtc2020/)
+### [Dive into Deep Learning in 1 Day by Stanford University](https://c.d2l.ai/odsc2019/)
+### [Stanford University Courses Books](https://courses.d2l.ai/)
+### [Deep Learning Practical By Uvadlc](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial3/Activation_Functions.html)
+
+### [Dive Deep Into Deep learning Book By Stanford](https://d2l.ai/d2l-en.pdf)
+
+
+## [Computer vision interview questions](https://github.com/Praveen76/Computer-Vision-Interview-Preparation/tree/main)
+## [Computer vision interview questions 2](https://www.mlstack.cafe/blog/computer-vision-interview-questions)
+
+## [Cv Papers](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
+## [cs231 Course Summary](https://github.com/mbadry1/CS231n-2017-Summary),[Main Page of cs231](https://cs231n.github.io/),[2 cs231 Explaination for CNN](https://cs231n.github.io/convolutional-networks/#norm)
+
+## [Deep CV](https://dair-ai.notion.site/Lecture-3-Deep-Computer-Vision-e43a17b50f7e4b5f8393c070b22340a3)
+
+## [A curated list of deep learning resources for computer vision](https://github.com/kjw0612/awesome-deep-vision) ,[2](https://github.com/jbhuang0604/awesome-computer-vision)
+
+## [resources for object tracking and detection using deep learning](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
+
