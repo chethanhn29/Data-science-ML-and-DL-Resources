@@ -1,4 +1,19 @@
-# Computer Vision and CNN
+# Table of Contents
+1. [Introduction](#introduction)
+2. [Awesome Computer Vision Resources](#awesome-computer-vision-resources)
+3. [Computer Vision Use Cases](#computer-vision-use-cases)
+4. [CNN Resources](#cnn-resources)
+5. [Computer Vision Projects](#computer-vision-projects)
+6. [Notebooks and Explanations](#notebooks-and-explanations)
+7. [Additional Resources](#additional-resources)
+8. [Stanford Courses and Materials](#stanford-courses-and-materials)
+9. [Interview Preparation and Examining Key Concepts](#interview-preparation-and-examining-key-concepts)
+10. [Research Papers and Summaries](#research-papers-and-summaries)
+11. [Deep Learning and Computer Vision](#deep-learning-and-computer-vision)
+
+---
+
+## Introduction
 
 ![89175cnn_banner](https://user-images.githubusercontent.com/110838853/226784233-75acbbcd-7162-4a02-a2da-6b113d293c5a.png)
 
@@ -10,75 +25,53 @@ CNNs are made up of multiple layers, including convolutional layers, pooling lay
 
 CNNs have been shown to achieve state-of-the-art performance on a wide range of computer vision tasks and are widely used in industry and academia for image and video analysis.
 
-#### A curated list of awesome computer vision resources
-https://github.com/jbhuang0604/awesome-computer-vision ### 1st Repp
+## Awesome Computer Vision Resources
 
-https://github.com/kjw0612/awesome-deep-vision  ### 2nd Repo
+- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+- [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+- [ResourceBank for CV, NLP, MLOPS 2022](https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022)
 
-https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022 ##3Rd Repo
+## Computer Vision Use Cases
 
-#### Computer vision Use cases
-https://github.com/ashishpatel26/Computer-Vision-Industry-Use-Cases ## useful for the interview preparation and knowledge of CNN
+- [Industry Use Cases](https://github.com/ashishpatel26/Computer-Vision-Industry-Use-Cases) - Useful for interview preparation and understanding CNN applications.
 
+## CNN Resources
 
-## CNN
-https://copyassignment.com/flower-classification-using-cnn/
+- [Flower Classification Using CNN](https://copyassignment.com/flower-classification-using-cnn/)
+- [DeepLearning.ai Summary: CNNs](https://github.com/Avik-Jain/DeepLearning.ai-Summary/tree/master/4-%20Convolutional%20Neural%20Networks)
+- [Foundations of CNNs Course](https://madewithml.com/courses/foundations/convolutional-neural-networks/)
 
-### **Must Read Github Repository for CNN**
-https://github.com/Avik-Jain/DeepLearning.ai-Summary/tree/master/4-%20Convolutional%20Neural%20Networks 
+## Computer Vision Projects
 
-### CNN Course 
+- [Computer Vision Nanodegree Projects](https://github.com/AnshuTrivedi/Computer-Vision-nanodegree-projects) - Projects include Facial Keypoint Detection, Image Captioning, and Landmark Detection & Robot Tracking (SLAM).
 
-https://madewithml.com/courses/foundations/convolutional-neural-networks/
+## Notebooks and Explanations
 
+- [Mathematics for ML Notebooks](https://github.com/dair-ai/Mathematics-for-ML)
+- [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained)
 
-### Computer Vision projects
-https://github.com/AnshuTrivedi/Computer-Vision-nanodegree-projects ##In this repository all the three projects completed in computer vision nano degree are available.Projects are Facial keypoint detection, Image captioning, Landmark Detection & Robot Tracking (SLAM).
+## Additional Resources
 
-####  Notebooks 
-https://github.com/dair-ai/Mathematics-for-ML
+- [500 AI, ML, Deep Learning Projects with Code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+- [Python Implementations of Algorithms](https://github.com/TheAlgorithms/Python)
 
+## Stanford Courses and Materials
 
-## CS231n: Deep Learning for Computer Vision(Stanford - Spring 2022) CNN notes
-https://cs231n.github.io/convolutional-networks/
+- [CS231n: Deep Learning for Computer Vision](https://cs231n.github.io/convolutional-networks/) - Lecture notes.
+- [Deep Learning Practical by Uvadlc](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial3/Activation_Functions.html)
+- [Dive into Deep Learning Book by Stanford University](https://d2l.ai/d2l-en.pdf)
 
-### Resources for CNN,ML,NLP
-https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022   ###This repository offers a goldmine of materials for  computer vision, natural language processing, and machine learning operations.
+## Interview Preparation and Examining Key Concepts
 
+- [Computer Vision Interview Preparation](https://github.com/Praveen76/Computer-Vision-Interview-Preparation/tree/main)
+- [ML Stack Cafe: Computer Vision Interview Questions](https://www.mlstack.cafe/blog/computer-vision-interview-questions)
 
-### Explanation to key concepts in CNN
-https://github.com/dair-ai/ML-Papers-Explained
+## Research Papers and Summaries
 
+- [Deep Learning for Tracking and Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
+- [CS231n Course Summary](https://github.com/mbadry1/CS231n-2017-Summary) - Also includes main course page and explanations for CNN.
+- [Dive Deep Into Deep Learning Book by Stanford](https://d2l.ai/d2l-en.pdf)
 
-# other Resources To Help with Projects and Understanding Key Concepts
+## Deep Learning and Computer Vision
 
-### 500 Projects of Deep learning and CNN and NLP 
-https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code ##500 AI Machine learning Deep learning Computer vision NLP Projects with code
-
-### All algorithms implementd on Python
-https://github.com/TheAlgorithms/Python
-
-
-## [CNN Summary from Deeplearning.ai Course Summary](https://github.com/Avik-Jain/DeepLearning.ai-Summary/tree/master/4-%20Convolutional%20Neural%20Networks)
-## [CV Resources](https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022?tab=readme-ov-file)
-### [Stanford Notes](https://cs.stanford.edu/people/eroberts/courses/soco/projects/neural-networks/Neuron/index.html) ,
-### [Dive into Deep Learning Book by Stanford University ](https://c.d2l.ai/gtc2020/)
-### [Dive into Deep Learning in 1 Day by Stanford University](https://c.d2l.ai/odsc2019/)
-### [Stanford University Courses Books](https://courses.d2l.ai/)
-### [Deep Learning Practical By Uvadlc](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial3/Activation_Functions.html)
-
-### [Dive Deep Into Deep learning Book By Stanford](https://d2l.ai/d2l-en.pdf)
-
-
-## [Computer vision interview questions](https://github.com/Praveen76/Computer-Vision-Interview-Preparation/tree/main)
-## [Computer vision interview questions 2](https://www.mlstack.cafe/blog/computer-vision-interview-questions)
-
-## [Cv Papers](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
-## [cs231 Course Summary](https://github.com/mbadry1/CS231n-2017-Summary),[Main Page of cs231](https://cs231n.github.io/),[2 cs231 Explaination for CNN](https://cs231n.github.io/convolutional-networks/#norm)
-
-## [Deep CV](https://dair-ai.notion.site/Lecture-3-Deep-Computer-Vision-e43a17b50f7e4b5f8393c070b22340a3)
-
-## [A curated list of deep learning resources for computer vision](https://github.com/kjw0612/awesome-deep-vision) ,[2](https://github.com/jbhuang0604/awesome-computer-vision)
-
-## [resources for object tracking and detection using deep learning](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
-
+- [Lecture 3: Deep Computer Vision](https://dair-ai.notion.site/Lecture-3-Deep-Computer-Vision-e43a17b50f7e4b5f8393c070b22340a3)
