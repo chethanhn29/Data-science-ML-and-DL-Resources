@@ -39,7 +39,7 @@ CNNs have been shown to achieve state-of-the-art performance on a wide range of 
 
 - [Flower Classification Using CNN](https://copyassignment.com/flower-classification-using-cnn/)
 - [DeepLearning.ai Summary: CNNs](https://github.com/Avik-Jain/DeepLearning.ai-Summary/tree/master/4-%20Convolutional%20Neural%20Networks)
-- [Foundations of CNNs Course](https://madewithml.com/courses/foundations/convolutional-neural-networks/)
+- [Foundations of CNNs Course by Madewithml](https://madewithml.com/courses/foundations/convolutional-neural-networks/)
 
 ## Computer Vision Projects
 
