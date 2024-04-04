@@ -13,80 +13,77 @@
 6.Debugging Techniques
 ### Mathematics for Machine Learning
 1.Linear Algebra
-
-Calculus
-
-Probability and Statistics
-
-Machine Learning Fundamentals
+2.Calculus
+3.Probability and Statistics
+4.Machine Learning Fundamentals
 
 #### Types of Machine Learning
-Supervised Learning
+- Supervised Learning
 
-Unsupervised Learning
+- Unsupervised Learning
 
-Model Evaluation and Selection
+- Model Evaluation and Selection
 
-Bias-Variance Tradeoff
+- Bias-Variance Tradeoff
 
-Supervised Learning
+- Supervised Learning
 
-Regression
+- Regression
 
-Classification
+- Classification
 
-Decision Trees
+- Decision Trees
 
-Random Forests
+- Random Forests
 
-Gradient Boosting
+- Gradient Boosting
 
-Unsupervised Learning
+- Unsupervised Learning
 
-Clustering
+- Clustering
 
-Dimensionality Reduction
+- Dimensionality Reduction
 
-Principal Component Analysis (PCA)
+- Principal Component Analysis (PCA)
 
-Independent Component Analysis (ICA)
+- Independent Component Analysis (ICA)
 
-Non-negative Matrix Factorization (NMF)
+- Non-negative Matrix Factorization (NMF)
 
 ### Deep Learning Fundamentals
 
-Neural Networks
+- Neural Networks
 
-Activation Functions
+- Activation Functions
 
-Loss Functions
+- Loss Functions
 
-Backpropagation
+- Backpropagation
 
-Regularization Techniques
+- Regularization Techniques
 
-Neural Networks
+- Neural Networks
 
-Feedforward Neural Networks
+- Feedforward Neural Networks
 
-Recurrent Neural Networks (RNNs)
+- Recurrent Neural Networks (RNNs)
 
-Convolutional Neural Networks (CNNs)
+- Convolutional Neural Networks (CNNs)
 
-Autoencoders
+- Autoencoders
 
 ### Convolutional Neural Networks
 (CNNs)
 
-Image Classification
+- Image Classification
 
-Object Detection
+- Object Detection
 
-Image Segmentation
+- Image Segmentation
 
-Recurrent Neural Networks (RNNs)
+- Recurrent Neural Networks (RNNs)
 
-Sequence-to-Sequence Learning
+- Sequence-to-Sequence Learning
 
 Language Modeling
 
@@ -94,123 +91,124 @@ Text Generation
 
 ### TensorFlow
 
-Building and Training Models
+- Building and Training Models
 
-TensorBoard
+- TensorBoard
 
-TF-Slim
+- TF-Slim
 
-TensorFlow Extended (TFX)
+- TensorFlow Extended (TFX)
 ### PyTorch
 
-Building and Training Models
+- Building and Training Models
 
-Saving and Loading Models
+- Saving and Loading Models
 
-PyTorch Lightning
+- PyTorch Lightning
 
 ### Natural Language Processing (NLP) Fundamentals
 
-Text Preprocessing
+- Text Preprocessing
 
-Tokenization
+- Tokenization
 
-Word Embeddings
+- Word Embeddings
 
-Named Entity Recognition (NER)
+- Named Entity Recognition (NER)
+- Using NLP for Different tasks like Text generation,summarization
 
 ### Transformers
 
-Attention Mechanism
+- Attention Mechanism
 
-BERT
+- BERT
 
-GPT
+- GPT
 
-Generative Adversarial Networks (GANs)
+- Generative Adversarial Networks (GANs)
 
-Vanilla GAN
+- Vanilla GAN
 
-DCGAN
+- DCGAN
 
 
-WGAN
+- WGAN
 
-Conditional GAN
+- Conditional GAN
 
 ### Graph Neural Networks (GNNs)
-Graph Convolutional Networks (GCNs)
+- Graph Convolutional Networks (GCNs)
 
-Message Passing Neural Networks (MPNNs)
+- Message Passing Neural Networks (MPNNs)
 
-Graph Attention Networks (GATs)
+- Graph Attention Networks (GATs)
 
 ### Linux Fundamentals
-Basic Commands
+- Basic Commands
 
-File System
+- File System
 
-Text Editors
+- Text Editors
 
-Package Management
+- Package Management
 
-Data Analysis and Analytics
+- Data Analysis and Analytics
 
-Data Cleaning and Wrangling
+- Data Cleaning and Wrangling
 
-Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 
-Data Visualization
+- Data Visualization
 
-Pandas
+- Pandas
 
-NumPy
+- NumPy
 
 ### SQL
-Relational Databases
+- Relational Databases
 
-SQL Queries
+- SQL Queries
 
-Data Manipulation Language (DML)
+- Data Manipulation Language (DML)
 
-Data Definition Language (DDL)
+- Data Definition Language (DDL)
 
 ### Tableau
-Data Visualization
+- Data Visualization
 
-Dashboard Creation
+- Dashboard Creation
 
-Table Calculations
+- Table Calculations
 
 ### Flask
-Building APIs
+- Building APIs
 
-RESTful API Design
+- RESTful API Design
 
-Authentication and Authorization
+- Authentication and Authorization
 
-Deploying Flask Applications
+- Deploying Flask Applications
 
 ### Other Resources to Help with Projects and Understanding Key Concepts
-ChatGPT-Prompts
-Papers with Code
-TensorFlow Hub
-PyTorch Hub
-Hugging Face Transformers
-Kaggle
+- ChatGPT
+- Papers with Code
+- TensorFlow Hub
+- PyTorch Hub
+- Hugging Face Transformers
+- Kaggle
 ### Portfolio
-Creating a Portfolio
-Showcasing Projects
-Writing Blog Posts
+- Creating a Portfolio
+- Showcasing Projects
+- Writing Blog Posts
 ### Machine Learning and Deep Learning Model Deployment using APIs
-Flask for Model Deployment
-Building RESTful APIs
-Docker for Containerization
-Deployment on Cloud Platforms (AWS, GCP, Azure)
+- Flask for Model Deployment
+- Building RESTful APIs
+- Docker for Containerization
+- Deployment on Cloud Platforms (AWS, GCP, Azure)
 ### End to End Machine Learning Projects Deployment
-Understanding the Business Problem
-Data Collection and Preparation
-Feature Engineering
-Model Building and Training
-Model Evaluation and Selection
-Model Deployment
+- Understanding the Business Problem
+- Data Collection and Preparation
+- Feature Engineering
+- Model Building and Training
+- Model Evaluation and Selection
+- Model Deployment
