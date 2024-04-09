@@ -2,6 +2,17 @@
 
 This repository contains a curated list of resources to help you prepare for various types of interviews, including HR interviews, technical interviews for Python, Data Science, SQL, Statistics, and more.
 
+## Data Science and Machine Learning Interview Preparation
+
+### Deep Learning Resources:
+- [DeepLearning.ai Summary](https://github.com/mbadry1/DeepLearning.ai-Summary)
+- [CS231n 2017 Summary](https://github.com/mbadry1/CS231n-2017-Summary)
+
+### Other Resources:
+- [SQL, Python, and Algorithmic Questions](https://github.com/alexeygrigorev/data-science-interviews/blob/master/technical.md)
+- [Complete Computer Science Study Plan](https://github.com/jwasham/coding-interview-university)
+- [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+
 ## Table of Contents
 
 1. [HR Interview Preparation](#hr-interview-preparation)
@@ -9,34 +20,39 @@ This repository contains a curated list of resources to help you prepare for var
 3. [Data Science and Statistics Interview Preparation](#data-science-and-statistics-interview-preparation)
 4. [DSA (Data Structures and Algorithms) Interview Preparation](#dsa-interview-preparation)
 5. [SQL Interview Preparation](#sql-interview-preparation)
-7. [Additional Resources](#additional-resources)
-8. [Statistics Courses and Resources](#statistics-courses-and-resources)
-9. [Statistics Concepts You Should Know](#statistics-concepts-you-should-know)
+7. [Statistics Courses and Resources](#statistics-courses-and-resources)
+8. [Statistics Concepts You Should Know](#statistics-concepts-you-should-know)
+
 ## HR Interview Preparation
 
 - [Resources for HR Interview preparation](https://drive.google.com/drive/folders/19zOshabFarBUCtxbju-FrhEMiX-b9QeD?usp=drive_link)
 
 ## Python Interview Preparation
 
-- [Python Cheatsheet , start with this first](https://leetcode.com/discuss/study-guide/2122306/Python-Cheat-Sheet-for-Leetcode)
+- [Python Cheatsheet, start with this first](https://leetcode.com/discuss/study-guide/2122306/Python-Cheat-Sheet-for-Leetcode)
 - [Resources for Interview preparation for Python](https://drive.google.com/drive/folders/1vXoWHuaYO-f4cIu6OwTyBzpO3Dehl8Ad?usp=drive_link)
 - [Python Interview questions](https://www.interviewbit.com/python-interview-questions/)
 - [Python Cheat sheet](https://www.interviewbit.com/python-cheat-sheet/)
 - [Coding Tips](https://realpython.com/python-coding-interview-tips/)
 
 ## Data Science and Statistics Interview Preparation
-
+### GitHub Repositories:
+- [Data Science Interview Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources/blob/master/README.md)
+- [Cracking the Data Science Interview](https://github.com/ml874/Cracking-the-Data-Science-Interview/blob/master/README.md)
+- [Data Science Interviews Theory](https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md)
+### Other Resources
+- [Data Science Interview Resources Repo](https://github.com/rbhatia46/Data-Science-Interview-Resources/tree/master)
 - [Resources for Data Science Interview preparation](https://drive.google.com/drive/folders/1dvv32hBxsE1XIK8kHs1fI0PjeRSKKE77?usp=drive_link)
 - [Data Science Interview preparation Github Repo](https://github.com/rbhatia46/Data-Science-Interview-Resources/blob/master/README.md)
 - [Machine Learning Interviews for FAANG Companies](https://github.com/khangich/machine-learning-interview)
 - [Statistics and Probability Notes from Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 - [Deep learning book with examples](https://d2l.ai/chapter_introduction/index.html)
 - [Statistics Tutorial with practical examples](https://www.kaggle.com/code/carlolepelaars/statistics-tutorial)
-- [Guide to Complete Statistical Analysis Notebook ](https://www.kaggle.com/code/shivanirana63/guide-to-complete-statistical-analysis)
-- [Statistics for Data Scientists Notebook ](https://www.kaggle.com/code/saurav9786/statistics-for-data-scientists)
+- [Guide to Complete Statistical Analysis Notebook](https://www.kaggle.com/code/shivanirana63/guide-to-complete-statistical-analysis)
+- [Statistics for Data Scientists Notebook](https://www.kaggle.com/code/saurav9786/statistics-for-data-scientists)
 - [To Show Statistical Significance on Seaborn Plots](https://levelup.gitconnected.com/statistics-on-seaborn-plots-with-statannotations-2bfce0394c00)
 - [Articles for Data Structures and Coding Patterns](https://emre.me/categories/#coding-patterns)
-- [Data Science Interview questions by krishnaik repo](https://github.com/kirankrish109/interview-question-data-science--master)
+- [Data Science Interview questions by Krishnaik Repo](https://github.com/kirankrish109/interview-question-data-science--master)
 - [Resources for Interview preparation for Statistics](https://drive.google.com/drive/folders/1HMnFLIIpTtSkfMzf5PKl9x_NgG7d5Zsf?usp=drive_link)
 
 ## DSA Interview Preparation
@@ -47,29 +63,29 @@ This repository contains a curated list of resources to help you prepare for var
 - [DSA Revision and Notes for each Data structure](https://www.programiz.com/dsa/algorithm)
 - [Time Complexity for different Data Structures](https://wiki.python.org/moin/TimeComplexity)
 - [Data Structures and Algorithms Implementation in Python](https://github.com/campusx-official/dsa-using-python/tree/main)
+- [Common Leetcode questions asked by companies](https://mlengineer.io/common-leetcode-questions-by-categories-532b301130b)
 
 ## SQL Interview Preparation
 
 - [Resources for Interview preparation for SQL](https://drive.google.com/drive/folders/1WdNTtCdjwohcO58-cQNeqjb1DSS8NUZS?usp=drive_link)
 - [SQL Interview questions](https://www.interviewbit.com/sql-interview-questions/)
 
+### Statistics Courses and Resources
+- [Udacity's "Intro to Statistics"](https://eu.udacity.com/course/intro-to-statistics--st101)
+- [Udacity's "Intro to Descriptive Statistics"](https://eu.udacity.com/course/intro-to-descriptive-statistics--ud827)
+- [Udacity's "Intro to Inferential Statistics"](https://eu.udacity.com/course/intro-to-inferential-statistics--ud201)
+- [edX's "Introduction to Probability - The Science of Uncertainty"](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
+- [Khan Academy's Videos on Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
+- [YouTube Channel for Statistics and Probability](https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ)
+- [Dataconomy: Introduction to Bayes' Theorem with Python](https://dataconomy.com/2015/02/introduction-to-bayes-theorem-with-python)
+- [Statisticshowto.datasciencecentral.com: Discrete Variable](https://www.statisticshowto.datasciencecentral.com/discrete-variable/)
+- [Statisticshowto.datasciencecentral.com: Binomial Distribution Formula](https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/binomial-theorem/binomial-distribution-formula/)
+- [Statisticshowto.datasciencecentral.com: Sample Variance](https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/descriptive-statistics/sample-variance/)
+- [Wikipedia: Poisson Distribution](https://en.wikipedia.org/wiki/Poisson_distribution)
+- [Slideshare: Simple Linear Regression](https://www.slideshare.net/dessybudiyanti/simple-linier-regression)
+- [Wikipedia: Bias–variance tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
 
 
-## Additional Resources
-
-- [Common Leetcode questions asked by companies](https://mlengineer.io/common-leetcode-questions-by-categories-532b301130b)
-- [Articles for Data structures and Coding patterns](https://emre.me/categories/#coding-patterns)
-- [Distribution of One Variable](#distribution-of-one-variable)
-- [Probability Distributions](#probability-distributions)
-- [Expected Value, Variance, and Covariance](#expected-value-variance-and-covariance)
-- [Degree of Freedom](#degree-of-freedom)
-- [Hypothesis Testing](#hypothesis-testing)
-- [Tests of Mean of Numerical Data](#tests-of-mean-of-numerical-data)
-- [Tests on Categorical Data](#tests-on-categorical-data)
-- [Feature Engineering and Selection](#feature-engineering-and-selection)
-- [Model Interpretability and Explainability](#model-interpretability-and-explainability)
-- [Advanced Statistical Methods](#advanced-statistical-methods)
-- [Bonus: Free Statistics Courses and Resources](#bonus-free-statistics-courses-and-resources)
 
 ### Time and Space Complexity for Common Data Structures in Python
 
@@ -84,17 +100,18 @@ This repository contains a curated list of resources to help you prepare for var
 | Stack            | O(1)      | O(1)     | O(n)      | O(n)   | N/A     | O(1)      | O(n)             | Insertion, Deletion, Accessing | Traversal  |
 | Queue            | O(1)      | O(1)     | O(n)      |
 
- O(n)   | N/A     | O(1)      | O(n)             | Insertion, Deletion, Accessing | Traversal  |
-| Singly Linked List | O(1)    | O(1)     | O(n)      | O(n)   | N/A     | O(n)      | O(n)             | Insertion, Deletion, Traversal | Accessing |
-| Doubly Linked List | O(1)    | O(1)     | O(n)      | O(n)   | N/A     | O(n)      | O(n)             | Insertion, Deletion, Traversal | Accessing |
-| Dynamic Array    | O(1)*     | O(1)*    | O(n)      | O(n)   | O(n log n) | O(1)     | O(n)             | Accessing           | Insertion, Deletion |
+| Data Structure     | Insertion | Deletion | Traversal | Search | Sorting | Accessing | Space Complexity | Best at            | Worst at  |
+|---------------------|-----------|----------|-----------|--------|---------|-----------|------------------|--------------------|-----------|
+| Singly Linked List | O(1)      | O(1)     | O(n)      | O(n)   | N/A     | O(n)      | O(n)             | Insertion, Deletion, Traversal | Accessing |
+| Doubly Linked List | O(1)      | O(1)     | O(n)      | O(n)   | N/A     | O(n)      | O(n)             | Insertion, Deletion, Traversal | Accessing |
+| Dynamic Array      | O(1)*     | O(1)*    | O(n)      | O(n)   | O(n log n) | O(1)     | O(n)             | Accessing          | Insertion, Deletion |
 
 Note:
 - 'n' represents the number of elements in the data structure.
 - For dynamic arrays, amortized time complexities for insertion and deletion are O(1)*, but in worst-case scenarios, they can be O(n).
 - In the "Best at" column, I've mentioned the operation at which the data structure performs most efficiently compared to others. In the "Worst at" column, I've mentioned the operation at which the data structure performs less efficiently compared to others.
 
-### Statistics Concepts You Should Know 
+### Statistics Concepts You Should Know
 
 1. **Introduction to Statistics**
     - What is Statistics?
@@ -205,17 +222,3 @@ Note:
     - Resampling techniques (Bootstrap, Cross-validation)
     - Bayesian Inference
 
-### Statistics Courses and Resources
-- [Udacity's "Intro to Statistics"](https://eu.udacity.com/course/intro-to-statistics--st101)
-- [Udacity's "Intro to Descriptive Statistics"](https://eu.udacity.com/course/intro-to-descriptive-statistics--ud827)
-- [Udacity's "Intro to Inferential Statistics"](https://eu.udacity.com/course/intro-to-inferential-statistics--ud201)
-- [edX's "Introduction to Probability - The Science of Uncertainty"](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
-- [Khan Academy's Videos on Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
-- [YouTube Channel for Statistics and Probability](https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ)
-- [Dataconomy: Introduction to Bayes' Theorem with Python](https://dataconomy.com/2015/02/introduction-to-bayes-theorem-with-python)
-- [Statisticshowto.datasciencecentral.com: Discrete Variable](https://www.statisticshowto.datasciencecentral.com/discrete-variable/)
-- [Statisticshowto.datasciencecentral.com: Binomial Distribution Formula](https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/binomial-theorem/binomial-distribution-formula/)
-- [Statisticshowto.datasciencecentral.com: Sample Variance](https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/descriptive-statistics/sample-variance/)
-- [Wikipedia: Poisson Distribution](https://en.wikipedia.org/wiki/Poisson_distribution)
-- [Slideshare: Simple Linear Regression](https://www.slideshare.net/dessybudiyanti/simple-linier-regression)
-- [Wikipedia: Bias–variance tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
