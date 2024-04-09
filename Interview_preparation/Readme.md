@@ -6,10 +6,9 @@ This repository contains a curated list of resources to help you prepare for var
 
 1. [HR Interview Preparation](#hr-interview-preparation)
 2. [Python Interview Preparation](#python-interview-preparation)
-3. [Data Science Interview Preparation](#data-science-interview-preparation)
+3. [Data Science and Statistics Interview Preparation](#data-science-and-statistics-interview-preparation)
 4. [DSA (Data Structures and Algorithms) Interview Preparation](#dsa-interview-preparation)
 5. [SQL Interview Preparation](#sql-interview-preparation)
-6. [Statistics Interview Preparation](#statistics-interview-preparation)
 7. [Additional Resources](#additional-resources)
 8. [Statistics Courses and Resources](#statistics-courses-and-resources)
 9. [Statistics Concepts You Should Know](#statistics-concepts-you-should-know)
@@ -25,18 +24,20 @@ This repository contains a curated list of resources to help you prepare for var
 - [Python Cheat sheet](https://www.interviewbit.com/python-cheat-sheet/)
 - [Coding Tips](https://realpython.com/python-coding-interview-tips/)
 
-## Data Science Interview Preparation
+## Data Science and Statistics Interview Preparation
 
 - [Resources for Data Science Interview preparation](https://drive.google.com/drive/folders/1dvv32hBxsE1XIK8kHs1fI0PjeRSKKE77?usp=drive_link)
 - [Data Science Interview preparation Github Repo](https://github.com/rbhatia46/Data-Science-Interview-Resources/blob/master/README.md)
 - [Machine Learning Interviews for FAANG Companies](https://github.com/khangich/machine-learning-interview)
 - [Statistics and Probability Notes from Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 - [Deep learning book with examples](https://d2l.ai/chapter_introduction/index.html)
-- [Statistics Tutorial](https://www.kaggle.com/code/carlolepelaars/statistics-tutorial)
-- [Guide to Complete Statistical Analysis](https://www.kaggle.com/code/shivanirana63/guide-to-complete-statistical-analysis)
-- [Statistics for Data Scientists](https://www.kaggle.com/code/saurav9786/statistics-for-data-scientists)
+- [Statistics Tutorial with practical examples](https://www.kaggle.com/code/carlolepelaars/statistics-tutorial)
+- [Guide to Complete Statistical Analysis Notebook ](https://www.kaggle.com/code/shivanirana63/guide-to-complete-statistical-analysis)
+- [Statistics for Data Scientists Notebook ](https://www.kaggle.com/code/saurav9786/statistics-for-data-scientists)
 - [To Show Statistical Significance on Seaborn Plots](https://levelup.gitconnected.com/statistics-on-seaborn-plots-with-statannotations-2bfce0394c00)
 - [Articles for Data Structures and Coding Patterns](https://emre.me/categories/#coding-patterns)
+- [Resources for Interview preparation for Statistics](https://drive.google.com/drive/folders/1HMnFLIIpTtSkfMzf5PKl9x_NgG7d5Zsf?usp=drive_link)
+- [Understanding Time Complexity](https://towardsdatascience.com/understanding-time-complexity-with-python-examples-2bda6e8158a7)
 
 ## DSA Interview Preparation
 
@@ -51,10 +52,7 @@ This repository contains a curated list of resources to help you prepare for var
 - [Resources for Interview preparation for SQL](https://drive.google.com/drive/folders/1WdNTtCdjwohcO58-cQNeqjb1DSS8NUZS?usp=drive_link)
 - [SQL Interview questions](https://www.interviewbit.com/sql-interview-questions/)
 
-## Statistics Interview Preparation
 
-- [Resources for Interview preparation for Statistics](https://drive.google.com/drive/folders/1HMnFLIIpTtSkfMzf5PKl9x_NgG7d5Zsf?usp=drive_link)
-- [Understanding Time Complexity](https://towardsdatascience.com/understanding-time-complexity-with-python-examples-2bda6e8158a7)
 
 ## Additional Resources
 
