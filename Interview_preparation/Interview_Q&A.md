@@ -1,4 +1,5 @@
-### Hypothesis testing 
+### [Hypothesis testing](https://towardsdatascience.com/hypothesis-tests-explained-8a070636bd28)
+
 Hypothesis testing is a statistical method used to make inferences about a population based on sample data. The process involves formulating two competing hypotheses: the null hypothesis (H0) and the alternative hypothesis (H1). The null hypothesis typically represents the status quo or a default assumption, while the alternative hypothesis represents what the researcher is trying to prove.
 
 The general process of hypothesis testing involves the following steps:
