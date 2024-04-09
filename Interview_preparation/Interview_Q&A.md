@@ -61,6 +61,7 @@ The Alternate Hypothesis is the logical opposite of the null hypothesis. The acc
 
 ![Hypothesis Testing](https://miro.medium.com/v2/resize:fit:960/0*oJWBEpXPpIcZZX-K.jpg)
 
+![](https://miro.medium.com/v2/resize:fit:640/format:webp/0*D_FY6eVqQSCPXO61)
 #### <a name="z-test"></a>Z Test
 
 To determine whether a discovery or relationship is statistically significant, hypothesis testing uses a z-test. It usually checks to see if two means are the same (the null hypothesis). Only when the population standard deviation is known and the sample size is 30 data points or more, can a z-test be applied.
