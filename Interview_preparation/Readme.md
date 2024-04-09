@@ -36,11 +36,12 @@ This repository contains a curated list of resources to help you prepare for var
 - [Statistics for Data Scientists Notebook ](https://www.kaggle.com/code/saurav9786/statistics-for-data-scientists)
 - [To Show Statistical Significance on Seaborn Plots](https://levelup.gitconnected.com/statistics-on-seaborn-plots-with-statannotations-2bfce0394c00)
 - [Articles for Data Structures and Coding Patterns](https://emre.me/categories/#coding-patterns)
+- [Data Science Interview questions by krishnaik repo](https://github.com/kirankrish109/interview-question-data-science--master)
 - [Resources for Interview preparation for Statistics](https://drive.google.com/drive/folders/1HMnFLIIpTtSkfMzf5PKl9x_NgG7d5Zsf?usp=drive_link)
-- [Understanding Time Complexity](https://towardsdatascience.com/understanding-time-complexity-with-python-examples-2bda6e8158a7)
 
 ## DSA Interview Preparation
 
+- [Understanding Time Complexity](https://towardsdatascience.com/understanding-time-complexity-with-python-examples-2bda6e8158a7)
 - [Resources for Interview preparation for DSA](https://drive.google.com/drive/folders/19LTeYCi0K4fnkyX7D1HiDmlWua5PkrWr?usp=drive_link)
 - [Data Structures Interview questions](https://www.interviewbit.com/data-structure-interview-questions/)
 - [DSA Revision and Notes for each Data structure](https://www.programiz.com/dsa/algorithm)
