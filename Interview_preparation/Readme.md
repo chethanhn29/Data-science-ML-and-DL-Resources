@@ -40,6 +40,8 @@ This repository contains a curated list of resources to help you prepare for var
 - [Data Science Interview Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources/blob/master/README.md)
 - [Cracking the Data Science Interview](https://github.com/ml874/Cracking-the-Data-Science-Interview/blob/master/README.md)
 - [Data Science Interviews Theory](https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md)
+
+  
 ### Other Resources
 - [Data Science Interview Resources Repo](https://github.com/rbhatia46/Data-Science-Interview-Resources/tree/master)
 - [Resources for Data Science Interview preparation](https://drive.google.com/drive/folders/1dvv32hBxsE1XIK8kHs1fI0PjeRSKKE77?usp=drive_link)
@@ -54,7 +56,7 @@ This repository contains a curated list of resources to help you prepare for var
 - [Articles for Data Structures and Coding Patterns](https://emre.me/categories/#coding-patterns)
 - [Data Science Interview questions by Krishnaik Repo](https://github.com/kirankrish109/interview-question-data-science--master)
 - [Resources for Interview preparation for Statistics](https://drive.google.com/drive/folders/1HMnFLIIpTtSkfMzf5PKl9x_NgG7d5Zsf?usp=drive_link)
-
+- [Statistics questions and answers by mlstack.cafe ](https://www.mlstack.cafe/blog/statistics-interview-questions?utm_source=email&utm_medium=welcome)
 ## DSA Interview Preparation
 
 - [Understanding Time Complexity](https://towardsdatascience.com/understanding-time-complexity-with-python-examples-2bda6e8158a7)
