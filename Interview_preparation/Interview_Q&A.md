@@ -1,5 +1,4 @@
-### Hypothesis testing and P values
-
+### Hypothesis testing 
 Hypothesis testing is a statistical method used to make inferences about a population based on sample data. The process involves formulating two competing hypotheses: the null hypothesis (H0) and the alternative hypothesis (H1). The null hypothesis typically represents the status quo or a default assumption, while the alternative hypothesis represents what the researcher is trying to prove.
 
 The general process of hypothesis testing involves the following steps:
@@ -9,6 +8,8 @@ The general process of hypothesis testing involves the following steps:
 3. Collect data and calculate the test statistic.
 4. Determine the probability of obtaining the observed results (or more extreme results) if the null hypothesis were true.
 5. Make a decision to either reject the null hypothesis in favor of the alternative hypothesis or fail to reject the null hypothesis based on the calculated probability.
+
+### P values
 
 P-values, or probability values, play a crucial role in hypothesis testing. A p-value represents the probability of obtaining the observed results, or results more extreme, under the assumption that the null hypothesis is true. In other words, it indicates the strength of the evidence against the null hypothesis.
 
