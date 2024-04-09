@@ -143,7 +143,7 @@ Note:
     - Central Limit Theorem
     - Confidence Interval
     - Hypothesis Testing
-    - Z-score
+    - [Z-score](https://influentialpoints.com/Training/the-z_test.htm)
     - P-value
     - T-tests
     - ANOVA
