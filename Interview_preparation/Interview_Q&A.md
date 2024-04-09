@@ -4,25 +4,25 @@ Hypothesis testing is a statistical method used to make inferences about a popul
 
 The general process of hypothesis testing involves the following steps:
 
-Formulate the null hypothesis (H0) and the alternative hypothesis (H1).
-Select an appropriate statistical test based on the type of data and the research question.
-Collect data and calculate the test statistic.
-Determine the probability of obtaining the observed results (or more extreme results) if the null hypothesis were true.
-Make a decision to either reject the null hypothesis in favor of the alternative hypothesis or fail to reject the null hypothesis based on the calculated probability.
+1. Formulate the null hypothesis (H0) and the alternative hypothesis (H1).
+2. Select an appropriate statistical test based on the type of data and the research question.
+3. Collect data and calculate the test statistic.
+4. Determine the probability of obtaining the observed results (or more extreme results) if the null hypothesis were true.
+5. Make a decision to either reject the null hypothesis in favor of the alternative hypothesis or fail to reject the null hypothesis based on the calculated probability.
+
 P-values, or probability values, play a crucial role in hypothesis testing. A p-value represents the probability of obtaining the observed results, or results more extreme, under the assumption that the null hypothesis is true. In other words, it indicates the strength of the evidence against the null hypothesis.
 
 Key points about p-values:
 
-A low p-value (typically less than a predefined threshold, commonly 0.05) suggests that the observed results are unlikely to have occurred if the null hypothesis were true. In such cases, the null hypothesis is often rejected in favor of the alternative hypothesis.
+1. A low p-value (typically less than a predefined threshold, commonly 0.05) suggests that the observed results are unlikely to have occurred if the null hypothesis were true. In such cases, the null hypothesis is often rejected in favor of the alternative hypothesis.
 
-A high p-value suggests that the observed results are reasonably likely to occur even if the null hypothesis were true. In such cases, there is insufficient evidence to reject the null hypothesis.
+2. A high p-value suggests that the observed results are reasonably likely to occur even if the null hypothesis were true. In such cases, there is insufficient evidence to reject the null hypothesis.
 
-The choice of significance level (alpha level), which is the threshold for determining statistical significance, is arbitrary and depends on the context of the study and the consequences of making Type I and Type II errors.
+3. The choice of significance level (alpha level), which is the threshold for determining statistical significance, is arbitrary and depends on the context of the study and the consequences of making Type I and Type II errors.
 
-It's important to note that a p-value alone does not provide evidence in favor of the alternative hypothesis or prove a specific hypothesis. It simply indicates the strength of evidence against the null hypothesis.
+4. It's important to note that a p-value alone does not provide evidence in favor of the alternative hypothesis or prove a specific hypothesis. It simply indicates the strength of evidence against the null hypothesis.
 
 In summary, hypothesis testing helps researchers draw conclusions about population parameters based on sample data, and p-values provide a quantitative measure of the strength of evidence against the null hypothesis.
-
 
 ### To undestand easily
 
