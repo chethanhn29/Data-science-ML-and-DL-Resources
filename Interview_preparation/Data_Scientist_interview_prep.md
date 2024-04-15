@@ -7,6 +7,11 @@
 - [best Notes](https://home.csulb.edu/~msaintg/ppa696/696stsig.htm)
 - [Khan Academy Practice with theory](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample)
 
+### Staistical analysis with Code
+- https://www.kaggle.com/code/shivanirana63/guide-to-complete-statistical-analysis
+- https://www.kaggle.com/code/gauravsharma99/statistical-analysis-on-mpg-data
+- https://www.kaggle.com/code/saurav9786/statistical-testing-and-analysis#Inferential-Statistics
+- https://www.kaggle.com/code/saurav9786/statistics-for-data-scientists
 
 
 ###  Measures in a variable
@@ -394,13 +399,69 @@ Below are notes on different types of distributions, along with how data typical
 2. **Key Concepts:**
    - **Null Hypothesis (\( H_0 \)):** The null hypothesis represents the default assumption or belief about the population parameter. It typically states that there is no significant difference or effect.
    - **Alternative Hypothesis (\( H_1 \) or \( H_a \)):** The alternative hypothesis represents the claim or assertion that contradicts the null hypothesis. It is what researchers are trying to find evidence for.
-   - **Significance Level (\( \alpha \)):** The significance level is the probability of rejecting the null hypothesis when it is true. Commonly used values for \( \alpha \) are 0.05 or 0.01, representing the probability of a Type I error.
-   - **Test Statistic:** The test statistic is a numerical summary of the sample data that is used to evaluate the evidence against the null hypothesis.
+   - **Significance Level (\( \alpha \)):** The significance level is the probability of rejecting the null hypothesis when it is true. Commonly used values for \( \alpha \) are 0.05 or 0.01, representing the probability of a Type I error. or The level of significance is the measurement of the statistical significance. It defines whether the null hypothesis is assumed to be accepted or rejected. It is expected to identify if the result is statistically significant for the null hypothesis to be false or rejected.
+   - **Test Statistic:** The test statistic is a numerical summary of the sample data that is used to evaluate the evidence against the null hypothesis. or Test statistic is a quantity derived from the sample for statistical hypothesis testing.
    - **P-Value:** The p-value is the probability of observing the test statistic (or more extreme) under the assumption that the null hypothesis is true. A smaller p-value indicates stronger evidence against the null hypothesis.
    - **Critical Region (Rejection Region):** The critical region is the range of values of the test statistic for which the null hypothesis is rejected.
    - **Type I Error:** Type I error occurs when the null hypothesis is incorrectly rejected when it is actually true (false positive).
    - **Type II Error:** Type II error occurs when the null hypothesis is not rejected when it is actually false (false negative).
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2tSb2SvZp4MCuOHqXATsSHmLHpzLbErLIPivbqtUhOw&s)
+![](https://miro.medium.com/v2/resize:fit:1400/1*k_tYVawz56_gM6suVd2dyA.png)
 
+![](https://www.researchgate.net/publication/367393140/figure/fig4/AS:11431281114710300@1674648981676/Confusion-matrix-Precision-Recall-Accuracy-and-F1-score.jpg)
+      ### Example: Coin Toss Experiment
+      
+      **Scenario:** Suppose you are interested in determining whether a coin is fair (i.e., has an equal probability of landing heads or tails). You decide to conduct an experiment where you toss the coin 100 times and record the outcomes.
+      
+      ### Key Concepts Applied:
+      
+      1. **Null Hypothesis (\( H_0 \)):**  
+         \( H_0 \): The coin is fair, meaning the probability of getting heads (\( P(H) \)) is equal to 0.5.
+      
+      2. **Alternative Hypothesis (\( H_1 \) or \( H_a \)):**  
+         \( H_1 \): The coin is not fair, implying that \( P(H) \) is not equal to 0.5.
+      
+      3. **Significance Level (\( \alpha \)):**  
+         Let's choose \( \alpha = 0.05 \). This means we're willing to accept a 5% chance of incorrectly rejecting the null hypothesis.
+      
+      4. **Test Statistic:**  
+         We can use the proportion of heads observed in our sample as the test statistic. Let's denote it as \( \hat{p} \).
+      
+      5. **P-Value:**  
+         The p-value is the probability of observing our test statistic (or a more extreme value) if the null hypothesis is true. In this case, it's the probability of getting the observed proportion of heads (or more extreme) if the coin is fair.
+      
+      6. **Critical Region (Rejection Region):**  
+         For a two-tailed test (since we're interested in deviations from both sides of \( P(H) = 0.5 \)), the critical region consists of extreme values of \( \hat{p} \) that would lead us to reject the null hypothesis. We'll use a Z-test for proportions to find this region.
+      
+      7. **Type I Error:**  
+         Rejecting the null hypothesis when it's actually true would mean incorrectly concluding that the coin is unfair.
+      
+      8. **Type II Error:**  
+         Failing to reject the null hypothesis when it's actually false would mean failing to identify that the coin is unfair.
+      
+      ### Conducting the Experiment:
+      
+      Let's say we conduct the experiment and observe that out of 100 tosses, we get 45 heads (\( \hat{p} = 0.45 \)).
+      
+      ### Analysis:
+      
+      1. **Compute the Test Statistic:**  
+         For a proportion, we can use the formula:  
+         \( Z = \frac{\hat{p} - p}{\sqrt{\frac{p(1-p)}{n}}} \)  
+         where \( p = 0.5 \) (under the null hypothesis), \( n = 100 \), and \( \hat{p} = 0.45 \).  
+         Calculating, we find \( Z = -1.50 \).
+      
+      2. **Compute the P-Value:**  
+         Since this is a two-tailed test, we look for the probability of getting a Z-value of -1.50 or less in a standard normal distribution. Consulting a Z-table or using software, we find the p-value to be approximately 0.134.
+      
+      3. **Decision:**  
+         With a p-value of 0.134, which is greater than our chosen significance level of 0.05, we fail to reject the null hypothesis.
+      
+      ### Conclusion:
+      
+      Based on our experiment and hypothesis test, we do not have sufficient evidence to conclude that the coin is unfair at the 5% significance level. However, it's important to note that this conclusion is specific to our chosen sample size and significance level.
+      
+      This example demonstrates how hypothesis testing concepts are applied in real-world scenarios to make informed decisions based on data.
 3. **Steps in Hypothesis Testing:**
    - **Step 1: Formulate Hypotheses:** State the null and alternative hypotheses based on the research question.
    - **Step 2: Choose Significance Level:** Determine the significance level (\( \alpha \)) for the test.
