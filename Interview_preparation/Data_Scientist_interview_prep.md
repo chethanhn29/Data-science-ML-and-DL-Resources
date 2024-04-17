@@ -2,6 +2,8 @@
 
 ### [Books to study Statistics](https://www.kaggle.com/discussions/general/205585)
 
+- [Interview questions repo](https://github.com/chethanhn29/interview-question-data-science)
+- [Interview questions for Data Scientists](https://www.analyticsvidhya.com/blog/2022/08/top-40-data-science-statistics-interview-questions/)
 
 #### [Siginificance testing](https://www.westga.edu/academics/research/vrc/assets/docs/tests_of_significance_notes.pdf)
 - [best Notes](https://home.csulb.edu/~msaintg/ppa696/696stsig.htm)
@@ -610,3 +612,187 @@ Understanding the t-test is essential for comparing means between groups or eval
    - ANOVA is widely used in various fields, including experimental research, clinical trials, social sciences, and manufacturing industries, to compare means across multiple groups and identify significant differences.
 
 Understanding ANOVA is essential for researchers and data analysts who need to compare means across multiple groups and assess the impact of categorical factors on a continuous outcome variable. Proper interpretation and application of ANOVA help in making informed decisions and drawing valid conclusions from experimental or observational data.
+
+
+
+
+![](https://www.gigacalculator.com/articles/wp-content/uploads/2020/12/p-value-significance-level-explained.png)
+
+
+1. **What is the Central Limit Theorem, and why is it important in statistics?**
+   
+   **Answer:** The Central Limit Theorem states that the sampling distribution of the sample mean approaches a normal distribution as the sample size increases, regardless of the shape of the population distribution. This theorem is crucial because it allows us to make inferences about the population mean using the sample mean, even when the population distribution is unknown or not normally distributed.
+
+2. **Explain the difference between Type I and Type II errors.**
+
+   **Answer:** Type I error (false positive) occurs when we reject a true null hypothesis, while Type II error (false negative) occurs when we fail to reject a false null hypothesis. In simpler terms, Type I error is when we wrongly conclude that something is true when it is not, and Type II error is when we wrongly conclude that something is not true when it actually is.
+
+3. **What is p-value, and how is it used in hypothesis testing?**
+
+   **Answer:** The p-value is the probability of obtaining a test statistic as extreme as, or more extreme than, the observed results under the assumption that the null hypothesis is true. In hypothesis testing, if the p-value is less than a predetermined significance level (usually denoted as α, e.g., 0.05), we reject the null hypothesis in favor of the alternative hypothesis, indicating that the observed results are statistically significant.
+
+4. **Explain the concept of correlation and its types.**
+
+   **Answer:** Correlation measures the strength and direction of the linear relationship between two variables. There are two types of correlation:
+   - Pearson correlation coefficient: Measures the linear relationship between two continuous variables. It ranges from -1 to 1, where -1 indicates a perfect negative correlation, 1 indicates a perfect positive correlation, and 0 indicates no correlation.
+   - Spearman correlation coefficient: Measures the strength and direction of the monotonic relationship between two variables, particularly when the relationship is non-linear or when one or both variables are ordinal.
+
+5. **What is the difference between population mean and sample mean?**
+
+   **Answer:** The population mean represents the average value of a variable in the entire population, whereas the sample mean represents the average value of a variable in a subset (sample) of the population.
+
+6. **What is standard deviation, and how is it different from variance?**
+
+   **Answer:** Standard deviation measures the dispersion or spread of data points around the mean. It is the square root of the variance. Variance, on the other hand, measures the average squared deviation of each data point from the mean. Standard deviation is expressed in the same units as the data, whereas variance is expressed in squared units.
+
+7. **Explain the difference between parametric and non-parametric statistics.**
+
+   **Answer:** Parametric statistics assume that the data follows a specific probability distribution (e.g., normal distribution), and the parameters of that distribution are known. Non-parametric statistics make no such assumptions about the underlying distribution of the data and are used when the data distribution is unknown or not normal.
+
+8. **What is the difference between a population and a sample?**
+
+   **Answer:** A population includes all members of a specified group, whereas a sample is a subset of the population selected for analysis. In statistical analysis, we often use samples to make inferences about populations because studying the entire population may be impractical or impossible.
+
+9. **Explain the concept of hypothesis testing and the steps involved in it.**
+
+   **Answer:** Hypothesis testing is a statistical method used to make inferences about population parameters based on sample data. The steps involved in hypothesis testing are:
+   - Formulate the null hypothesis (H0) and alternative hypothesis (H1).
+   - Choose an appropriate test statistic and significance level (α).
+   - Collect sample data and calculate the test statistic.
+   - Determine the p-value associated with the test statistic.
+   - Make a decision: if the p-value is less than α, reject H0; otherwise, fail to reject H0.
+
+10. **What is regression analysis, and how is it used in statistics?**
+
+    **Answer:** Regression analysis is a statistical technique used to model the relationship between a dependent variable and one or more independent variables. It helps to understand how changes in the independent variables are associated with changes in the dependent variable. There are different types of regression analysis, such as linear regression, logistic regression, and polynomial regression, each suitable for different types of data and relationships.
+
+11. **What is the difference between a parameter and a statistic?**
+
+    **Answer:** A parameter is a characteristic of a population, typically denoted by Greek letters (e.g., μ for population mean, σ for population standard deviation), whereas a statistic is a characteristic of a sample, typically denoted by Latin letters (e.g., x̄ for sample mean, s for sample standard deviation). Parameters are fixed and unknown constants, while statistics are random variables that vary from sample to sample.
+
+12. **Explain the concept of the normal distribution.**
+
+    **Answer:** The normal distribution, also known as the Gaussian distribution, is a bell-shaped probability distribution that is symmetric around the mean. In a normal distribution, the mean, median, and mode are all equal and located at the center of the distribution. The standard deviation determines the spread or dispersion of the distribution. Many natural phenomena, such as heights and weights of individuals, follow approximately normal distributions due to the Central Limit Theorem.
+
+13. **What is the difference between a confidence interval and a prediction interval?**
+
+    **Answer:** A confidence interval is an interval estimate for a population parameter (e.g., population mean) based on sample data, with an associated level of confidence (e.g., 95%). It provides a range of plausible values for the parameter. A prediction interval, on the other hand, is an interval estimate for a future observation or outcome based on a regression model and a specified level of confidence. It accounts for both the uncertainty in estimating the mean response and the variability of individual observations.
+
+14. **Explain the concept of hypothesis testing in the context of a one-sample t-test.**
+
+    **Answer:** In a one-sample t-test, we test a hypothesis about the population mean when the population standard deviation is unknown. The null hypothesis (H0) typically states that the population mean is equal to a specified value, while the alternative hypothesis (H1) states that the population mean is not equal to the specified value. We calculate the t-statistic using the sample mean, sample standard deviation, and sample size, and then compare it to the critical t-value from the t-distribution to make a decision about rejecting or failing to reject the null hypothesis.
+
+15. **What is the purpose of a chi-squared test, and how is it used?**
+
+    **Answer:** A chi-squared test is used to determine whether there is a significant association between two categorical variables. It compares the observed frequencies of the categories with the expected frequencies under the assumption of independence between the variables. There are different types of chi-squared tests, including the chi-squared test for independence (used when analyzing contingency tables) and the chi-squared goodness-of-fit test (used when comparing observed and expected frequencies for one categorical variable).
+
+16. **Explain the concept of multicollinearity in regression analysis.**
+
+    **Answer:** Multicollinearity occurs when two or more independent variables in a regression model are highly correlated with each other. This can lead to unstable estimates of the regression coefficients and inflated standard errors, making it difficult to interpret the individual effects of the independent variables on the dependent variable. To detect multicollinearity, one can calculate the variance inflation factor (VIF) for each independent variable, with values greater than 10 indicating a problematic level of multicollinearity.
+
+17. **What is sampling bias, and how can it affect the results of a study?**
+
+    **Answer:** Sampling bias occurs when the individuals or observations selected for inclusion in a sample are not representative of the population of interest. This can lead to systematic errors in estimation and inference, as the sample may overrepresent or underrepresent certain characteristics of the population. Common types of sampling bias include selection bias, response bias, and non-response bias. To mitigate sampling bias, researchers can use random sampling techniques and carefully consider the sampling frame and methods.
+
+18. **Explain the concept of Type III sum of squares in the context of ANOVA.**
+
+    **Answer:** In analysis of variance (ANOVA), the Type III sum of squares represents the unique contribution of each independent variable to the variance in the dependent variable, after accounting for the effects of other independent variables in the model. It is often used in models with categorical independent variables (factors) and is calculated by comparing the sums of squares for each factor with and without the factor in the model. Type III sums of squares are especially useful when there are interactions between the independent variables.
+
+19. **What is a histogram, and how is it used to visualize data?**
+
+    **Answer:** A histogram is a graphical representation of the distribution of numerical data, where the data is divided into intervals (bins) along the x-axis, and the frequency or density of observations in each interval is represented by the height of the corresponding bar on the y-axis. Histograms are useful for visualizing the shape, center, and spread of a distribution, as well as identifying patterns and outliers in the data.
+
+20. **Explain the concept of Bayesian inference and how it differs from frequentist inference.**
+
+    **Answer:** Bayesian inference is a statistical approach that combines prior knowledge or beliefs with observed data to update and quantify uncertainty about unknown parameters using Bayes' theorem. It treats parameters as random variables with probability distributions and provides posterior distributions as estimates of parameter values. In contrast, frequentist inference relies solely on the likelihood of the observed data given the parameters and does not incorporate prior information. Bayesian inference allows for more flexible modeling and incorporates uncertainty in a more intuitive way, but it requires specifying prior distributions, which can be subjective.
+
+11. **What is the difference between a parameter and a statistic?**
+
+    **Answer:** A parameter is a characteristic of a population, typically denoted by Greek letters (e.g., μ for population mean, σ for population standard deviation), whereas a statistic is a characteristic of a sample, typically denoted by Latin letters (e.g., x̄ for sample mean, s for sample standard deviation). Parameters are fixed and unknown constants, while statistics are random variables that vary from sample to sample.
+
+12. **Explain the concept of the normal distribution.**
+
+    **Answer:** The normal distribution, also known as the Gaussian distribution, is a bell-shaped probability distribution that is symmetric around the mean. In a normal distribution, the mean, median, and mode are all equal and located at the center of the distribution. The standard deviation determines the spread or dispersion of the distribution. Many natural phenomena, such as heights and weights of individuals, follow approximately normal distributions due to the Central Limit Theorem.
+
+13. **What is the difference between a confidence interval and a prediction interval?**
+
+    **Answer:** A confidence interval is an interval estimate for a population parameter (e.g., population mean) based on sample data, with an associated level of confidence (e.g., 95%). It provides a range of plausible values for the parameter. A prediction interval, on the other hand, is an interval estimate for a future observation or outcome based on a regression model and a specified level of confidence. It accounts for both the uncertainty in estimating the mean response and the variability of individual observations.
+
+14. **Explain the concept of hypothesis testing in the context of a one-sample t-test.**
+
+    **Answer:** In a one-sample t-test, we test a hypothesis about the population mean when the population standard deviation is unknown. The null hypothesis (H0) typically states that the population mean is equal to a specified value, while the alternative hypothesis (H1) states that the population mean is not equal to the specified value. We calculate the t-statistic using the sample mean, sample standard deviation, and sample size, and then compare it to the critical t-value from the t-distribution to make a decision about rejecting or failing to reject the null hypothesis.
+
+15. **What is the purpose of a chi-squared test, and how is it used?**
+
+    **Answer:** A chi-squared test is used to determine whether there is a significant association between two categorical variables. It compares the observed frequencies of the categories with the expected frequencies under the assumption of independence between the variables. There are different types of chi-squared tests, including the chi-squared test for independence (used when analyzing contingency tables) and the chi-squared goodness-of-fit test (used when comparing observed and expected frequencies for one categorical variable).
+
+16. **Explain the concept of multicollinearity in regression analysis.**
+
+    **Answer:** Multicollinearity occurs when two or more independent variables in a regression model are highly correlated with each other. This can lead to unstable estimates of the regression coefficients and inflated standard errors, making it difficult to interpret the individual effects of the independent variables on the dependent variable. To detect multicollinearity, one can calculate the variance inflation factor (VIF) for each independent variable, with values greater than 10 indicating a problematic level of multicollinearity.
+
+17. **What is sampling bias, and how can it affect the results of a study?**
+
+    **Answer:** Sampling bias occurs when the individuals or observations selected for inclusion in a sample are not representative of the population of interest. This can lead to systematic errors in estimation and inference, as the sample may overrepresent or underrepresent certain characteristics of the population. Common types of sampling bias include selection bias, response bias, and non-response bias. To mitigate sampling bias, researchers can use random sampling techniques and carefully consider the sampling frame and methods.
+
+18. **Explain the concept of Type III sum of squares in the context of ANOVA.**
+
+    **Answer:** In analysis of variance (ANOVA), the Type III sum of squares represents the unique contribution of each independent variable to the variance in the dependent variable, after accounting for the effects of other independent variables in the model. It is often used in models with categorical independent variables (factors) and is calculated by comparing the sums of squares for each factor with and without the factor in the model. Type III sums of squares are especially useful when there are interactions between the independent variables.
+
+19. **What is a histogram, and how is it used to visualize data?**
+
+    **Answer:** A histogram is a graphical representation of the distribution of numerical data, where the data is divided into intervals (bins) along the x-axis, and the frequency or density of observations in each interval is represented by the height of the corresponding bar on the y-axis. Histograms are useful for visualizing the shape, center, and spread of a distribution, as well as identifying patterns and outliers in the data.
+
+20. **Explain the concept of Bayesian inference and how it differs from frequentist inference.**
+
+    **Answer:** Bayesian inference is a statistical approach that combines prior knowledge or beliefs with observed data to update and quantify uncertainty about unknown parameters using Bayes' theorem. It treats parameters as random variables with probability distributions and provides posterior distributions as estimates of parameter values. In contrast, frequentist inference relies solely on the likelihood of the observed data given the parameters and does not incorporate prior information. Bayesian inference allows for more flexible modeling and incorporates uncertainty in a more intuitive way, but it requires specifying prior distributions, which can be subjective.
+
+21. **What is the difference between a z-test and a t-test?**
+
+    **Answer:** Both z-tests and t-tests are used for hypothesis testing, particularly for comparing sample means to population means or comparing means between two groups. However, they differ in their assumptions:
+    - Z-test: Requires knowledge of the population standard deviation and is typically used when the sample size is large (n > 30).
+    - T-test: Does not require knowledge of the population standard deviation and is used when the sample size is small (n < 30) or when the population standard deviation is unknown.
+
+22. **Explain the concept of statistical power and its importance in hypothesis testing.**
+
+    **Answer:** Statistical power is the probability of correctly rejecting the null hypothesis when it is false (i.e., detecting a true effect or difference). A high statistical power indicates a low probability of committing a Type II error (false negative). Power analysis is important because it helps determine the sample size needed to detect a given effect size with a desired level of confidence. Factors affecting statistical power include sample size, effect size, significance level, and variability in the data.
+
+23. **What is the difference between a one-tailed test and a two-tailed test?**
+
+    **Answer:** In a one-tailed (one-sided) test, the alternative hypothesis specifies the direction of the effect (e.g., greater than, less than), and the critical region is located entirely on one side of the distribution. One-tailed tests are used when there is a specific directional hypothesis. In contrast, in a two-tailed (two-sided) test, the alternative hypothesis does not specify the direction of the effect, and the critical region is split between both sides of the distribution. Two-tailed tests are used when the hypothesis is non-directional or when testing for the possibility of both positive and negative effects.
+
+24. **Explain the concept of outlier detection and common methods for identifying outliers.**
+
+    **Answer:** Outliers are data points that significantly deviate from the rest of the data in a dataset. Common methods for identifying outliers include:
+    - Visual inspection using box plots, scatter plots, or histograms.
+    - Statistical methods such as the z-score method (identifying data points with z-scores beyond a certain threshold) or the IQR (interquartile range) method (identifying data points outside 1.5 times the IQR from the first and third quartiles).
+    - Machine learning-based approaches such as clustering or anomaly detection algorithms.
+
+25. **What is the difference between correlation and causation? Provide an example to illustrate the difference.**
+
+    **Answer:** Correlation refers to a statistical relationship between two variables, where changes in one variable are associated with changes in another variable. However, correlation does not imply causation; that is, a correlation between two variables does not necessarily mean that changes in one variable cause changes in the other variable. For example, there may be a positive correlation between ice cream sales and drowning deaths during the summer months, but this does not mean that eating ice cream causes drowning. Instead, both variables are influenced by a third factor—hot weather.
+
+26. **Explain the concept of overfitting in machine learning models and how it can be addressed.**
+
+    **Answer:** Overfitting occurs when a machine learning model learns to capture noise or random fluctuations in the training data, leading to poor generalization performance on unseen data. Overfitting can be addressed using various techniques, including:
+    - Regularization methods (e.g., L1 and L2 regularization) to penalize overly complex models.
+    - Cross-validation to assess model performance on independent data.
+    - Feature selection or dimensionality reduction to reduce the complexity of the model.
+    - Ensemble methods (e.g., random forests, gradient boosting) to combine multiple models and reduce overfitting.
+
+27. **What is the difference between a type III and type IV error?**
+
+    **Answer:** Type III and type IV errors are less commonly discussed compared to type I and type II errors. 
+    - Type III error occurs when a statistical test is conducted correctly, but the wrong conclusion is drawn. This might happen due to misinterpretation of results or incorrect assumptions about the underlying data.
+    - Type IV error occurs when the wrong problem is solved, leading to a solution that does not address the actual problem. This can happen due to misidentification or misunderstanding of the problem statement.
+
+28. **Explain the concept of bootstrapping and how it is used in statistics.**
+
+    **Answer:** Bootstrapping is a resampling technique used to estimate the sampling distribution of a statistic by repeatedly sampling from the observed data with replacement. It allows for estimating the variability of a statistic and constructing confidence intervals without making assumptions about the underlying population distribution. Bootstrapping is particularly useful when parametric methods are not applicable or when the sample size is small.
+
+29. **What is the difference between a population parameter and a sample statistic? Provide examples.**
+
+    **Answer:** A population parameter is a numerical characteristic of a population, such as the population mean or variance. It is typically denoted by Greek letters (e.g., μ for population mean, σ² for population variance). A sample statistic, on the other hand, is a numerical characteristic of a sample drawn from the population, such as the sample mean or sample variance. It is typically denoted by Latin letters with a hat (e.g., x̄ for sample mean, s² for sample variance). For example, if we are studying the heights of all adults in a country, the average height of the entire population would be a population parameter, while the average height of a sample of 100 individuals would be a sample statistic.
+
+30. **Explain the concept of statistical independence and its significance in probability theory.**
+
+    **Answer:** Two events are statistically independent if the occurrence of one event does not affect the probability of the other event occurring. Mathematically, events A and B are independent if P(A ∩ B) = P(A) * P(B). Independence is a fundamental concept in probability theory and is used to simplify calculations and make assumptions about random variables and events. For example, when rolling two fair dice, the outcome of one die does not affect the outcome of the other die, making the events of rolling a 4 on the first die and rolling a 6 on the second die independent.
