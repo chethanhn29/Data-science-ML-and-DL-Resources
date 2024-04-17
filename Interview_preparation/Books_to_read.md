@@ -1,4 +1,4 @@
-Certainly! Here's a list of must-read books for different skills in data science for both data scientists and machine learning engineers:
+#### list of must-read books for different skills in data science for both data scientists and machine learning engineers:
 
 **Data Science Skills:**
 
@@ -44,10 +44,6 @@ Certainly! Here's a list of must-read books for different skills in data science
    - "Prediction Machines" by Ajay Agrawal, Joshua Gans, and Avi Goldfarb
    - "Python for Finance" by Yves Hilpisch
 
-These books cover a range of essential skills and knowledge areas required for data scientists and machine learning engineers. Depending on your specific interests and career goals, you can select books from each category to deepen your understanding and expertise in data science and machine learning.
-
-
-Here's a list of must-read books for different skills in data science for both data scientists and machine learning engineers:
 
 **Foundational Skills**
 
@@ -75,6 +71,3 @@ Here's a list of must-read books for different skills in data science for both d
 * **Data Science for Business** by Foster Provost and Tom Fawcett: This book bridges the gap between data science and business, showing you how to use data science to solve real-world business problems. [Image of Data Science for Business Book]
 * **The Art of Data Science** by David Evans: This book explores the broader aspects of data science, including the data science lifecycle, communication, and ethics. [Image of The Art of Data Science Book]
 
-This is just a starting point, of course, and there are many other great data science books available. The best books for you will depend on your specific interests and experience level. 
-
-Remember, these are just a recommended few. It is always best to explore and find what suits your learning style and interests best!
