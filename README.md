@@ -111,6 +111,8 @@
 ### Resources
 - [Top 200 Repositories for Machine Learning and Deep Learning](https://github.com/mbadry1/Top-Deep-Learning)
 - [Top ML and DL Projects Repositories](https://github.com/aymericdamien/TopDeepLearning)
+-  [Watchlist for ALl ML/DL/LLM/Computervision/NLP lectures and Courses](https://aman.ai/watch/)
+
 
 ### Courses
 - [Deeplearning.ai Course](https://github.com/mbadry1/DeepLearning.ai-Summary)
