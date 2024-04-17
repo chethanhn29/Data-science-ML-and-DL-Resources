@@ -4,6 +4,8 @@
 
 #### [Watchlist for ALl kind of ML/DL/LLM/Computervision/NLP](https://aman.ai/watch/)
 #### [RAG](https://aman.ai/primers/ai/RAG/)
+- #### [Langchain Handbook](https://www.pinecone.io/learn/langchain/)
+-  [Langchain Cheatsheet](https://pub.towardsai.net/langchain-cheatsheet-all-secrets-on-a-single-page-8be26b721cde)
 
 This repository contains a curated list of resources to help you prepare for interviews related to Large Language Models (LLMs). Whether you're aiming for a role in LLM engineering, research, or application development, these resources cover a wide range of topics and challenges associated with LLMs.
 
