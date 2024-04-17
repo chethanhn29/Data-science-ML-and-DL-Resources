@@ -1,4 +1,6 @@
-## [Model Parameters](#model-parameters) vs. [Hyperparameters](#hyperparameters) and Their [Key Differences](#key-differences)
+- [Model Parameters](#model-parameters) 
+- [Hyperparameters](#hyperparameters)
+- [Key Differences between Parameters and Hyperparameters](#key-differences)
 
 When working with machine learning models, it's important to understand the difference between model parameters and hyperparameters.
 
