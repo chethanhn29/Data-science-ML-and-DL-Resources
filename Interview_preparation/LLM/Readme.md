@@ -1,5 +1,10 @@
 # Large Language Models (LLMs) Interview Preparation
 
+### [Langchain Tutorials](https://python.langchain.com/docs/additional_resources/tutorials)
+
+#### [Watchlist for ALl kind of ML/DL/LLM/Computervision/NLP](https://aman.ai/watch/)
+#### [RAG](https://aman.ai/primers/ai/RAG/)
+
 This repository contains a curated list of resources to help you prepare for interviews related to Large Language Models (LLMs). Whether you're aiming for a role in LLM engineering, research, or application development, these resources cover a wide range of topics and challenges associated with LLMs.
 
 
