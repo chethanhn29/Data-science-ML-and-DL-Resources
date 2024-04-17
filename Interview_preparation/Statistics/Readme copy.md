@@ -1,4 +1,3 @@
-
 # Resources for Interview Preparation
 
 This repository contains a curated list of resources to help you prepare for various types of interviews, including HR interviews, technical interviews for Python, Data Science, SQL, Statistics, and more.
