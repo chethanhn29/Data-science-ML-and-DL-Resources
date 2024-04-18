@@ -1,6 +1,6 @@
 
 - [Machine learning learning Interview questions](https://aman.ai/primers/ai/interview/#deep-learning)
-
+- [Machine Learning ractical Notes](https://github.com/praj2408/Machine-Learning-Notes/tree/main)
 
 ## Hands on Machine learning with scikit learn,keras and tensorflow
   
