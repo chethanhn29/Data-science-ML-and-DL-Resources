@@ -23,6 +23,8 @@ Fine-tuning LLM involves additional training of a pre-existing model with a smal
 5. Task-specific adaptation: Adjust model parameters based on the new dataset.
 
 ## 3. Fine-tuning Methods {#fine-tuning-methods}
+- [Articles 1](https://abvijaykumar.medium.com/fine-tuning-llm-parameter-efficient-fine-tuning-peft-lora-qlora-part-1-571a472612c4)
+- [Article 2](https://dassum.medium.com/fine-tune-large-language-model-llm-on-a-custom-dataset-with-qlora-fb60abdeba07)
 
 ### a. Full Fine Tuning (Instruction fine-tuning) {#full-fine-tuning-instruction-fine-tuning}
 
@@ -116,7 +118,7 @@ Utilizes nVidia unified memory feature for seamless GPU->CPU page transfers to m
 
 ---
 
-# Reinforcement Learning from Human Feedback
+# [Reinforcement Learning from Human Feedback](https://www.labellerr.com/blog/reinforcement-learning-from-human-feedback/)
 
 ## 1. Reinforcement Learning from Human Feedback (RLHF) Overview
 
