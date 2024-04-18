@@ -22,6 +22,94 @@ Fine-tuning LLM involves additional training of a pre-existing model with a smal
 4. Fine-tune the model on the domain-specific dataset.
 5. Task-specific adaptation: Adjust model parameters based on the new dataset.
 
+## Notes on Parameter-Efficient Fine-Tuning (PEFT) for LLMs
+
+**Problem:** Training Large Language Models (LLMs) requires significant computational resources due to:
+
+* **High memory usage:** Model weights (hundreds of GB), optimizer states, gradients, activations, and temporary memory.
+* **Full fine-tuning:** Updating all model parameters during training, creating large memory footprints and storage issues for multiple tasks.
+
+**Solution:** PEFT reduces memory and storage requirements by training only a subset of parameters.
+
+**Benefits:**
+
+* **Reduced memory footprint:** Enables training on single GPUs.
+* **Less prone to catastrophic forgetting:** Preserves original LLM knowledge.
+* **Efficient adaptation for multiple tasks:** Smaller trained weights and easier swapping for different tasks.
+
+**Three main PEFT approaches:**
+
+1. **Selective methods:** Update a subset of existing LLM parameters (layers, components, parameter types). Mixed performance, complex trade-offs. (Not covered in this course.)
+2. **Reparameterization methods:** Reduce trainable parameters by creating low-rank transformations of original weights. Example: LoRA (covered in next video).
+3. **Additive methods:** Introduce new trainable components while freezing original LLM weights. Two main approaches:
+    * **Adapter methods:** Add new layers to the model architecture (e.g., encoder/decoder).
+    * **Soft prompt methods:** Manipulate the input to achieve better performance.
+        * Trainable prompt embeddings.
+        * Retrain fixed input embedding weights.
+
+**Example:** Soft prompt tuning technique for specific tasks.
+
+**Additional notes:**
+
+* PEFT methods have trade-offs between parameter efficiency, memory efficiency, training speed, model quality, and inference costs.
+* Consider these trade-offs when choosing a PEFT method for your task.
+
+**Further learning:**
+
+* Next video: LoRA method for reparameterization.
+
+
+## Additional Notes and Information for PEFT:
+
+**General:**
+
+* LLMs require specialized hardware like TPUs for full fine-tuning, making PEFT crucial for wider accessibility.
+* PEFT can potentially save energy and computational resources, contributing to green AI practices.
+* Continual learning for LLMs becomes feasible with PEFT, as adapting to new tasks doesn't require retraining from scratch.
+
+**Selective methods:**
+
+* Can be effective for tasks requiring specific model components (e.g., updating decoder layers for text generation).
+* Identifying optimal parameters for update can be challenging.
+
+**Reparameterization methods:**
+
+* LoRA reduces memory usage by a factor of 10x while maintaining comparable performance.
+* Other methods like Kronecker Factored Transformers (KFT) offer further memory and computation gains.
+
+**Additive methods:**
+
+* Adapters are flexible and can be easily added to different model architectures.
+* Soft prompts are lightweight and efficient but might require careful prompt engineering.
+
+**Examples:**
+
+* Fine-tuning a pre-trained LLM for question answering using adapter modules on top of the decoder.
+* Prompt tuning a pre-trained LLM for sentiment analysis by adding trainable parameters to the input embeddings.
+
+**Trade-offs:**
+
+* Parameter efficiency vs. model quality: Simpler PEFT methods might lead to slight performance drops compared to full fine-tuning.
+* Memory efficiency vs. training speed: Some methods like LoRA require additional computations during training.
+
+**Further Resources:**
+
+* Papers: "Parameter-Efficient Fine-Tuning of Large Language Models: A Comprehensive Introduction" by Google AI, "Towards Better Parameter-Efficient Fine-Tuning for Large Language Models: A Position Paper" by Stanford University.
+* Blogs: "Parameter Efficient LLM Fine-Tuning" by Dataiku, "What is Parameter-Efficient Fine-Tuning (PEFT) of LLMs?" by Hopsworks.
+
+
+Here are some notes on the content you provided:
+
+* Training LLMs is computationally intensive and requires a lot of memory, especially when full fine-tuning is used.
+* Parameter efficient fine-tuning (PEFT) methods update a small subset of parameters in the LLM, reducing the number of trained parameters and making the training process more manageable.
+* PEFT can be performed on a single GPU, making it less prone to catastrophic forgetting problems.
+* With PEFT, the number of trained parameters can be as small as megabytes, depending on the task.
+* There are several PEFT methods, including selective methods, reparameterization methods, and additive methods.
+* Selective methods fine-tune only a subset of the original LLM parameters, while reparameterization methods reduce the number of parameters to train by creating new low-rank transformations of the original network weights.
+* Additive methods introduce new trainable components to the model, such as new layers or parameters.
+* Soft prompt methods are a type of additive method that manipulate the input to achieve better performance.
+* Prompt tuning is a specific soft prompt method that adds trainable parameters to the prompt embeddings.
+
 ## 3. Fine-tuning Methods {#fine-tuning-methods}
 - [Articles 1](https://abvijaykumar.medium.com/fine-tuning-llm-parameter-efficient-fine-tuning-peft-lora-qlora-part-1-571a472612c4)
 - [Article 2](https://dassum.medium.com/fine-tune-large-language-model-llm-on-a-custom-dataset-with-qlora-fb60abdeba07)
@@ -161,3 +249,65 @@ RLHF combines reinforcement learning with human input in Natural Language Proces
 - **Bias in Training:** Susceptibility to biases, especially in complex questions.
 - **Scalability:** Time and resource-intensive process due to human input dependency.
 
+## Key Points for Quick Revision: Fine-Tuning Language Models
+
+1. **Purpose of Fine-Tuning:**
+   - LLMs are versatile for various language tasks, but your application may require a specific task.
+   - Fine-tuning pre-trained models can enhance performance on the desired task.
+
+2. **Example of Fine-Tuning:**
+   - For instance, improving summarization using a dedicated dataset for that task.
+   - Remarkably, good results often achieved with just 500-1,000 examples, despite the model's extensive pre-training.
+
+3. **Catastrophic Forgetting:**
+   - Potential downside: Full fine-tuning modifies original LLM weights.
+   - This may lead to catastrophic forgetting, affecting performance on tasks the model previously excelled at.
+
+4. **Illustrative Scenario:**
+   - Before fine-tuning, the model correctly identified named entities (e.g., "Charlie" as a cat's name).
+   - After fine-tuning, the model may forget this task, causing confusion and displaying behaviors related to the new task.
+
+5. **Mitigating Catastrophic Forgetting:**
+   - **Assessment:** Evaluate if catastrophic forgetting impacts your use case.
+   - **Multitask Fine-Tuning:** Fine-tune on multiple tasks simultaneously, requiring more data and compute (50-100,000 examples).
+
+6. **Parameter Efficient Fine-Tuning (PEFT):**
+   - **Definition:** A technique preserving most pre-trained weights, training only task-specific adapter layers and parameters.
+   - **Advantage:** Greater robustness to catastrophic forgetting.
+   - **Active Research Area:** Ongoing exploration in the field.
+
+7. **Upcoming Topic: Multitask Fine-Tuning:**
+   - Requires fine-tuning on multiple tasks concurrently.
+   - Demands more data and compute resources (50-100,000 examples).
+
+8. **Conclusion:**
+   - Different fine-tuning approaches suit different needs.
+   - PEFT is promising for avoiding catastrophic forgetting and maintaining general capabilities.
+
+*Note: Ensure to understand the concepts of fine-tuning, catastrophic forgetting, multitask fine-tuning, and PEFT for a comprehensive overview.*
+
+
+## Concise Explanation
+
+1. **Fine-Tuning:**
+   - **Purpose:** Adapting a pre-trained language model (LLM) for a specific task.
+   - **Example:** Enhancing summarization using a dedicated dataset.
+   - **Result:** Good performance often achieved with a small number of task-specific examples.
+
+2. **Catastrophic Forgetting:**
+   - **Issue:** Occurs during fine-tuning when modifying LLM weights for a specific task.
+   - **Consequence:** May degrade performance on tasks the model previously excelled at.
+   - **Example:** Forgetting named entity recognition after fine-tuning for summarization.
+
+3. **Multitask Fine-Tuning:**
+   - **Objective:** Fine-tune on multiple tasks simultaneously.
+   - **Requirement:** Larger dataset (50-100,000 examples) and more computing resources.
+   - **Consideration:** Ensures the model maintains its generalized capabilities across tasks.
+
+4. **Parameter Efficient Fine-Tuning (PEFT):**
+   - **Approach:** Preserves most pre-trained LLM weights.
+   - **Implementation:** Trains only a small number of task-specific adapter layers and parameters.
+   - **Advantage:** Greater resistance to catastrophic forgetting.
+   - **Current Status:** An active area of research.
+
+In summary, fine-tuning customizes a model for a specific task, but it may lead to catastrophic forgetting. Multitask fine-tuning addresses this by training on multiple tasks simultaneously, while PEFT is a technique preserving pre-trained weights for better robustness. Understanding these concepts provides a comprehensive overview of optimizing language models for specific applications.
