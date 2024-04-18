@@ -1,9 +1,9 @@
 # Neural Networks Activation Functions
-## [Activation Functions in Neural Networks](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
-## [Activation Functions and their Derivatives – A Quick & Complete Guide](https://www.analyticsvidhya.com/blog/2021/04/activation-functions-and-their-derivatives-a-quick-complete-guide/)
+### [Activation Functions in Neural Networks](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
+### [Activation Functions and their Derivatives – A Quick & Complete Guide](https://www.analyticsvidhya.com/blog/2021/04/activation-functions-and-their-derivatives-a-quick-complete-guide/)
 
-## [Everything you need to know about “Activation Functions” in Deep learning models](https://towardsdatascience.com/everything-you-need-to-know-about-activation-functions-in-deep-learning-models-84ba9f82c253)
-## Exploding-and-vanishing-gradients-problem
+### [Everything you need to know about “Activation Functions” in Deep learning models](https://towardsdatascience.com/everything-you-need-to-know-about-activation-functions-in-deep-learning-models-84ba9f82c253)
+### Exploding-and-vanishing-gradients-problem
 - [Article 1](https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484)
 - [Article 2](https://towardsdatascience.com/the-exploding-and-vanishing-gradients-problem-in-time-series-6b87d558d22)
 - [Article 3](https://www.analyticsvidhya.com/blog/2021/06/the-challenge-of-vanishing-exploding-gradients-in-deep-neural-networks/)
@@ -11,7 +11,7 @@
 - https://towardsdatascience.com/the-vanishing-exploding-gradient-problem-in-deep-neural-networks-191358470c11
 - [Article 5](https://www.kdnuggets.com/2022/02/vanishing-gradient-problem.html)
 
-## [To find Dead Neurons in Relu in DL Network](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial3/Activation_Functions.html#Finding-dead-neurons-in-ReLU-networks)
+### [To find Dead Neurons in Relu in DL Network](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial3/Activation_Functions.html#Finding-dead-neurons-in-ReLU-networks)
 
 ## Table of Contents
 
