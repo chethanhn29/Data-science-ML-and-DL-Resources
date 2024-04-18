@@ -1,7 +1,3 @@
-To ensure everything is in the correct order and include a Table of Contents with Anchor Links, here's the revised version:
-
----
-
 # Table of Contents
 
 1. [A simpler way to understand what the bias is](#simpler-understanding-bias)
