@@ -1,21 +1,38 @@
-## Gradient Descent Algorithms
+# Table of Contents
+
+1. [Gradient Descent](#gradient-descent)
+   - [How does Gradient Descent work?](#how-gradient-descent-works)
+   - [Types of Gradient Descent](#types-gradient-descent)
+   - [Challenges with the Gradient Descent](#challenges-gradient-descent)
+2. [Gradient Descent](#gradient-descent)
+   - [Vanilla Gradient Descent](#vanilla-gradient-descent)
+   - [Stochastic Gradient Descent (SGD)](#stochastic-gradient-descent)
+   - [Mini-Batch Gradient Descent](#mini-batch-gradient-descent)
+   - [Momentum Gradient Descent](#momentum-gradient-descent)
+   - [Nesterov Accelerated Gradient (NAG)](#nesterov-accelerated-gradient)
+   - [Adagrad](#adagrad)
+   - [RMSprop](#rmsprop)
+   - [Adam](#adam)
+
 
 ### [krish naik Blog](https://krishnaik.in/2022/03/28/understanding-all-optimizers-in-deep-learning/)
 ### [A Comprehensive Guide on Optimizers in Deep Learning](https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-deep-learning-optimizers/)
 ### [Medium article](https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6),[Article 2](https://medium.com/mlearning-ai/optimizers-in-deep-learning-7bf81fed78a0)
 
-Gradient descent is an optimization algorithm used to minimize the cost or loss function of a machine learning model. It iteratively adjusts the model's parameters (weights and biases) in the direction of steepest descent to find the optimal values.
+ 
+## 1. Gradient Descent <a name="gradient-descent"></a>
 
-Here's a simple explanation of gradient descent:
+Gradient Descent is defined as one of the most commonly used iterative optimization algorithms of machine learning to train the machine learning and deep learning models. It helps in finding the local minimum of a function.
 
-Imagine you are at the top of a mountain and want to reach the bottom as quickly as possible.
-You take a step in the steepest downhill direction.
-After each step, you reassess your position and take another step in the new steepest downhill direction.
-You continue this process until you reach the bottom of the mountain, which corresponds to the minimum of the cost or loss function.
+The best way to define the local minimum or local maximum of a function using gradient descent is as follows:
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gradient_descent.svg/350px-Gradient_descent.svg.png)
+- If we move towards a negative gradient or away from the gradient of the function at the current point, it will give the local minimum of that function.
+- Whenever we move towards a positive gradient or towards the gradient of the function at the current point, we will get the local maximum of that function.
 
-In the image above, the mountain represents the cost function landscape, and the arrows indicate the direction of the steepest descent (negative gradient). The goal is to reach the global minimum, which corresponds to the lowest point on the mountain.
+The main objective of using a gradient descent algorithm is to minimize the cost function using iteration. To achieve this goal, it performs two steps iteratively:
+
+1. Calculates the first-order derivative of the function to compute the gradient or slope of that function.
+2. Move away from the direction of the gradient, which means slope increased from the current point by alpha times, where Alpha is defined as Learning Rate. It is a tuning parameter in the optimization process which helps to decide the length of the steps.
 
 ### Types of Majorly Used Gradient Descent Algorithms
 
@@ -27,70 +44,174 @@ In the image above, the mountain represents the cost function landscape, and the
 - [What's the effect of scaling a loss function in deep learning for different optimizers?](https://stats.stackexchange.com/questions/346299/whats-the-effect-of-scaling-a-loss-function-in-deep-learning)
 - [Guide to learn Learning Rate in Pytorch](https://towardsdatascience.com/a-visual-guide-to-learning-rate-schedulers-in-pytorch-24bbb262c863)
 
+![Gradient Descent Image](https://static.javatpoint.com/tutorial/machine-learning/images/gradient-descent-in-machine-learning1.png)
 
-1. **Batch Gradient Descent (BGD):**
+### How does Gradient Descent work? <a name="how-gradient-descent-works"></a>
+
+The starting point is used to evaluate the performance as it is considered just as an arbitrary point. At this starting point, we will derive the first derivative or slope and then use a tangent line to calculate the steepness of this slope. Further, this slope will inform the updates to the parameters (weights and bias).
+
+The slope becomes steeper at the starting point or arbitrary point, but whenever new parameters are generated, then steepness gradually reduces, and at the lowest point, it approaches the lowest point, which is called a point of convergence.
+
+The main objective of gradient descent is to minimize the cost function or the error between expected and actual. To minimize the cost function, two data points are required:
+
+
+Gradient descent is an optimization algorithm used to minimize the cost or loss function of a machine learning model. It iteratively adjusts the model's parameters (weights and biases) in the direction of steepest descent to find the optimal values.
+
+**Here's a simple explanation of gradient descent:**
+
+- Imagine you are at the top of a mountain and want to reach the bottom as quickly as possible.
+- You take a step in the steepest downhill direction.
+- After each step, you reassess your position and take another step in the new steepest downhill direction.
+- You continue this process until you reach the bottom of the mountain, which corresponds to the minimum of the cost or loss function.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gradient_descent.svg/350px-Gradient_descent.svg.png)
+
+In the image above, the mountain represents the cost function landscape, and the arrows indicate the direction of the steepest descent (negative gradient). The goal is to reach the global minimum, which corresponds to the lowest point on the mountain.
+
+
+### Challenges with the Gradient Descent <a name="challenges-gradient-descent"></a>
+
+1. **Local Minima and Saddle Point and Global Minima**:
+For convex problems, gradient descent can find the global minimum easily, while for non-convex problems, it is sometimes difficult to find the global minimum, where the machine learning models achieve the best results.
+
+The point at which a function takes the minimum value is called global minima. However, when the goal is to minimize the function and solved using optimization algorithms such as gradient descent, it may so happen that function may appear to have a minimum value at different points. Those several points which appear to be minima but are not the point where the function actually takes the minimum value are called local minima. Machine learning algorithms such as gradient descent algorithms may get stuck in local minima during the training of the models. Gradient descent is able to find local minima most of the time and not global minima because the gradient does not point in the direction of the steepest descent. Current techniques to find global minima either require extremely high iteration counts or a large number of random restarts for good performance. Global optimization problems can also be quite difficult when high loss barriers exist between local minima.
+
+![Local vs Global Minima](https://vitalflux.com/wp-content/uploads/2020/09/local-minima-vs-global-minima-1.png)
+
+![Local vs Global Minima Animation](https://vitalflux.com/wp-content/uploads/2020/10/local_minima_vs_global_minima.gif)
+
+
+
+# Types of Gradient Descent <a name="types-gradient-descent"></a>
+
+
+## 1. Gradient Descent <a name="gradient-descent"></a>
+
+Gradient Descent is a fundamental optimization algorithm used in machine learning and deep learning to minimize the cost function and update the parameters of the model iteratively.
+
+### 1.1 Vanilla Gradient Descent <a name="vanilla-gradient-descent"></a>
+
+**How it works:**
+Vanilla Gradient Descent computes the gradient of the cost function with respect to the model parameters for the entire training dataset. It then updates the parameters by taking a step proportional to the negative of the gradient.
+
+**Advantages:**
+- Easy to implement and understand.
+- Converges to the global minimum for convex and strictly convex functions.
+
+**Disadvantages:**
+- Computationally expensive for large datasets.
+- Prone to get stuck in local minima for non-convex functions.
+
+### 11.1. **Batch Gradient Descent (BGD):**
    - It computes the gradient of the cost function with respect to all training examples in the dataset and updates the parameters accordingly. BGD can be computationally expensive for large datasets.
    -  Use Case: Well-suited for small to medium-sized datasets.
    - Disadvantages: Computationally expensive for large datasets.
-
-
-2. **Stochastic Gradient Descent (SGD):**
+     
+### 1.2 Stochastic Gradient Descent (SGD) <a name="stochastic-gradient-descent"></a>
    -  It randomly selects one training example at a time, computes the gradient based on that example, and updates the parameters. SGD is faster than BGD but has more fluctuation in the convergence.
    - Use Case: Ideal for large datasets and online learning scenarios.
    - Disadvantages: Prone to high variance and slower convergence.
 
-3. **Mini-Batch Gradient Descent:**
+**How it works:**
+Stochastic Gradient Descent updates the model parameters for each training example individually. It computes the gradient of the cost function for a single training example and updates the parameters accordingly.
+
+**Advantages:**
+- Faster convergence, especially for large datasets.
+- Escapes local minima more easily due to frequent updates.
+
+**Disadvantages:**
+- Highly sensitive to the learning rate.
+- Oscillates around the minimum, which can slow down convergence.
+
+### 1.3 Mini-Batch Gradient Descent <a name="mini-batch-gradient-descent"></a>
    -  It is a compromise between BGD and SGD. It randomly selects a small batch of training examples, computes the gradient based on that batch, and updates the parameters. It strikes a balance between efficiency and stability.
    - Use Case: Provides a balance between BGD and SGD, suitable for medium-sized datasets.
    - Disadvantages: Requires tuning the batch size and can be affected by noise in small batches.
+**How it works:**
+Mini-Batch Gradient Descent is a compromise between Vanilla GD and SGD. It divides the training dataset into small batches and computes the gradient of the cost function for each batch. It then updates the parameters based on the average gradient of the batch.
 
-4. **Momentum-based Gradient Descent:**
+**Advantages:**
+- More stable convergence compared to SGD.
+- Utilizes vectorized operations for efficient computation.
+
+**Disadvantages:**
+- Requires tuning of batch size.
+- Still sensitive to learning rate.
+
+### 1.4 Momentum Gradient Descent <a name="momentum-gradient-descent"></a>
    - It introduces momentum by adding a fraction of the previous parameter update to the current update. It helps accelerate convergence, especially in the presence of noisy or sparse gradients.
    - Use Case: Effective for accelerating convergence, especially in the presence of noisy or sparse gradients.
    - Disadvantages: Requires tuning the momentum hyperparameter and can overshoot the minimum in certain cases.
+**How it works:**
+Momentum Gradient Descent adds a momentum term to the parameter update. It accumulates the gradients of past iterations and uses this accumulated gradient to update the parameters, which helps to dampen oscillations and speed up convergence.
 
-5. **Nesterov Accelerated Gradient (NAG):**
-   - It improves upon momentum-based gradient descent by adjusting the gradient calculation. NAG calculates the gradient not at the current parameters but at the expected future parameters, resulting in faster convergence.
-   - Use Case: Improves upon momentum-based gradient descent, especially for optimizing deep neural networks.
-   - Disadvantages: Sensitive to the choice of the learning rate and may not significantly outperform other methods in all cases.
+**Advantages:**
+- Helps to overcome local minima and saddle points.
+- Faster convergence compared to Vanilla GD.
 
-6. **AdaGrad (Adaptive Gradient Algorithm):**
+**Disadvantages:**
+- Requires tuning of momentum parameter.
+- May overshoot the minimum in some cases.
+
+### 1.5 Nesterov Accelerated Gradient (NAG) <a name="nesterov-accelerated-gradient"></a>
+
+**How it works:**
+Nesterov Accelerated Gradient (NAG) is an improvement over Momentum GD. It computes the gradient of the cost function with respect to the parameters, but instead of using the current parameters for the gradient computation, it uses the parameters updated by the momentum term.
+
+**Advantages:**
+- Faster convergence compared to Momentum GD.
+- More precise updates, especially in the vicinity of the minimum.
+
+**Disadvantages:**
+- Requires tuning of momentum parameter.
+- Slightly more computationally expensive than Momentum GD.
+
+### 1.6 Adagrad <a name="adagrad"></a>
+ **AdaGrad (Adaptive Gradient Algorithm):**
+**How it works:**
+Adagrad adapts the learning rate for each parameter based on the historical gradients. It scales down the learning rate for parameters with frequent updates and scales up the learning rate for parameters with infrequent updates.
    -  It adapts the learning rate individually for each parameter based on the historical squared gradients. It provides larger updates for infrequent parameters and smaller updates for frequent ones.
    -  Use Case: Suitable for sparse datasets or problems with varying feature scales.
    -  Disadvantages: The learning rate decays over time, which can lead to premature convergence.
+**Advantages:**
+- Automatically adjusts learning rates.
+- Suitable for sparse data.
 
-7. **RMSprop (Root Mean Square Propagation):**
-   -  It addresses the diminishing learning rate issue of AdaGrad by introducing a decay factor. It maintains a moving average of squared gradients to adjust the learning rate adaptively.
-   - Use Case: Effective for dealing with the diminishing learning rate issue of AdaGrad.
-   - Disadvantages: Requires tuning the learning rate and can accumulate gradients too quickly in deep networks.
+**Disadvantages:**
+- Learning rate decay can become very small over time, leading to slow convergence.
+- Accumulation of squared gradients may lead to numerical instability.
 
-8. **Adam (Adaptive Moment Estimation):**
+
+### 1.7 RMSprop <a name="rmsprop"></a>
+
+**How it works:**
+RMSprop is an improvement over Adagrad that addresses its drawback of the rapidly decaying learning rate. Instead of accumulating all past squared gradients, RMSprop uses a moving average of squared gradients.
+
+**Advantages:**
+- More stable learning rates compared to Adagrad.
+- Efficient for training deep neural networks.
+
+**Disadvantages:**
+- Requires tuning of hyperparameters.
+- May still suffer from slow convergence in some cases.
+
+### 1.8 Adam <a name="adam"></a>
+
+ **Adam (Adaptive Moment Estimation):**
    - It combines the benefits of momentum-based methods and RMSprop. It utilizes both first-moment (mean) and second-moment (uncentered variance) estimates to adaptively adjust the learning rate.
    -  Use Case: Widely used and suitable for various scenarios, especially for deep learning.
    - Disadvantages: Requires tuning multiple hyperparameters and can exhibit high memory usage.
+   - 
+**How it works:**
+Adam (Adaptive Moment Estimation) combines the ideas of Momentum GD and RMSprop. It computes adaptive learning rates for each parameter as well as an exponentially decaying average of past gradients.
 
-9. **AdaDelta (Adaptive Delta):**
-   - Use Case: Addresses the accumulating squared gradients issue of AdaGrad.
-   - Disadvantages: Requires tuning hyperparameters and can exhibit slow convergence.
-   -  It extends the idea of AdaGrad and RMSprop by addressing the accumulating squared gradients issue. It uses a running average of squared gradients to adaptively adjust the learning rate.
+**Advantages:**
+- Converges quickly and efficiently.
+- Suitable for a wide range of optimization problems.
 
-
-10. **Adamax:**
-    - Use Case: Provides better stability for models with sparse gradients, often used in deep learning.
-    - Disadvantages: May require tuning the hyperparameters for optimal performance.
-    - Adamax: It is a variant of Adam that replaces the second-moment estimation with the infinity norm of the gradients. It provides better stability for models with sparse gradients.
-
-
-11. **Nadam (Nesterov-accelerated Adaptive Moment Estimation):**
-    - Use Case: Combines NAG with the adaptive learning rates of Adam, often used in deep learning.
-    - Disadvantages: Requires tuning hyperparameters and can exhibit slow convergence for some problems.
-    - Nadam (Nesterov-accelerated Adaptive Moment Estimation): It combines NAG with Adam. It utilizes the NAG update rule along with the adaptive learning rates of Adam.
-
-
-12. **Adagrad-Dense:**
-    - Use Case: Improves AdaGrad's performance on dense datasets.
-    - Disadvantages: May not provide significant benefits on sparse datasets and requires tuning hyperparameters.
-    - Adagrad-Dense: It is an extension of AdaGrad that improves its performance on dense datasets by incorporating a bias correction term.
+**Disadvantages:**
+- Requires tuning of hyperparameters.
+- May exhibit erratic behavior in some cases.
 
 
 ![Screenshot_2023-12-10-00-09-06-85_254de13a4bc8758c9908fff1f73e3725](https://github.com/chethanhn29/Personal-Collection-of-Resources-to-learn/assets/110838853/e18b8587-6b05-4365-898c-a2be54004557)
