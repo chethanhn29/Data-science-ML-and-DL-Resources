@@ -77,28 +77,7 @@ Combining multiple embedding techniques or using a combination of word embedding
 
 #### 13. n-gram
 
-## Vector Similarity
-Generated word embeddings need to be compared in order to get semantic similarity between two vectors. There are few statistical methods are being used to find the similarity between two vectors. which are:
 
-- Cosine Similarity
-- Word mover’s distance
-- Euclidean distance
-####  **Cosine similarity**
-   It is the most widely used method to compare two vectors. It is a dot product between two vectors. We would find the cosine angle between the two vectors. For degree 0, cosine is 1 and it is less than 1 for any other angle.
- Cosine Similarity-- The cosine similarity is a similarity measure rather than a distance measure: The larger the similarity, the "closer" the word embeddings are to each other.
- ![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Jnw2xFl2Kbf-7N793fSkBg.jpeg)
- ![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*W-hGRtSoy3F5yIzGP8Sw_g.png)
-
-
-#### Word mover’s distance
-This uses the word embeddings of the words in two texts to measure the minimum distance that the words in one text need to “travel” in semantic space to reach the words in the other text.
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*bUy0q9yRSEfsGSXr7tFz3g.jpeg)
-
-#### The Euclidean distance
-Euclidean distance between two points is the length of the path connecting them. The Pythagorean theorem gives this distance between two points. If the length of the sentence is increased between two sentences then by the euclidean distance they are different even though they have the same meaning.
-
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*wF2rZiTspun-OAxTSrdN_w.jpeg)
 In natural language processing (NLP), a word embedding is a representation of a word. The embedding is used in text analysis. Typically, the representation is a real-valued vector that encodes the meaning of the word in such a way that words that are closer in the vector space are expected to be similar in meaning.
 
 ![Screenshot from 2023-07-07 16-13-49](https://github.com/chethanhn29/Personal-Collection-of-Resources-to-learn/assets/110838853/a88143d3-dc2a-4dc0-966e-c441fd26edc8)
