@@ -1,7 +1,7 @@
 # Large Language Models (LLMs) Interview Preparation
 
 ### [Langchain Tutorials](https://python.langchain.com/docs/additional_resources/tutorials)
-
+### [LLM Fundamentals](https://aman.ai/primers/ai/)
 #### [Watchlist for ALl kind of ML/DL/LLM/Computervision/NLP](https://aman.ai/watch/)
 #### [RAG](https://aman.ai/primers/ai/RAG/)
 - #### [Langchain Handbook](https://www.pinecone.io/learn/langchain/)

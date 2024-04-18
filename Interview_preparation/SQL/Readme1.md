@@ -8,7 +8,6 @@ This repository contains a curated list of resources to help you prepare for var
 - [DeepLearning.ai Summary](https://github.com/mbadry1/DeepLearning.ai-Summary)
 - [CS231n 2017 Summary](https://github.com/mbadry1/CS231n-2017-Summary)
 - [Deep learning Fundamentals](https://aman.ai/primers/ai/)
-- [Deep learning Interview questions](https://aman.ai/primers/ai/interview/#deep-learning)
 
 ### Other Resources:
 - [SQL, Python, and Algorithmic Questions](https://github.com/alexeygrigorev/data-science-interviews/blob/master/technical.md)

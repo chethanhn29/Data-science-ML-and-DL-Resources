@@ -1,3 +1,7 @@
+
+- [Machine learning learning Interview questions](https://aman.ai/primers/ai/interview/#deep-learning)
+
+
 ## Hands on Machine learning with scikit learn,keras and tensorflow
   
   - You studied the data.
