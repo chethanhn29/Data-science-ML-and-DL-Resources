@@ -2,10 +2,17 @@
 ## [Back propagation](https://www.analyticsvidhya.com/blog/2022/01/introduction-to-the-neural-network-model-glossary-and-backpropagation/)
 
 
-# Personal-Collection-of-Resources-to-learn Back Propagation
+## Table of Contents
+- [Back Propagation Vs Gradient Descent](#back-propagation-vs-gradient-descent)
+- [Back Propagation](#back-propagation)
+- [Mathematics](#mathematics)
+- [Choose a Neural Network Architecture](#choose-a-neural-network-architecture)
+- [Number of Bias in Neural Networks](#number-of-bias-in-neural-networks)
+- [Key Steps for Training a Neural Network](#key-steps-for-training-a-neural-network)
+- [Maths behind Backward Propagation](#maths-behind-backward-propagation)
 
-for Maths behind Back Propagation See at the end of this File and [Watch](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) 
-
+  
+- for Maths behind Back Propagation See at the end of this File and [Watch](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) 
 - [Stanford Notes for Neural Networks](https://cs.stanford.edu/people/eroberts/courses/soco/projects/neural-networks/Neuron/index.html) ,
 - [Andrew Ng Notes for Neural Networks](https://github.com/ashishpatel26/Andrew-NG-Notes), 
 - Deep Understanding Of Neural Networks,Feed Forward,Gradient Descent,Backpropagation and Maths Behind it [Watch](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
@@ -77,7 +84,7 @@ model2 =  tf.keras.models.Sequential([
 	- The 2nd Dense Layer has 3 Nodes  so, from the first Dense Layer 5 Parameters will transfer into 3 nodes of there are 3 nodes in the output layer. so 		 total  15 parameters in the output layer. Bias terst 2nd Dense Layer So Total Parameters in 2nd Layer is (5 * 3)=15 Parameters
 	- Total Parameters=15+24=39 Parametersnd 
 
-##### Following are 7 key steps for training a neural network.
+##### key steps for training a neural network.
 
 - Pick a neural network architecture. This implies that you shall be pondering primarily upon the connectivity patterns of the neural network including some of the following aspects:
 - Number of input nodes: The way to identify number of input nodes is identify the number of features.
