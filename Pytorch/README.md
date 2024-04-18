@@ -27,6 +27,6 @@ https://github.com/dair-ai/pytorch_notebooks
 ####  Notebooks 
 https://github.com/dair-ai/Mathematics-for-ML
 
-
+### [Pytorch Guide by aman.ai](https://aman.ai/primers/pytorch/)
 
 
