@@ -34,7 +34,7 @@ The main objective of using a gradient descent algorithm is to minimize the cost
 1. Calculates the first-order derivative of the function to compute the gradient or slope of that function.
 2. Move away from the direction of the gradient, which means slope increased from the current point by alpha times, where Alpha is defined as Learning Rate. It is a tuning parameter in the optimization process which helps to decide the length of the steps.
 
-### Types of Majorly Used Gradient Descent Algorithms
+### Articles to know more about Gradient Descent Algorithms
 
 - [Guidelines for selecting Best Opyimizer](https://datascience.stackexchange.com/questions/10523/guidelines-for-selecting-an-optimizer-for-training-neural-networks)
 - [Discussion](https://www.quora.com/Why-are-neural-networks-still-being-trained-using-SGD-when-ADAM-has-outperformed-others-training-methods)
