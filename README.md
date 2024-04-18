@@ -111,7 +111,8 @@
 ### Resources
 - [Top 200 Repositories for Machine Learning and Deep Learning](https://github.com/mbadry1/Top-Deep-Learning)
 - [Top ML and DL Projects Repositories](https://github.com/aymericdamien/TopDeepLearning)
--  [Watchlist for ALl ML/DL/LLM/Computervision/NLP lectures and Courses](https://aman.ai/watch/)
+- [Watchlist for ALl ML/DL/LLM/Computervision/NLP lectures and Courses](https://aman.ai/watch/)
+- [All Books and Resources for Deep Learning](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
 
 
 ### Courses
@@ -177,7 +178,7 @@ Overall, TensorFlow has become a widely used tool in the machine learning commun
 #### Learning Tensorflow Step by Step:: Concepts, Examples & Applications
 https://github.com/suvoooo/Learn-TensorFlow
 
-
+#### [Deep learning with Tensorflow](https://learning.edx.org/course/course-v1:IBM+DL0120EN+2T2021/home)
 #### Introduction to Tensorflow 2 for Computer Vision by AIFEE -
 https://learn.aifee.co/p/introduction-to-tensorflow-2-for-computer-vision?ck_subscriber_id=2076754537&utm_source=convertkit&utm_medium=email&utm_campaign=Welcome+to+AIFEE+Newsletter%21%20-%204653438
 
@@ -250,6 +251,22 @@ https://madewithml.com/courses/foundations/convolutional-neural-networks/
 
 ## EXplanation CNN Working With Code
 https://madewithml.com/courses/foundations/convolutional-neural-networks/
+
+## CNN
+
+![](https://editor.analyticsvidhya.com/uploads/183560_qcMBDPuKpDvICcdd.png)
+
+#### Stanford Course of CNN
+https://cs231n.github.io/
+
+#### Made with ML CNN explanation
+https://madewithml.com/courses/foundations/convolutional-neural-networks/
+
+https://poloclub.github.io/cnn-explainer/
+
+https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/
+
+https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network
 
 
 ### Computer Vision projects
@@ -374,6 +391,7 @@ https://www.youtube.com/playlist?list=PLWnsVgP6CzadI4-FT2Po4wsEK7MHCIQ-d
 
 #### NLP Course Notes and Videos
 https://github.com/ashishpatel26/ML-Course-Notes
+
 
 ### Resources for CNN,ML,NLP
 https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022   ###This repository offers a goldmine of materials for  computer vision, natural language processing, and machine learning operations.
