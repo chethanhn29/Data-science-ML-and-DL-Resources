@@ -24,9 +24,31 @@ Overall, PyTorch has become a popular tool in the machine learning community due
 #### A collection of PyTorch notebooks for learning and practicing deep learning
 https://github.com/dair-ai/pytorch_notebooks
 
+#### Books 
+- [Deep Learning with PyTorch by Eli Stevens](https://isip.piconepress.com/courses/temple/ece_4822/resources/books/Deep-Learning-with-PyTorch.pdf)
+### Pytorch Theory with Practical Examples
+- https://www.kaggle.com/code/chethuhn/pytorch-journey-part-01-tensors-to-neural-net
+- https://www.kaggle.com/code/chethuhn/pytorch-journey-part-2-tensors-to-neural-net
+- https://www.kaggle.com/code/chethuhn/pytorch-journey-part-3-tensors-to-neural-net
+- https://www.kaggle.com/code/chethuhn/pytorch-journey-part-04-tensors-to-neural-net
+
 ####  Notebooks 
 https://github.com/dair-ai/Mathematics-for-ML
 
 ### [Pytorch Guide by aman.ai](https://aman.ai/primers/pytorch/)
+
+
+## Additional  resources to learn more about  pytorch
+
+
+- [Pytorch official tutorials for beginners](https://pytorch.org/tutorials/beginner/basics/intro.html)
+- [deep learning with pytorch official video tutorial by pytorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+- [Introduction to Deep learning with PyTorch by Udacity](https://learn.udacity.com/courses/ud188)
+- [Zero to Mastery Learn PyTorch for Deep Learning by Burke](https://www.learnpytorch.io/)
+- [Analysitcs vidya Artilce introduction to pytorch ](https://www.analyticsvidhya.com/blog/2019/09/introduction-to-pytorch-from-scratch/)
+
+- [Dataquest article ](https://www.dataquest.io/blog/pytorch-for-beginners/)
+
+
 
 
