@@ -50,6 +50,8 @@ CNNs have been shown to achieve state-of-the-art performance on a wide range of 
 - [Mathematics for ML Notebooks](https://github.com/dair-ai/Mathematics-for-ML)
 - [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained)
 
+## Books 
+- [Deeplearning for Computer vision](https://bayanbox.ir/view/5130918188419813120/Adrian-Rosebrock-Deep-Learning-for.pdf)
 ## Additional Resources
 
 - [500 AI, ML, Deep Learning Projects with Code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
