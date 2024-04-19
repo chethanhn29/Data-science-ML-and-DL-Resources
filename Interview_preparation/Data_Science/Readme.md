@@ -4,6 +4,7 @@ This repository contains a curated list of resources to help you prepare for var
 
 ## Data Science and Machine Learning Interview Preparation
 ### [Main Repo of all interview q and A](https://github.com/chethanhn29/Data-Science-Interview-questions-and-answers)
+-  [Books to study](https://drive.google.com/drive/folders/1dvv32hBxsE1XIK8kHs1fI0PjeRSKKE77)
 ### Deep Learning Resources:
 - [DeepLearning.ai Summary](https://github.com/mbadry1/DeepLearning.ai-Summary)
 - [CS231n 2017 Summary](https://github.com/mbadry1/CS231n-2017-Summary)
