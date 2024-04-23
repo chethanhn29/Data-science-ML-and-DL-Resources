@@ -27,6 +27,7 @@
 ### Introduction to Quantization in LLM
 - [Krish Video Tutorial](https://www.youtube.com/watch?v=6S59Y0ckTm4&t=8s)
 - [Practical example](https://github.com/peremartra/Large-Language-Model-Notebooks-Course/blob/main/5-Fine%20Tuning/QLoRA_Tuning_PEFT.ipynb)
+  
 **Quantization is a model compression technique that converts the weights and activations within an LLM from a high-precision data representation to a lower-precision data representation. For example, it can convert data from a 32-bit floating-point number (FP32) to an 8-bit or 4-bit integer (INT4 or INT8). This reduction occurs in the model's parameters, specifically in the weights of the neural layers, and in the activation values that flow through the model's layers.**
 - 
 Quantization involves converting from a higher memory format to a lower memory format. It's crucial for compressing large models, making them suitable for deployment on devices with limited resources like mobile phones, edge devices, or smartwatches.
