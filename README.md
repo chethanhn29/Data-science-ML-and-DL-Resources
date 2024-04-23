@@ -1,7 +1,7 @@
 # Collection of Free Resources for Learning Machine Learning, Deep Learning, Python, SQL, CNN, NLP, GAN, GNN, Transformers, Flask, Django, and End-to-End Machine Learning Projects
 
 ## Table of Contents
-- [Python]([#python](https://github.com/chethanhn29/Data-science-ML-and-DL-Resources/tree/main/Python))
+- [Python](https://github.com/chethanhn29/Data-science-ML-and-DL-Resources/tree/main/Python)
 - [Data Analyst Roadmap](#data-analyst-roadmap)
 - [Web Scraping with Python](#web-scraping-with-python)
 - [Data Science and Machine Learning](#data-science-and-machine-learning)
