@@ -22,19 +22,6 @@
 - [SQL](#sql)
 ---
 
-## Python
-![Python Roadmap](https://user-images.githubusercontent.com/110838853/226801494-9b9886b8-cd0d-4fc0-897a-d083a12b08f2.png)
-
-### Python-Roadmap 
-- [Repository 1](https://github.com/ashishpatel26/Python-Roadmap)
-- [Repository 2](https://github.com/hemansnation/Python-Roadmap)
-
-### Python Code Tutorials
-- [Python Code Tutorials](https://github.com/ashishpatel26/pythoncode-tutorials) - Python code for various projects including CNN, NLP, and web programming.
-
-### Python Assignments for the Machine Learning Class by Andrew Ng on Coursera
-- [ML Coursera Python Assignments](https://github.com/dibgerge/ml-coursera-python-assignments)
-
 ---
 
 ## Data Analyst Roadmap
