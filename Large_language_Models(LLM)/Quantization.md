@@ -10,12 +10,27 @@
 6. [How Each Method Works](#how-each-method-works)
 7. [Symmetric and asymmetric quantization](#symmetric-and-asymmetric-quantization)
 8. [Scale Factor and Zero Point](#scale-factor-and-zero-point)
+9. [How Does Quantization Work?](#how-does-quantization-work)
+  - [Mapping to Lower-Precision Formats](#mapping-to-lower-precision-formats)
+  - [Affine Quantization Scheme](#affine-quantization-scheme)
+  - [Calibration and Outlier Handling](#calibration-and-outlier-handling)
+  - [Quantization in Blocks](#quantization-in-blocks)
+  - [Dequantization at Inference](#dequantization-at-inference)
+10. [Different Techniques for LLM Quantization](#different-techniques-for-llm-quantization)
+  - [QLoRA (Quantized Low-Rank Adaptation)](#qlora-quantized-low-rank-adaptation)
+    - [NF4 (4-bit NormalFloat)](#nf4-4-bit-normalfloat)
+    - [Double Quantization (DQ)](#double-quantization-dq)
+  - [PRILoRA (Pruned and Rank-Increasing Low-Rank Adaptation)](#prilora-pruned-and-rank-increasing-low-rank-adaptation)
 
-
+![Screenshot (83)](https://github.com/chethanhn29/Data-science-ML-and-DL-Resources/assets/110838853/f41bc2e0-dd3f-4e16-8547-285d2e869ea7)
 
 ### Introduction to Quantization in LLM
+- [Krish Video Tutorial](https://www.youtube.com/watch?v=6S59Y0ckTm4&t=8s)
+**Quantization is a model compression technique that converts the weights and activations within an LLM from a high-precision data representation to a lower-precision data representation. For example, it can convert data from a 32-bit floating-point number (FP32) to an 8-bit or 4-bit integer (INT4 or INT8). This reduction occurs in the model's parameters, specifically in the weights of the neural layers, and in the activation values that flow through the model's layers.**
+- 
 Quantization involves converting from a higher memory format to a lower memory format. It's crucial for compressing large models, making them suitable for deployment on devices with limited resources like mobile phones, edge devices, or smartwatches.
 
+  
 1. **Introduction to Quantization in LLM:**Quantization involves converting from a higher memory format to a lower memory format.
 It's crucial for compressing large models, making them suitable for deployment on devices with limited resources like mobile phones, edge devices, or smartwatches.
    - **Definition:** Quantization in LLMs involves reducing the precision of numerical values used in the model's parameters (weights and activations) from higher precision formats, such as 32-bit floating-point (FP32), to lower precision formats, such as 16-bit floating-point (FP16) or 8-bit integers (int8).
@@ -129,5 +144,59 @@ Symmetric and asymmetric quantization  are two approaches used to convert the we
    - **Disadvantages:**
      - Requires additional consideration and computation compared to symmetric quantization.
      - May introduce complexity in implementation due to the asymmetric nature of the quantization range.
+    
+
+
+
+## How Does Quantization Work?
+
+### Mapping to Lower-Precision Formats
+
+The quantization process involves mapping weights stored in high-precision values to lower-precision data types. For example, mapping a 64-bit or 32-bit float to a 16-bit float is relatively straightforward, but quantizing a 32-bit float value to a 4-bit integer is more complex due to the limited representation of integers.
+
+### Affine Quantization Scheme
+
+The affine quantization scheme is commonly used, represented by the formula:
+
+```
+x_q = round(x / S + Z)
+```
+
+Where:
+- `x_q` is the quantized integer value corresponding to the floating-point value `x`.
+- `S` is an FP32 scaling factor.
+- `Z` is the zero-point, representing the INT4 value corresponding to 0 in the FP32 space.
+- `round` refers to rounding the result to the nearest integer.
+
+### Calibration and Outlier Handling
+
+Before quantization, the model is calibrated using a smaller dataset to determine the range `[min, max]` of FP32 values. Outliers may have a disproportionate impact on scaling, so techniques like clipping and quantizing in blocks are used to handle them effectively.
+
+### Quantization in Blocks
+
+Quantization in blocks involves dividing weights into groups and quantizing each block individually. This mitigates the impact of outliers and increases precision, but also increases the number of scaling factors that must be stored.
+
+### Dequantization at Inference
+
+During inference, the quantized weights and activations are dequantized to perform necessary computations with higher precision data types. This ensures that the model's accuracy is maintained during forward and backward propagation.
+
+## Different Techniques for LLM Quantization
+
+### QLoRA (Quantized Low-Rank Adaptation)
+
+QLoRA reduces the memory requirements of LLMs by quantizing weights to 4-bit. It utilizes the NF4 (4-bit NormalFloat) data type and Double Quantization (DQ) for additional memory savings.
+
+#### NF4 (4-bit NormalFloat)
+
+NF4 normalizes each weight to a value between -1 and 1 for a more accurate representation of lower precision weight values compared to conventional 4-bit floats.
+
+#### Double Quantization (DQ)
+
+DQ quantizes the scaling factors for each block of weights, reducing memory requirements further.
+
+### PRILoRA (Pruned and Rank-Increasing Low-Rank Adaptation)
+
+PRILoRA increases efficiency by linearly increasing the rank for each layer and performing importance-based A-weight pruning. This reduces the time and memory requirements of fine-tuning an LLM while maintaining performance.
+
 
 In summary, symmetric quantization aims to evenly distribute the data values within a specified quantization range, while asymmetric quantization allows for more flexibility by accommodating data distributions that are not centered around zero. The choice between symmetric and asymmetric quantization depends on the characteristics of the data and the specific requirements of the application.
