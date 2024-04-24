@@ -44,5 +44,6 @@
      
 11. **Others**
    - [ChatGPT Prompts](https://github.com/chethanhn29/Data-science-ML-and-DL-Resources/blob/main/Chatgpt%20Prompts/README.md)
+   - [Portfolio](https://github.com/chethanhn29/Data-science-ML-and-DL-Resources/tree/main/Portfolio)
 
 
