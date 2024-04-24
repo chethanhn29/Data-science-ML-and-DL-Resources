@@ -50,23 +50,23 @@ Here's the Table of Contents with anchor links:
 
 ## Low-rank Adaptation (LoRA):
 
-**Overview:**
+## Overview:
 - LoRA is a parameter-efficient fine-tuning technique for Language Models (LLMs).
 - Reduces training parameters by injecting smaller rank-decomposition matrices alongside original weights.
 - Freezes original LLM weights, training only the smaller matrices.
 
 ![](https://media.licdn.com/dms/image/D4E12AQGdQChTCAJNRQ/article-cover_image-shrink_600_2000/0/1690809637997?e=2147483647&v=beta&t=SSYhObQXoZ5K7myUcCXEwbEzt77PxBtUli_9lhkz7Tw)
 
-**Challenges in Full Parameter Fine-Tuning:**
+### Challenges in Full Parameter Fine-Tuning:
 - Full parameter fine-tuning involves updating all weights of the base model, which can be resource-intensive.
 - Updating billions of parameters can lead to hardware resource constraints and inefficiencies in downstream tasks.
 
-**Benefits of LoRA:**
+### **Benefits of LoRA:**
 - **Reduced memory footprint:** Trainable parameters decrease by 86% in an example, enabling single-GPU training.
 - **Efficient adaptation for multiple tasks:** Swap out LoRA matrices for different tasks without retraining the entire model.
 - **Less prone to catastrophic forgetting:** Preserves original LLM knowledge.
 
-**Challenges Addressed by LoRA:**
+### **Challenges Addressed by LoRA:**
    - **Resource Constraints:** Updating all parameters during fine-tuning can strain computational resources.
    - **Efficiency:** Traditional fine-tuning methods may not be computationally efficient for large models.
    - **Complexity:** Managing and updating billions of parameters can be complex and resource-intensive.
@@ -133,7 +133,7 @@ Here's the Table of Contents with anchor links:
    - **Computational Optimization:** Improves fine-tuning efficiency by selectively updating weights.
    - **Performance Enhancement:** Fine-tunes LLMs while maintaining or enhancing performance on downstream tasks.
 
-**Disadvantages of LoRA:**
+### **Disadvantages of LoRA:**
 
 1. **Rank Selection Complexity:** Choosing the right rank for matrix decomposition can be tricky, requiring experimentation and adding complexity to implementation.
   
