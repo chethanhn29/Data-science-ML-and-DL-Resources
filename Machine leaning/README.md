@@ -17,8 +17,6 @@
 
 # Machine Learning
 
-![ml-e1610553826718](https://user-images.githubusercontent.com/110838853/226786032-2162bb7b-0903-4ed1-b468-97c257bc51ce.jpg)
-
 Machine learning (ML) is a subfield of artificial intelligence (AI) that involves training algorithms to automatically learn patterns from data, without being explicitly programmed.
 
 ## Courses
