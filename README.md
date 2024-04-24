@@ -47,3 +47,59 @@
    - [Portfolio](https://github.com/chethanhn29/Data-science-ML-and-DL-Resources/tree/main/Portfolio)
 
 
+### Yet to add
+
+## Table of Contents
+1. [Deep Learning](#deep-learning)
+2. [Computer Vision Interview Questions](#computer-vision-interview-questions)
+3. [Computer Vision Papers and Summaries](#computer-vision-papers-and-summaries)
+4. [Stanford Courses and Materials](#stanford-courses-and-materials)
+5. [Additional Computer Vision Resources](#additional-computer-vision-resources)
+6. [Object Tracking and Detection Resources](#object-tracking-and-detection-resources)
+7. [Computer Vision Tutorials and Notebooks](#computer-vision-tutorials-and-notebooks)
+
+---
+
+## Deep Learning
+
+- [Dive into Deep Learning Book by Stanford University](https://d2l.ai/d2l-en.pdf)
+- [Deep Learning Practical By Uvadlc](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial3/Activation_Functions.html)
+- [Dive into Deep Learning in 1 Day by Stanford University](https://c.d2l.ai/odsc2019/)
+
+## Computer Vision Interview Questions
+
+- [Computer vision interview questions](https://github.com/Praveen76/Computer-Vision-Interview-Preparation/tree/main)
+- [Computer vision interview questions 2](https://www.mlstack.cafe/blog/computer-vision-interview-questions)
+
+## Computer Vision Papers and Summaries
+
+- [CV Papers](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
+- [cs231 Course Summary](https://github.com/mbadry1/CS231n-2017-Summary)
+- [Main Page of cs231](https://cs231n.github.io/)
+- [2 cs231 Explanation for CNN](https://cs231n.github.io/convolutional-networks/#norm)
+- [Deep CV](https://dair-ai.notion.site/Lecture-3-Deep-Computer-Vision-e43a17b50f7e4b5f8393c070b22340a3)
+
+## Stanford Courses and Materials
+
+- [Stanford Notes](https://cs.stanford.edu/people/eroberts/courses/soco/projects/neural-networks/Neuron/index.html)
+- [Dive Deep Into Deep learning Book By Stanford](https://d2l.ai/d2l-en.pdf)
+- [Stanford University Courses Books](https://courses.d2l.ai/)
+
+## Additional Computer Vision Resources
+
+- [A curated list of deep learning resources for computer vision](https://github.com/kjw0612/awesome-deep-vision)
+- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+
+## Object Tracking and Detection Resources
+
+- [Resources for object tracking and detection using deep learning](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
+
+## Computer Vision Tutorials and Notebooks
+
+- [Free Computer Vision Tutorials With Notebooks](https://github.com/roboflow/notebooks)
+
+
+
+
+
+
