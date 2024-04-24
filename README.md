@@ -25,8 +25,9 @@
 6. **Cloud Computing**
    - [Cloud Computing](https://github.com/chethanhn29/Data-science-ML-and-DL-Resources/tree/main/Cloud_Computing)
 
-7. **Web Development**
-   - [Flask](https://github.com/chethanhn29/Data-science-ML-and-DL-Resources/tree/main/Flask)
+7. **[Web Development](https://github.com/chethanhn29/Data-science-ML-and-DL-Resources/tree/main/Web_development)**
+   - Flask
+   - FastAPI
 
 8. **Version Control**
    - [GIT](https://github.com/chethanhn29/Data-science-ML-and-DL-Resources/tree/main/Git)
