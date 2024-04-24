@@ -54,6 +54,9 @@ Here's the Table of Contents with anchor links:
 - LoRA is a parameter-efficient fine-tuning technique for Language Models (LLMs).
 - Reduces training parameters by injecting smaller rank-decomposition matrices alongside original weights.
 - Freezes original LLM weights, training only the smaller matrices.
+- LoRA is a parameter-efficient fine-tuning technique falling under re-parameterization.
+- Weights are learned during pre-training, and during full fine-tuning, all parameters are updated.
+- LoRA reduces trainable parameters by freezing original model parameters and introducing low-rank matrices.
 
 ![](https://media.licdn.com/dms/image/D4E12AQGdQChTCAJNRQ/article-cover_image-shrink_600_2000/0/1690809637997?e=2147483647&v=beta&t=SSYhObQXoZ5K7myUcCXEwbEzt77PxBtUli_9lhkz7Tw)
 
@@ -61,7 +64,7 @@ Here's the Table of Contents with anchor links:
 - Full parameter fine-tuning involves updating all weights of the base model, which can be resource-intensive.
 - Updating billions of parameters can lead to hardware resource constraints and inefficiencies in downstream tasks.
 
-### **Benefits of LoRA:**
+### Benefits of LoRA:
 - **Reduced memory footprint:** Trainable parameters decrease by 86% in an example, enabling single-GPU training.
 - **Efficient adaptation for multiple tasks:** Swap out LoRA matrices for different tasks without retraining the entire model.
 - **Less prone to catastrophic forgetting:** Preserves original LLM knowledge.
@@ -88,7 +91,12 @@ Here's the Table of Contents with anchor links:
     - **Efficient Weight Updates:**
     - By tracking weight changes using smaller matrices, LoRA optimizes the fine-tuning process.
     - Only the changed weights need to be updated during fine-tuning, reducing computational complexity and resource requirements.
-
+    
+**LoRA Process:**
+- Freeze original model weights; inject low-rank matrices with dimensions ensuring product matches original weights.
+- Train smaller matrices via supervised learning, updating them instead of original weights.
+- For inference, multiply low-rank matrices, add to frozen weights, and replace original weights in the model.
+- LoRA fine-tuned model is task-specific, maintaining the same number of parameters as the original model.
 
 ### **LoRA Fine-Tuning: A Step-by-Step Breakdown**
 
@@ -154,19 +162,9 @@ Here's the Table of Contents with anchor links:
 **Further learning:**
 - Papers: "LoRA: Low-Rank Adaptation of Large Language Models" by Microsoft AI, "Parameter-Efficient Fine-Tuning of Large Language Models: A Comprehensive Introduction" by Google AI.
 
-**Low-rank Adaptation (LoRA):**
 
-**Overview:**
-- LoRA is a parameter-efficient fine-tuning technique falling under re-parameterization.
-- Transformer architecture involves tokenization, embedding, and self-attention/feedforward networks in encoder/decoder parts.
-- Weights are learned during pre-training, and during full fine-tuning, all parameters are updated.
-- LoRA reduces trainable parameters by freezing original model parameters and introducing low-rank matrices.
 
-**LoRA Process:**
-- Freeze original model weights; inject low-rank matrices with dimensions ensuring product matches original weights.
-- Train smaller matrices via supervised learning, updating them instead of original weights.
-- For inference, multiply low-rank matrices, add to frozen weights, and replace original weights in the model.
-- LoRA fine-tuned model is task-specific, maintaining the same number of parameters as the original model.
+
 
 **Practical Example:**
 - Transformer weights in the Attention is All You Need paper: 512 by 64.
