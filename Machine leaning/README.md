@@ -32,6 +32,7 @@ Machine learning (ML) is a subfield of artificial intelligence (AI) that involve
 - [Feature Engineering](https://github.com/ashishpatel26/Amazing-Feature-Engineering)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Python Machine Learning book](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939) - A book on machine learning with Python and Scikit-learn.
+- [100 Days of ML by CampusX](https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
 
 ## ML Algorithms Implementation
 - [All algorithms implemented on Python](https://github.com/TheAlgorithms/Python)

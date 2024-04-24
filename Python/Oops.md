@@ -1,0 +1,4 @@
+- [Telusko Tutorial for Ooops Concepts in Python](https://www.youtube.com/watch?v=qiSCMNBIP2g)
+- [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
+-[OOps COncepts by Apna COllege 1](https://www.youtube.com/watch?v=HeW-D6KpDwY&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&index=8&pp=iAQB)
+-[OOps COncepts by Apna COllege 2](https://www.youtube.com/watch?v=bAwmZVJeO5s&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&index=9&t=153s&pp=iAQB)
