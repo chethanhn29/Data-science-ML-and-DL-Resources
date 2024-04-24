@@ -48,7 +48,7 @@ Here's the Table of Contents with anchor links:
 
 - [**Simpler breakdown of QLoRA:**](#simpler-breakdown-of-qlora)
 
-**Low-rank Adaptation (LoRA):**
+## Low-rank Adaptation (LoRA):
 
 **Overview:**
 - LoRA is a parameter-efficient fine-tuning technique for Language Models (LLMs).
