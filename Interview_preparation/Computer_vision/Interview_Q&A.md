@@ -37,6 +37,141 @@ Object detection -- NMS, IoU, anchor boxes
 What u know about model quantization, pruning, optimization
 
 
+1. Tell me about Yourself?
+
+2. Tell me more about Projects and Tell me About your Project?
+
+3. What are the Libraries did you use In your Project?
+
+4. How do u use GPU on PyTorch ?
+
+5. What are the ways we can use in GPU for faster processing for Deep Learning Models?
+
+6. How can u speed the model process?
+
+7. What are the things you will do when a model is overfitting?
+
+8. What kind of Feature Extraction Methods did you use?
+
+9. Can u tell me what are the Feature Extraction Methods we will use in Computer Vision?
+
+10. What is Convolution and Tell me How does it work?
+
+11. Can you tell me how Binary Classification Works in image Classification?
+
+12. Tell me about Object Recognition methods you know?
+
+13. Tell me more about YOLO?
+
+14. Do you know any Creating/Streaming a video using OpenCV?
+
+15. What are the metrics do you use when you are evaluating a Deep learning model and for Image classification model ?
+
+16.how do you choose the best metric for a problem statement?
+
+17.What is feature map in CNN?
+
+
+Coding Questions:
+1. Replace vowels in reverse order in a given word.
+
+2. Get the sum of even numbers in dictionaries, even if it has nested dictionaries, using recursion.
+
+
+
+### How can i speed up the processing in deep learning models 
+Speeding up processing in deep learning models can be achieved through various techniques and optimizations. Here are some strategies you can consider:
+
+1. **Hardware Acceleration**: Utilize hardware accelerators such as GPUs (Graphics Processing Units) or TPUs (Tensor Processing Units) for faster computation. These specialized hardware devices are designed to handle the heavy computational tasks involved in deep learning more efficiently than CPUs.
+
+2. **Model Optimization**:
+   - **Model Pruning**: Remove unnecessary connections or parameters from the model to reduce its size and computational complexity without significantly affecting performance.
+   - **Quantization**: Reduce the precision of the model's weights and activations (e.g., from 32-bit floating point to 8-bit integers) to decrease memory usage and computational requirements.
+   - **Model Compression**: Employ techniques like knowledge distillation or model distillation to train a smaller model that approximates the behavior of a larger, more complex model.
+   - **Network Architecture**: Choose lighter network architectures or modify existing ones to reduce the number of parameters and operations required for inference.
+
+3. **Batch Processing**: Increase the batch size during training and inference to take advantage of parallelism and reduce overhead, especially when using hardware accelerators.
+
+4. **Parallelization**:
+   - **Data Parallelism**: Distribute training across multiple devices or machines by splitting the dataset and processing batches in parallel.
+   - **Model Parallelism**: Split the model across multiple devices or machines, allowing different parts of the model to be processed independently.
+
+5. **Optimized Libraries and Frameworks**: Utilize optimized deep learning libraries and frameworks like TensorFlow with XLA (Accelerated Linear Algebra) or PyTorch with TorchScript, which are specifically designed to optimize computations and leverage hardware accelerators efficiently.
+
+6. **Caching and Memoization**: Cache intermediate results or precompute expensive computations to avoid redundant calculations during inference.
+
+7. **Asynchronous Execution**: Use asynchronous processing to overlap computation with data loading and preprocessing, reducing idle time and improving overall throughput.
+
+8. **Algorithmic Improvements**: Explore and implement algorithmic optimizations specific to your model or problem domain, such as more efficient data augmentation techniques or custom loss functions.
+
+9. **Profiling and Tuning**: Profile your code and identify bottlenecks using tools like TensorFlow Profiler or PyTorch Profiler. Optimize critical sections of code, such as data loading, forward passes, and backward passes, based on profiling results.
+
+By applying these strategies judiciously, you can significantly improve the speed and efficiency of deep learning models, making them more practical for real-world applications.
+
+### What is Log Likelihood and How do you use it as a Loss funtion?
+ The log likelihood is a concept commonly used in statistics and machine learning. It measures the likelihood of a set of observations given a probability distribution and a set of parameters. In the context of a loss function, the negative log likelihood is often used as a component of the overall loss function in probabilistic models, such as those used in logistic regression or neural networks.
+
+To understand how it makes a loss function, consider that in many machine learning algorithms, the goal is to maximize the likelihood of the observed data given the model parameters. However, maximizing the likelihood directly can be complex, so instead, the negative log likelihood is minimized. This is mathematically equivalent to maximizing the likelihood and has some computational and theoretical advantages.
+
+By minimizing the negative log likelihood, the model is essentially being trained to produce high probabilities for the observed data. In other words, the model is penalized when it assigns low probabilities to the observed outcomes. This aligns with the goal of many machine learning tasks, which is to find model parameters that best explain the observed data.
+
+In summary, the log likelihood is a measure of the likelihood of observed data given a model, and using the negative log likelihood as a component of the loss function in machine learning allows for effective training of probabilistic models.  
+
+
+**Notes:**
+
+- **Why use Max Pooling instead of Average Pooling?**
+  - Features tend to encode the spatial presence of patterns or concepts across different tiles of the feature map.
+  - Max pooling captures the maximal presence of different features, which is more informative than their average presence.
+
+- **Use of Pooling after Convolution:**
+  - Pooling is typically used after convolution to reduce the spatial dimensions of the feature maps, which helps in controlling overfitting and reducing computational complexity while retaining the most relevant information.
+
+**Table for Problem Type, Last-layer Activation, and Loss Function:**
+
+| Problem Type     | Last-layer Activation | Loss Function      |
+|------------------|-----------------------|--------------------|
+| Image Classification | Softmax               | Categorical Crossentropy |
+| Object Detection    | Sigmoid (for binary classification) or Softmax (for multi-class classification) | Binary Crossentropy or Categorical Crossentropy |
+| Image Segmentation  | Softmax               | Categorical Crossentropy |
+| Sequence Classification (e.g., Sentiment Analysis) | Sigmoid (for binary classification) or Softmax (for multi-class classification) | Binary Crossentropy or Categorical Crossentropy |
+| Sequence Generation (e.g., Language Modeling)      | Softmax               | Categorical Crossentropy |
+| Regression (e.g., predicting house prices)         | Linear                | Mean Squared Error   |
+| Time Series Forecasting                           | Linear or Tanh        | Mean Squared Error or Mean Absolute Error |
+
+**Data Preprocessing Steps:**
+1. Read the picture files.
+2. Decode the JPEG content to RGB grids of pixels.
+3. Convert these into floating-point tensors.
+4. Rescale the pixel values (between 0 and 255) to the [0, 1] interval.
+
+Keras utilities can handle these steps automatically, particularly through the `ImageDataGenerator` class in `keras.preprocessing.image`.
+
+```python
+from keras.preprocessing.image import ImageDataGenerator
+
+train_datagen = ImageDataGenerator(rescale=1./255)
+test_datagen = ImageDataGenerator(rescale=1./255)
+
+train_generator = train_datagen.flow_from_directory(
+    train_dir,
+    target_size=(150, 150),
+    batch_size=20,
+    class_mode='binary'
+)
+
+validation_generator = test_datagen.flow_from_directory(
+    validation_dir,
+    target_size=(150, 150),
+    batch_size=20,
+    class_mode='binary'
+)
+```
+
+Note: In the provided code snippet, images are rescaled by 1/255 to normalize pixel values, and they are resized to 150x150 dimensions. The `class_mode` parameter is set to `'binary'` because the loss function used is `binary_crossentropy`, indicating binary classification.
+
+
+
 Few openCV algorithms, about edge detection, circle detection, contour, threshold, masking particular region
 
 Date: 02-05-2023
