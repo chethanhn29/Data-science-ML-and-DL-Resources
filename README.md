@@ -99,7 +99,21 @@
 - [Free Computer Vision Tutorials With Notebooks](https://github.com/roboflow/notebooks)
 
 
+[ML Youtube links for different skills](https://github.com/dair-ai/ML-YouTube-Courses)
 
+## [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained)
+
+## [Ml and NLP ,LLm,CV Notebooks](https://github.com/dair-ai/ML-Notebooks)
+
+## [To Know all about Transforrmers](https://github.com/dair-ai/Transformers-Recipe)
+
+## [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+
+## [project-based-learning](https://github.com/practical-tutorials/project-based-learning#python)
+
+## [Google DeepMind Learning Resources](https://www.youtube.com/playlist?list=PLqYmG7hTraZCRwoyGxvQkqVrZgDQi4m-5)
+
+## [ML Ops Course](https://github.com/GokuMohandas/Made-With-ML)
 
 
 
