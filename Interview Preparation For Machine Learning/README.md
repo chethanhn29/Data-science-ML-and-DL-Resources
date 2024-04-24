@@ -1,15 +1,15 @@
  Here's a list of topics that you should learn in machine learning:
 
-Probability and statistics
-Linear algebra
-Calculus
-Data preprocessing
-Regression
-Classification
-Clustering
-Dimensionality reduction
-Ensemble learning
-Deep learning
+- Probability and statistics
+- Linear algebra
+- Calculus
+- Data preprocessing
+- Regression
+- Classification
+- Clustering
+- Dimensionality reduction
+- Ensemble learning
+- Deep learning
 Let's go through each of these topics one by one:
 
 ## Probability and statistics:
