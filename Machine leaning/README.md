@@ -19,9 +19,11 @@
 
 Machine learning (ML) is a subfield of artificial intelligence (AI) that involves training algorithms to automatically learn patterns from data, without being explicitly programmed.
 
+
 ## Courses
 - [Stanford CS229: Machine Learning Course | Summer 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
 - [Stanford Course (CS231n 2017 Summary)](https://github.com/mbadry1/CS231n-2017-Summary)
+- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) - A free online course on the basics of machine learning.
 
 ## Notes and Videos
 - [Andrew NG Notes on ML](https://github.com/ashishpatel26/Andrew-NG-Notes)
@@ -29,6 +31,7 @@ Machine learning (ML) is a subfield of artificial intelligence (AI) that involve
 - [ML, DL, NLP Youtube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 - [Feature Engineering](https://github.com/ashishpatel26/Amazing-Feature-Engineering)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Python Machine Learning book](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939) - A book on machine learning with Python and Scikit-learn.
 
 ## ML Algorithms Implementation
 - [All algorithms implemented on Python](https://github.com/TheAlgorithms/Python)

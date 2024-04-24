@@ -12,6 +12,9 @@
 
 ### Python Code Tutorials
 - [Python Code Tutorials](https://github.com/x4nth055/pythoncode-tutorials) - Python code for various projects including CNN, NLP, and web programming.
+- [Python Crash Course](https://www.youtube.com/watch?v=_Oy3WUHqIpk&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - A free video course on the basics of Python programming language.
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/) - An online book that teaches the basics of Python through a series of exercises.
+- [Codecademy's Python Course](https://www.codecademy.com/learn/learn-python-3) - A comprehensive Python course that covers the basics of the language.
 
 ### Python Assignments for the Machine Learning Class by Andrew Ng on Coursera
 - [ML Coursera Python Assignments](https://github.com/dibgerge/ml-coursera-python-assignments)

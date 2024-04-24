@@ -21,6 +21,7 @@ One of the key advantages of deep learning is its ability to learn from large am
 - [CS231n-2017 Summary](https://github.com/mbadry1/CS231n-2017-Summary) - Summary of Stanford's CS231n course that took place in 2017.
 - [Andrew NG Notes on ML](https://github.com/ashishpatel26/Andrew-NG-Notes) - Notes for understanding neural networks, gradient descent, backpropagation, and related math concepts.
 - [ML, DL, NLP Youtube Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Collection of Machine Learning, Deep Learning, and NLP courses available on YouTube.
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - A popular course on deep learning by Andrew Ng.
 
 ### Tutorials and Guides
 - [Practical Deep Learning for Coders from fast.ai](https://course.fast.ai/Lessons/lesson1.html)
@@ -31,6 +32,8 @@ One of the key advantages of deep learning is its ability to learn from large am
 - [Dive into Deep Learning Book by Stanford University](https://c.d2l.ai/gtc2020/)
 - [500 AI Machine learning Deep learning Computer vision NLP Projects with code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 - [A curated list of awesome Deep Learning tutorials, projects and communities](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [PyTorch Tutorial](https://pytorch.org/tutorials/) - Official PyTorch tutorials on deep learning.
+- [Deep Learning Book](https://www.deeplearningbook.org/) - A comprehensive book on deep learning by Ian Goodfellow.
 
 ### Interview Preparation and Revision
 - [Deep learning Interview Prep Video](https://www.youtube.com/watch?v=BAregq0sdyY) - Best video by Freecodecamp for deep learning interview preparation.

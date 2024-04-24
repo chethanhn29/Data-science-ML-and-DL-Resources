@@ -20,7 +20,6 @@ PyTorch Lightning: A lightweight wrapper for PyTorch that simplifies the process
 
 Overall, PyTorch has become a popular tool in the machine learning community due to its flexibility, ease of use, and strong community support. It has been used to build state-of-the-art models in a variety of fields, including computer vision, natural language processing, and reinforcement learning.
 
-
 #### A collection of PyTorch notebooks for learning and practicing deep learning
 https://github.com/dair-ai/pytorch_notebooks
 

@@ -52,10 +52,10 @@
 - [From 0 to Research Scientist Resources Guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
 - [Mathematics for Machine Learning](https://github.com/dair-ai/Mathematics-for-ML)
 
----
+- [Data Analysis with Python](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) - A free video course that covers the basics of data analysis using Python and pandas.
+- [Data Visualization with Python](https://www.youtube.com/watch?v=a9UrKTVEeZA) - A free video course that teaches the basics of data visualization using Python and matplotlib.
 
-## Courses
+## Statistics Courses
 - [Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 - [Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
-## Resources
