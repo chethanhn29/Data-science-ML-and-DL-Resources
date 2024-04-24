@@ -23,20 +23,23 @@
 5. **SQL**
    - [SQL](https://github.com/chethanhn29/Data-science-ML-and-DL-Resources/tree/main/SQL)
 
-6. **Cloud Computing**
+6. **[Tableau](https://github.com/chethanhn29/Data-science-ML-and-DL-Resources/tree/main/Tableau)**
+
+
+7. **Cloud Computing**
    - [Cloud Computing](https://github.com/chethanhn29/Data-science-ML-and-DL-Resources/tree/main/Cloud_Computing)
 
-7. **[Web Development](https://github.com/chethanhn29/Data-science-ML-and-DL-Resources/tree/main/Web_development)**
+8. **[Web Development](https://github.com/chethanhn29/Data-science-ML-and-DL-Resources/tree/main/Web_development)**
    - Flask
    - FastAPI
 
-8. **Version Control**
+9. **Version Control**
    - [GIT](https://github.com/chethanhn29/Data-science-ML-and-DL-Resources/tree/main/Git)
 
-9. **Interview Preparation**
+10. **Interview Preparation**
    - [Interview Preperation](https://github.com/chethanhn29/Data-science-ML-and-DL-Resources/tree/main/Interview_preparation)
 
-10. **Operating Systems**
+11. **Operating Systems**
    - [Linux](https://github.com/chethanhn29/Data-science-ML-and-DL-Resources/tree/main/Linux)
      
 11. **Others**
