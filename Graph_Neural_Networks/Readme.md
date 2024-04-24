@@ -13,4 +13,5 @@ GNNs have been used in a variety of applications, such as social network analysi
 Some popular GNN architectures include Graph Convolutional Networks (GCNs), Graph Attention Networks (GATs), and GraphSAGE.
 
 #### A study guide to learn about Graph Neural Networks (GNNs)
-https://github.com/dair-ai/GNNs-Recipe  
+- https://github.com/dair-ai/GNNs-Recipe  
+- https://github.com/dair-ai/Mathematics-for-ML
