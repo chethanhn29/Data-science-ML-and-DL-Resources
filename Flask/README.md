@@ -1,38 +1,4 @@
-
-# Table of Contents
-
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Features](#features)
-- [Usage](#usage)
-- [FAQ](#faq)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-...
-
-## Getting Started
-
-...
-
-## Features
-
-...
-
-## Usage
-
-...
-
-## FAQ
-
-...
-
-## Contributing
-
-...
-
-## License
-
-...
+## FastAPI
+- [Official Documentaion](https://fastapi.tiangolo.com/)
+- [Krish Naik Youtube Tutorial](https://www.youtube.com/watch?v=WU65u9d-97c)
+- [Realpython Fastapi Article](https://realpython.com/fastapi-python-web-apis/)
