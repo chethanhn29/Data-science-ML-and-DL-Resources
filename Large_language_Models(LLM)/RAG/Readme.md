@@ -1,4 +1,4 @@
-### [RAG From Sratch by langchian code walkthrough](https://github.com/langchain-ai/rag-from-scratch/tree/main)
+### [RAG From Sratch by langchain code walkthrough](https://github.com/langchain-ai/rag-from-scratch/tree/main)
 ![alt text](<Screenshot (90).png>) 
 ![alt text](<Screenshot (91).png>)
 ![alt text](<Screenshot (92).png>) 
