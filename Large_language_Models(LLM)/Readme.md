@@ -22,6 +22,7 @@
 ### Courses
 - [LLM Bootcamp Spring 2023: Prompt Engineering](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/prompt-engineering/)
 - [Deeplearning.ai short courses on LLM](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+- [LLM  Course by mlbabonne](https://github.com/mlabonne/llm-course)
 - [Nvidia LLM Course](https://www.nvidia.com/en-in/training/)
 - [Weights and Bias LLM Courses](https://www.wandb.courses/pages/w-b-courses), [2](https://www.wandb.courses/courses/building-llm-powered-apps), [W&B Finetuning](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
 - [Generative AI & Large Language Models Courses by aciveloop](https://learn.activeloop.ai/)
