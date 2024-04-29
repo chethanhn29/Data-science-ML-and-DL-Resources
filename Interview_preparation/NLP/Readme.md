@@ -3,7 +3,7 @@
 This repository contains a curated list of resources to help you prepare for various types of interviews, including HR interviews, technical interviews for Python, Data Science, SQL, Statistics, and more.
 
 ## Data Science and Machine Learning Interview Preparation
-
+### [overview-of-rnn-lstm-and-attention-mechanism](https://medium.com/swlh/a-simple-overview-of-rnn-lstm-and-attention-mechanism-9e844763d07b)
 ### Deep Learning Resources:
 - [DeepLearning.ai Summary](https://github.com/mbadry1/DeepLearning.ai-Summary)
 - [CS231n 2017 Summary](https://github.com/mbadry1/CS231n-2017-Summary)
