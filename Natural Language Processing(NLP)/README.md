@@ -37,13 +37,13 @@ NLP involves a range of techniques, including statistical models, rule-based mod
 
 ### Resources for CNN, ML, NLP
 - [GitHub Repository](https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022) - This repository offers a goldmine of materials for computer vision, natural language processing, and machine learning operations.
-
+- [To Know all about Transformers](https://github.com/dair-ai/Transformers-Recipe)
 ### Curated List of Papers on NLP
 - [GitHub Repository](https://github.com/dair-ai/nlp_paper_summaries)
 
 ### Notebooks 
 - [GitHub Repository](https://github.com/dair-ai/Mathematics-for-ML)
-
+- [Ml and NLP ,LLm,CV Notebooks](https://github.com/dair-ai/ML-Notebooks)
 
 # Transformers
 

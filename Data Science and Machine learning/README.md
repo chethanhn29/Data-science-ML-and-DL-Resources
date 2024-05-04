@@ -18,14 +18,14 @@
 ## Data Science Roadmap for ML, DL, NLP, Python, CNN, MLOps
 - [God-Level Data Science ML Full Stack](https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack) - Everything you need to know for data science.
 - [Data Science ML Alpha 2022](https://github.com/hemansnation/Data-Science-ML-Alpha-2022)
-
+[ML Youtube links for different skills](https://github.com/dair-ai/ML-YouTube-Courses)
 ## List of Data Science and Machine Learning Resources
 - [Data Science and Machine Learning Resources](https://github.com/nishitpatel01/Data-Science-and-Machine-Learning-Resources) - List of resources for ML, statistics, DL, probability, NLP, data visualization, algorithms.
-
+- [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained)
 ## Data Science and Machine Learning Projects
 - [Data Science and Machine Learning Projects Dojo](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo) - Collections of Data Science & ML projects and dojo where you can practice various skills related to DS, ML, DL, and data visualization.
 - [Data Scientist in Python](https://github.com/AnshuTrivedi/Data-Scientist-In-Python)
-
+- [Ml and NLP ,LLm,CV Notebooks](https://github.com/dair-ai/ML-Notebooks)
 ## Data Science Process and Model Building
 - [Data Science Process](https://resources.experfy.com/bigdata-cloud/the-data-science-process/)
 - [Regression Model Building in Python](https://resources.experfy.com/bigdata-cloud/how-to-build-a-regression-model-in-python/)

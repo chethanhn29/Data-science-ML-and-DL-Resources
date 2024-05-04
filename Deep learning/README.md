@@ -22,10 +22,16 @@ One of the key advantages of deep learning is its ability to learn from large am
 - [Andrew NG Notes on ML](https://github.com/ashishpatel26/Andrew-NG-Notes) - Notes for understanding neural networks, gradient descent, backpropagation, and related math concepts.
 - [ML, DL, NLP Youtube Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Collection of Machine Learning, Deep Learning, and NLP courses available on YouTube.
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - A popular course on deep learning by Andrew Ng.
-
+- [Dive into Deep Learning Book by Stanford University](https://d2l.ai/d2l-en.pdf)
+- [Deep Learning Practical By Uvadlc](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial3/Activation_Functions.html)
+- [Dive into Deep Learning in 1 Day by Stanford University](https://c.d2l.ai/odsc2019/)
+- [Youtube links for different skills](https://github.com/dair-ai/ML-YouTube-Courses)
 ### Tutorials and Guides
 - [Practical Deep Learning for Coders from fast.ai](https://course.fast.ai/Lessons/lesson1.html)
 - [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/course-content/setting-up-machine-learning-projects/metrics)
+- [Stanford Notes](https://cs.stanford.edu/people/eroberts/courses/soco/projects/neural-networks/Neuron/index.html)
+- [Dive Deep Into Deep learning Book By Stanford](https://d2l.ai/d2l-en.pdf)
+- [Stanford University Courses Books](https://courses.d2l.ai/)
 
 ### Books and Repositories
 - [Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf)
@@ -34,6 +40,7 @@ One of the key advantages of deep learning is its ability to learn from large am
 - [A curated list of awesome Deep Learning tutorials, projects and communities](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [PyTorch Tutorial](https://pytorch.org/tutorials/) - Official PyTorch tutorials on deep learning.
 - [Deep Learning Book](https://www.deeplearningbook.org/) - A comprehensive book on deep learning by Ian Goodfellow.
+- [Ml and NLP ,LLm,CV Notebooks](https://github.com/dair-ai/ML-Notebooks)
 
 ### Interview Preparation and Revision
 - [Deep learning Interview Prep Video](https://www.youtube.com/watch?v=BAregq0sdyY) - Best video by Freecodecamp for deep learning interview preparation.

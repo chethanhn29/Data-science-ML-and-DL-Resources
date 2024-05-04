@@ -29,7 +29,9 @@ CNNs have been shown to achieve state-of-the-art performance on a wide range of 
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
 - [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision.
 - [ResourceBank CV NLP MLOPS 2022](https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022) - A goldmine of materials for computer vision, natural language processing, and machine learning operations.
-
+- [A curated list of deep learning resources for computer vision](https://github.com/kjw0612/awesome-deep-vision)
+- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+[Youtube links for different skills](https://github.com/dair-ai/ML-YouTube-Courses)
 ## Computer Vision Use Cases
 
 - [Industry Use Cases](https://github.com/ashishpatel26/Computer-Vision-Industry-Use-Cases) - Useful for interview preparation and understanding CNN applications.
@@ -46,7 +48,8 @@ CNNs have been shown to achieve state-of-the-art performance on a wide range of 
 - [Computer Vision Industry Use Cases](https://github.com/ashishpatel26/Computer-Vision-Industry-Use-Cases) - Useful for interview preparation and understanding real-world applications of CNN.
 - [Flower Classification using CNN](https://copyassignment.com/flower-classification-using-cnn/) - Explanation of CNN working with code.
 - [Facial Keypoint Detection, Image Captioning, Landmark Detection & Robot Tracking](https://github.com/AnshuTrivedi/Computer-Vision-nanodegree-projects) - Projects completed in computer vision nanodegree.
-
+- [Free Computer Vision Tutorials With Notebooks](https://github.com/roboflow/notebooks)
+- [Ml and NLP ,LLm,CV Notebooks](https://github.com/dair-ai/ML-Notebooks)
 
 ## Notebooks and Explanations
 
@@ -69,11 +72,17 @@ CNNs have been shown to achieve state-of-the-art performance on a wide range of 
 - [Computer Vision Interview Preparation](https://github.com/Praveen76/Computer-Vision-Interview-Preparation/tree/main)
 - [ML Stack Cafe: Computer Vision Interview Questions](https://www.mlstack.cafe/blog/computer-vision-interview-questions)
 
+
+
 ## Research Papers and Summaries
 
 - [Deep Learning for Tracking and Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 - [CS231n Course Summary](https://github.com/mbadry1/CS231n-2017-Summary) - Also includes main course page and explanations for CNN.
 - [Dive Deep Into Deep Learning Book by Stanford](https://d2l.ai/d2l-en.pdf)
+- [CV Papers](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
+- [Main Page of cs231](https://cs231n.github.io/)
+- [2 cs231 Explanation for CNN](https://cs231n.github.io/convolutional-networks/#norm)
+- [Deep CV](https://dair-ai.notion.site/Lecture-3-Deep-Computer-Vision-e43a17b50f7e4b5f8393c070b22340a3)
 
 ## Deep Learning and Computer Vision
 
@@ -98,5 +107,7 @@ Object detection is a computer vision technique used to locate and identify obje
 For papers and resources on object tracking and detection using deep learning, visit [ashishpatel26/Deep-Learning-for-Tracking-and-Detection](https://github.com/ashishpatel26/Deep-Learning-for-Tracking-and-Detection).
 
 
+## Object Tracking and Detection Resources
 
+- [Resources for object tracking and detection using deep learning](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
