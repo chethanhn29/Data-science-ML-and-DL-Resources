@@ -1,1 +1,2 @@
-
+- [Deep learning book by Ian Goodfellow and Yoshua Bengio](https://www.deeplearningbook.org/)
+- [Dive deep into Deeplearning](https://d2l.ai/)
