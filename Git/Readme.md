@@ -1,12 +1,10 @@
 # Git Bash Commands
 
-## [For more commands](https://dzone.com/articles/top-20-git-commands-with-examples),[and this ](https://opensource.com/article/18/2/how-clone-modify-add-delete-git-files)
-
-### [Git Docs](https://git-scm.com/doc)
-
-## [Git tutorials from official doc](https://git-scm.com/docs/gittutorial)
-## [Undo the things of 1 file after commited](https://stackoverflow.com/questions/692246/undo-working-copy-modifications-of-one-file-in-git)
-
+- [For more commands](https://dzone.com/articles/top-20-git-commands-with-examples),[and this ](https://opensource.com/article/18/2/how-clone-modify-add-delete-git-files)
+- [Git Docs](https://git-scm.com/doc)
+- [Git tutorials from official doc](https://git-scm.com/docs/gittutorial)
+- [Undo the things of 1 file after commited](https://stackoverflow.com/questions/692246/undo-working-copy-modifications-of-one-file-in-git)
+- [Git from scratch Article](https://medium.com/@jake.page91/the-guide-to-git-i-never-had-a89048d4703a)
 ## Clone the Repository
 
 To clone the GitHub repository where you want to create the README file, use the following command:
