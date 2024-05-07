@@ -1,1 +1,2 @@
-[ML Ops Course](https://github.com/GokuMohandas/Made-With-ML)
+- [ML Ops Course](https://github.com/GokuMohandas/Made-With-ML)
+- [Datatalks MLops Zoomcamp in 9 weeks](https://datatalks.club/blog/mlops-zoomcamp.html),[Github Repo](https://github.com/DataTalksClub/mlops-zoomcamp)
