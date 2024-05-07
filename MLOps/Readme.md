@@ -1,2 +1,5 @@
 - [ML Ops Course](https://github.com/GokuMohandas/Made-With-ML)
 - [Datatalks MLops Zoomcamp in 9 weeks](https://datatalks.club/blog/mlops-zoomcamp.html),[Github Repo](https://github.com/DataTalksClub/mlops-zoomcamp)
+- [HarvardX: MLOps for Scaling TinyML](https://www.edx.org/learn/tinyml/harvard-university-mlops-for-scaling-tinyml?irclickid=VoBUeA0cMxyKRmjQ-BUVMUvcUkHT-8R1%3ATNdTU0&utm_source=affiliate&utm_medium=Class%20Central&utm_campaign=Harvard%27s%20Computer%20Science%20for%20Python%20Programming_&utm_content=TEXT_LINK&irgwc=1)
+- [MLOps | Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke)
+- [Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
