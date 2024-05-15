@@ -1,4 +1,4 @@
-Certainly! Dropout is a regularization technique commonly used in deep learning to prevent overfitting. It works by randomly setting a fraction of input units to zero during training, effectively "dropping out" those units along with their connections. This prevents units in the network from co-adapting too much and forces the network to learn more robust features.
+Dropout is a regularization technique commonly used in deep learning to prevent overfitting. It works by randomly setting a fraction of input units to zero during training, effectively "dropping out" those units along with their connections. This prevents units in the network from co-adapting too much and forces the network to learn more robust features.
 
 ### How Dropout Works:
 
