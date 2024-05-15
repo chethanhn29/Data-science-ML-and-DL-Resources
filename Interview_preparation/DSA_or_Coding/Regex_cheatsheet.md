@@ -128,7 +128,7 @@
 (matches)  # Output: ['123', '456']
    ```
 
-4. **Find Iter**: `re.finditer()`
+4. **Find Iter**: `re.finditer()
    ```python
    pattern = r'\d+'
    matches = re.finditer(pattern, '123 apples and 456 oranges')
