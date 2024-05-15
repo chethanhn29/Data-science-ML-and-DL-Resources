@@ -154,6 +154,33 @@ r2 = r2_score(y_test,y_pred)
 print(r2)
 
 ```
+### What is R²?
+R² is a statistical measure that represents the proportion of the variance for a dependent variable that's explained by an independent variable or variables in a regression model. Essentially, it indicates how well the data points fit the regression line.
+
+### Interpreting R²
+
+1. **R² = 0**:
+   - When the R² score is zero, it means that the regression line does not explain any of the variance in the dependent variable.
+   - This is equivalent to the mean line (the horizontal line at the average value of the dependent variable) being just as good at predicting the dependent variable as the regression line.
+   - **Implication**: The model's performance is poor, and it is not capable of capturing the relationship between the independent and dependent variables. The regression line overlaps with the mean line.
+
+2. **R² = 1**:
+   - An R² score of one indicates that the regression line perfectly explains all the variance in the dependent variable.
+   - This occurs when the regression line passes through every data point without error.
+   - **Implication**: The model's performance is perfect. However, in real-world scenarios, this is highly unlikely because there is almost always some level of noise or variability that the model cannot capture.
+
+3. **0 < R² < 1**:
+   - When the R² score is between zero and one, it indicates that the regression line explains some but not all of the variance in the dependent variable.
+   - **Implication**: The closer the R² score is to one, the better the model is at predicting the dependent variable. Conversely, the closer it is to zero, the worse the model is.
+
+### Summary
+- **R² = 0**: The model does not explain any of the variance in the dependent variable. It is as good as predicting with the mean.
+- **R² = 1**: The model perfectly explains all the variance in the dependent variable, which is an ideal but usually unrealistic scenario.
+- **0 < R² < 1**: The model explains some variance in the dependent variable, and the degree to which it does so improves as R² approaches one.
+
+### Conclusion
+- As the R² score moves towards one, the regression line better fits the data points, indicating improved model performance.
+- A higher R² score signifies that the model is more capable of capturing the variability in the dependent variable, making better predictions.
 
 ### Adjusted R Squared
 The disadvantage of the R2 score is while adding new features in data the R2 score starts increasing or remains constant but it never decreases because It assumes that while adding more data variance of data increases.
