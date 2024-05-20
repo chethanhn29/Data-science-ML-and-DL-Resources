@@ -3,6 +3,7 @@
 
 1. [Python Interview Preparation](#python-interview-preparation)
 2. [DSA (Data Structures and Algorithms) Interview Preparation](#dsa-interview-preparation)
+3. [Data Scientist Interview preparation](https://www.linkedin.com/posts/danleedata_meta-data-scientist-mock-interview-call-activity-7197951952477925376-gRSo?utm_source=share&utm_medium=member_desktop)
 
 
 ## Python Interview Preparation
