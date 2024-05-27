@@ -12,6 +12,7 @@
   - Finally, **you applied the model to make predictions on new cases (this is
   called inference),** hoping that this model will generalize well.
 
+## [ML Interview notes](https://vinija.ai/concepts/fundamentals/)
 ### Main Challenges of Machine Learning
 ####  Bad data
 - insufficient of data
