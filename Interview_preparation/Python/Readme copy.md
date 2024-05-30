@@ -1,17 +1,10 @@
 # Resources for Interview Preparation
 
-This repository contains a curated list of resources to help you prepare for various types of interviews, including HR interviews, technical interviews for Python, Data Science, SQL, Statistics, and more.
-
-## Data Science and Machine Learning Interview Preparation
-
-### Deep Learning Resources:
-- [DeepLearning.ai Summary](https://github.com/mbadry1/DeepLearning.ai-Summary)
-- [CS231n 2017 Summary](https://github.com/mbadry1/CS231n-2017-Summary)
+##### [Learn Python in Y minutes ](https://learnxinyminutes.com/docs/python/)
 
 ### Other Resources:
 - [SQL, Python, and Algorithmic Questions](https://github.com/alexeygrigorev/data-science-interviews/blob/master/technical.md)
 - [Complete Computer Science Study Plan](https://github.com/jwasham/coding-interview-university)
-- [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
 ## Table of Contents
 
