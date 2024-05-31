@@ -3,6 +3,7 @@
 - [Machine Learning  Notes](https://github.com/praj2408/Machine-Learning-Notes/tree/main)
 - [DS Interview Questions1](https://www.youtube.com/watch?v=dBvjBwga8pU&list=PLKnIA16_RmvZTD2oti9S1jDTX7xTC7PSO)
 - [Data Science Interview Preparation](https://www.youtube.com/watch?v=ZcYVdmL8pzI&list=PLKnIA16_RmvZTD2oti9S1jDTX7xTC7PSO&index=2)
+- [Machine Learning Algorithms Notes  ](https://github.com/piyushpathak03/Machine-learning-algorithm-PDF/tree/main)
 ## Hands on Machine learning with scikit learn,keras and tensorflow
   
   - You studied the data.
