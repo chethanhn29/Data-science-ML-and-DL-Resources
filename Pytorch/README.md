@@ -30,7 +30,7 @@ https://github.com/dair-ai/pytorch_notebooks
 - https://www.kaggle.com/code/chethuhn/pytorch-journey-part-2-tensors-to-neural-net
 - https://www.kaggle.com/code/chethuhn/pytorch-journey-part-3-tensors-to-neural-net
 - https://www.kaggle.com/code/chethuhn/pytorch-journey-part-04-tensors-to-neural-net
-
+- https://www.kaggle.com/code/aravindanr22052001/pytorch-tutorial-beginner-to-advance
 ####  Notebooks 
 https://github.com/dair-ai/Mathematics-for-ML
 
