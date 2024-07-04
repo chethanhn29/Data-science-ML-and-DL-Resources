@@ -55,3 +55,6 @@ Note:
 - For dynamic arrays, amortized time complexities for insertion and deletion are O(1)*, but in worst-case scenarios, they can be O(n).
 - In the "Best at" column, I've mentioned the operation at which the data structure performs most efficiently compared to others. In the "Worst at" column, I've mentioned the operation at which the data structure performs less efficiently compared to others.
 
+#### to get the docs of particular inbuilt function of the data structures in python
+print dict.setdefault.__doc__
+D.setdefault(k[,d]) -> D.get(k,d), also set D[k]=d if k not in D
