@@ -1,0 +1,5 @@
+- [Data Scientist Roadmap](https://aigents.co/learn/roadmaps/data-science-roadmap)
+- [Deep learning Roadmap](https://aigents.co/learn/roadmaps/deep-learning-roadmap)
+- [Fundamentals](https://aigents.co/learn/roadmaps/fundamentals)
+- [Machine learning Roadmap](https://aigents.co/learn/roadmaps/machine-learning-roadmap)
+- [Data Engineer](https://aigents.co/learn/roadmaps/data-engineer-roadmap)
