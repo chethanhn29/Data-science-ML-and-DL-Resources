@@ -23,13 +23,20 @@
    - [Llama 2: AI Developers Handbook article by pinecone](https://www.pinecone.io/learn/llama-2/)
    - [RAG Explanation with Examples](https://vitalflux.com/retrieval-augmented-generation-rag-llm-examples/)
   
-4. Projects to work on Gen AI
-   - [Hugging face Cookbook](https://huggingface.co/learn/cookbook/en/index)
-    
-5. Other resources
+4. Projects
+   - to work on Gen AI
+      - [Hugging face Cookbook](https://huggingface.co/learn/cookbook/en/index)
+   - Deep learning projects --keras
+   - [Keras Projects or Tensorflow](https://keras.io/examples/nlp/), [Keras Documentation](https://keras.io/api/),[Developer Guide of Keras](https://keras.io/guides/)
+   - [Understanding Deep learning Book Practical Examples](https://udlbook.github.io/udlbook/)
+   - [Uva Deep learnign Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
+   - [ML and DL Notebooks by dair-ai](https://github.com/dair-ai/ML-Notebooks)
+   - [Ml ,DL,LLM Youtube Courses by dair-ai](https://github.com/dair-ai/ML-YouTube-Courses#llmops-building-real-world-applications-with-large-language-models)
+
+6. Other resources
    - [Tutorials and in-depth explainers on AI tools and concepts. by Pinecone](https://www.pinecone.io/learn/category/deep-dives/)
    - [Learn from artcles by pinecone](https://www.pinecone.io/learn/#missing-manuals)
   
-6. Courses
+7. Courses
    - [mlabonne llm-course](https://github.com/mlabonne/llm-course)
    - 
