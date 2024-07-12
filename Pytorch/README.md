@@ -22,6 +22,8 @@ Overall, PyTorch has become a popular tool in the machine learning community due
 
 #### A collection of PyTorch notebooks for learning and practicing deep learning
 https://github.com/dair-ai/pytorch_notebooks
+### Collection of Pytorch Resources
+https://github.com/ritchieng/the-incredible-pytorch
 
 #### Books 
 - [Deep Learning with PyTorch by Eli Stevens](https://isip.piconepress.com/courses/temple/ece_4822/resources/books/Deep-Learning-with-PyTorch.pdf)
