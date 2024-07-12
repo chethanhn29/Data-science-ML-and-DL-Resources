@@ -27,3 +27,7 @@ https://khuyentran1401.github.io/reproducible-data-science/README.html
 - https://github.com/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization
 - https://github.com/amanchadha/coursera-gan-specialization
 - https://github.com/amanchadha/coursera-deep-learning-specialization
+- https://github.com/EthicalML/awesome-artificial-intelligence-guidelines
+
+https://github.com/leehanchung/awesome-full-stack-machine-learning-courses
+https://github.com/rasbt/deeplearning-models
