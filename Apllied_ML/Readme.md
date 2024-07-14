@@ -29,16 +29,16 @@ https://khuyentran1401.github.io/reproducible-data-science/README.html
 - https://github.com/amanchadha/coursera-deep-learning-specialization
 - https://github.com/EthicalML/awesome-artificial-intelligence-guidelines
 
-https://github.com/leehanchung/awesome-full-stack-machine-learning-courses
-https://github.com/rasbt/deeplearning-models
-https://jalammar.github.io/illustrated-transformer/
+- https://github.com/leehanchung/awesome-full-stack-machine-learning-courses
+- https://github.com/rasbt/deeplearning-models
+- https://jalammar.github.io/illustrated-transformer/
 
-https://jalammar.github.io/illustrated-bert/
-https://jalammar.github.io/illustrated-gpt2/
-https://jalammar.github.io/illustrated-word2vec/
-https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
-https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
-https://github.com/mlabonne/llm-course
-https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/resources
-https://nlpoverview.com/#3
-https://github.com/dair-ai/ML-YouTube-Courses
+- https://jalammar.github.io/illustrated-bert/
+- https://jalammar.github.io/illustrated-gpt2/
+- https://jalammar.github.io/illustrated-word2vec/
+- https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
+- https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
+- https://github.com/mlabonne/llm-course
+- https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/resources
+- https://nlpoverview.com/#3
+- https://github.com/dair-ai/ML-YouTube-Courses
