@@ -26,6 +26,7 @@
 - [Nvidia LLM Course](https://www.nvidia.com/en-in/training/)
 - [Weights and Bias LLM Courses](https://www.wandb.courses/pages/w-b-courses), [2](https://www.wandb.courses/courses/building-llm-powered-apps), [W&B Finetuning](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
 - [Generative AI & Large Language Models Courses by aciveloop](https://learn.activeloop.ai/)
+- [awesome-generative-ai-guide Github Repo](https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main)
 - [Cohere Course](https://docs.cohere.com/docs/the-cohere-platform)
 - [Hugging Face Courses](https://huggingface.co/learn)
   - [OpenSource Cookbook by Hugging face](https://huggingface.co/learn/cookbook/index)
@@ -46,6 +47,7 @@
 ## RAG
 ### Articles
 - [RAG Article](https://stackoverflow.blog/2023/10/18/retrieval-augmented-generation-keeping-llms-relevant-and-current/)
+- [Improving Retrieval Augmented Generation: A Step-by-Step Evaluation of RAG Pipelines](https://www.pondhouse-data.com/blog/evaluate-rag-performance-using-ragas)
 
 ### YouTube Playlists
 - [RAG From Scratch by Langchain](https://www.youtube.com/watch?v=wd7TZ4w1mSw&list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
