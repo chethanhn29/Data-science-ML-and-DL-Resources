@@ -30,7 +30,7 @@
 
 ## Official Python Beginner's Guide:
 [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
-
+- [To learn Oops by pynativ])(https://pynative.com/python/object-oriented-programming/)
 ## FreeCodeCamp.org:
 [FreeCodeCamp.org Python Course](https://www.freecodecamp.org/learn/)
 
