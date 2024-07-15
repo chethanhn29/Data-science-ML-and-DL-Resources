@@ -3,3 +3,4 @@ Refer these notes of DSA - [Google Drive link](https://drive.google.com/drive/fo
 ### [Go through with this link](https://github.com/chethanhn29/Personal-Collection-of-Resources-to-learn/tree/main/Python%20Notebooks/Data_Structructres_and_Algorithms)
 
 ### Refer this for OOPs Concepts(https://pynative.com/python/object-oriented-programming/)
+### [To Learn Python - pythonlikeyoumeanit](https://www.pythonlikeyoumeanit.com/)
