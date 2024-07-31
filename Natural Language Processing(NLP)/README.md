@@ -41,6 +41,10 @@ NLP involves a range of techniques, including statistical models, rule-based mod
 ### Curated List of Papers on NLP
 - [GitHub Repository](https://github.com/dair-ai/nlp_paper_summaries)
 
+### Intercative lecture Notes on NLP 
+
+https://lena-voita.github.io/nlp_course.html#main_page_content
+
 ### Notebooks 
 - [GitHub Repository](https://github.com/dair-ai/Mathematics-for-ML)
 - [Ml and NLP ,LLm,CV Notebooks](https://github.com/dair-ai/ML-Notebooks)
